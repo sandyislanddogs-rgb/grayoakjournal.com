@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Decision Fatigue Is Real. And So Is My Relationship With Reality TV | Gray Oak Journal</title>
+  <meta name="description" content="Decision fatigue is not a personal failure. It is an occupational reality. A veterinarian's honest look at cognitive depletion, recovery, and why The Real Housewives counts as self-care." />
+  <meta name="keywords" content="decision fatigue, veterinary burnout, mental health, leadership, recovery, veterinary wellness, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Decision Fatigue Is Real. And So Is My Relationship With Reality TV | Gray Oak Journal" />
+  <meta property="og:description" content="Decision fatigue is not a personal failure. It is an occupational reality. A veterinarian's honest look at cognitive depletion, recovery, and why The Real Housewives counts as self-care." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/decision-fatigue/" />
+  <meta property="og:image" content="https://grayoakjournal.com/cozy-canine.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Decision Fatigue Is Real. And So Is My Relationship With Reality TV" />
+  <meta name="twitter:description" content="Decision fatigue is not a personal failure. It is an occupational reality. A veterinarian's honest look at cognitive depletion, recovery, and why The Real Housewives counts as self-care." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/cozy-canine.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/decision-fatigue/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../cozy-canine.jpg" alt="Woman relaxing on couch with golden retriever" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Culture</span>
+      <h1>Decision Fatigue Is Real. And So Is My Relationship With Reality TV</h1>
+      <p class="article-meta">March 18, 2026 &nbsp;·&nbsp; 14 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>As a veterinarian, my day is a relentless parade of <strong>decisions</strong>. Medical decisions. Client decisions. Team decisions. Financial decisions. Ethical decisions.</p>
+
+      <p>And then the <strong>questions</strong>. From clients: What would you do if this was your dog? Is this really necessary? Can we wait? From team members checking on plans and callbacks. From bankers and vendors asking about approvals and emails.</p>
+
+      <p>All of this, before 10 am.</p>
+
+      <p>By the end of the day, it is not just fatigue. It is depletion. Not physical exhaustion, not even emotional exhaustion. It is cognitive exhaustion. Decision fatigue.</p>
+
+      <h2>The Quiet Weight of Constant Decision Making</h2>
+
+      <p>Decision fatigue does not show up dramatically. It shows up when you reread the same sentence three times. It shows up when simple tasks feel unnecessarily complicated, when one more question feels like one too many.</p>
+
+      <p>Because the truth is simple: you do not want to make one more decision.</p>
+
+      <p>In veterinary medicine, this compounds quickly. Our decisions are rarely low stakes. They carry medical, financial, and emotional consequences, and there is no autopilot when you are balancing patient care, client expectations, and team dynamics all at once. You are thinking all day. Not the casual kind of thinking. The kind where the answer matters and someone is waiting for it.</p>
+
+      <h2>The Moment I Realized It</h2>
+
+      <p>There was a moment when I realized this was not just a long day.</p>
+
+      <p>My husband asked a simple question. What do you want for dinner?</p>
+
+      <p>And I froze. Not metaphorically. Completely. Deer in headlights. I could make life and death medical decisions all day long, but I could not decide what to eat.</p>
+
+      <p>That was my moment. That was when I realized I was not just tired. I was depleted.</p>
+
+      <p>Also worth noting: this is a humbling experience for someone who had spent the entire day confidently telling other people what to do.</p>
+
+      <h2>Enter: The Real Housewives</h2>
+
+      <p>Shortly after that, I found my version of recovery. Mindless reality TV in the form of The Real Housewives. New York, Beverly Hills, Salt Lake City. It does not matter.</p>
+
+      <p>No one is asking me to interpret lab work. No one is asking me to make a recommendation. No one's life depends on my next sentence. No one is even making good decisions, which is oddly comforting after a day of trying to make all the right ones.</p>
+
+      <p>It is simple. It is ridiculous. It requires nothing from me. And that is exactly why it works.</p>
+
+      <h2>The Guilt We Need to Drop</h2>
+
+      <p>Somewhere along the way, we picked up the idea that downtime needs to be productive. If you are not learning something, exercising, or improving yourself, you are doing it wrong.</p>
+
+      <p>That is simply not true.</p>
+
+      <p>When your brain has spent the entire day making complex, high-stakes decisions, the most productive thing you can do is let it rest. Not optimize your rest. Not turn it into a project. Just rest. Mindless TV counts. Scrolling counts. Sitting quietly and doing absolutely nothing counts.</p>
+
+      <p>This is not laziness. This is recovery.</p>
+
+      <h2>The Risk No One Talks About Enough</h2>
+
+      <p>When decision fatigue is not acknowledged, we still find ways to cope. The question is not whether we decompress. The question is how.</p>
+
+      <p>In veterinary medicine, the risks are real: substance use, emotional withdrawal, chronic burnout, and compassion fatigue that never quite resets. These are not rare outcomes. They are the predictable result of pushing past depletion without building healthy recovery into the day.</p>
+
+      <p>And we cannot talk about this honestly without naming something heavier. Our profession faces an increased risk of suicide. This is not caused by one thing. It is the accumulation of high responsibility, emotional strain, constant decision making, access, and isolation. When we ignore our limits, we make ourselves more vulnerable than we like to admit.</p>
+
+      <p>This is not about fear. It is about awareness.</p>
+
+      <p>Taking care of your mental bandwidth is not indulgent. In this profession, it is protective. And if you find yourself struggling beyond what rest can fix, reaching out is not weakness. It is good judgment.</p>
+
+      <h2>Recognizing Decision Fatigue in Your Team</h2>
+
+      <p>Decision fatigue is not only a personal experience. It is contagious. And if you are running on empty at the top, look around. Chances are your team is not far behind.</p>
+
+      <p>Decision fatigue has a specific signature in a team, and it is worth knowing the difference between that and a standards or attitude problem, because the surface behavior can look similar even when the cause is very different.</p>
+
+      <p>Decision fatigue in your staff rarely announces itself. It shows up in the small things. Routine tasks that normally take minutes suddenly require three check-ins. A team member who typically moves through the day with ease is visibly stalling. Decisions that should be routine get escalated because the brain, at the end of a long demanding day, is looking for any way to offload another choice. You may notice impulsive decisions made late in the afternoon, not because someone stopped caring, but because they just need to be done deciding. You may notice the same questions being asked repeatedly, not out of laziness, but because a depleted mind stops retaining information the way it normally would. A depleted employee and a defeated employee can look remarkably similar, and knowing which one you are looking at requires paying attention to more than just that moment. Truly empowering your team to make decisions, and building a culture where they feel safe doing so, is a topic that deserves its own full conversation. It is on the way.</p>
+
+      <p>Watch for the emotional signals too. The stoic employee who goes quiet, shuts down, and becomes unreachable is telling you something. So is the employee who bursts into tears when asked a routine question. Neither response is about the moment in front of them. Both are about everything that came before it.</p>
+
+      <p>And this is where the stakes get serious. A depleted team does not just underperform. It makes mistakes. In veterinary medicine, a missed detail, a miscommunication, an overlooked instruction, these are not inconveniences. They have real consequences for patients and clients. Decision fatigue is not just a wellbeing issue. It is a patient safety issue and a practice risk that veterinary leaders cannot afford to ignore.</p>
+
+      <p>That is different from an employee who is disengaged, undertrained, or treating clients as an inconvenience. Those are standards and accountability issues, and they deserve to be treated as such. The cost of that kind of indifference to a practice is its own conversation, and one worth having. If you have not already read <a href="/the-unicorn-in-sensible-shoes/" style="color:var(--accent); text-decoration:none; border-bottom:1px solid var(--accent);">The Unicorn in Sensible Shoes</a>, that is a good place to start.</p>
+
+      <p>Decision fatigue is a capacity issue. Recognizing which one you are looking at matters, because the response is completely different.</p>
+
+      <p>Watch the decision flow. When everyone is deferring upward, when every small call gets escalated, when one person in the building is being pecked to death by a thousand tiny questions, something has broken down. Ask whether this is the established culture of the hospital, or whether one person's need to be needed is creating a bottleneck that drains the whole team.</p>
+
+      <p>That question leads somewhere important. Have you actually empowered your team members to make decisions? Not in theory. In practice. Do they believe they can make a call without negative consequences? Have they been trained properly and given the tools to act with confidence? Because if the answer to any of those is no, the decision fatigue in your building is partly a veterinary leadership problem, not just a staffing one.</p>
+
+      <p>And then there is the employee who asks you, for what feels like the hundred millionth time, how to replace the toner in the printer. At some point the question is no longer about toner.</p>
+
+      <p>How to build a practice that does not funnel every decision through one person is a conversation worth having in full. We will get there.</p>
+
+      <h2>Building a Recovery Culture in Veterinary Leadership</h2>
+
+      <p>You need an off switch. Not someday. Not when things slow down. Daily. And if you are leading a team, that permission is not just for you.</p>
+
+      <p>The best thing you can model for the people around you is that recovery is not weakness. Talk about it openly. Normalize leaving work at work. If your team sees you grinding through depletion and calling it dedication, that is the culture you are building. If they see you protecting your own capacity and encouraging them to do the same, that is a different kind of leadership entirely.</p>
+
+      <p>Maybe the off switch looks like reality TV that asks nothing from you. Maybe it is a walk where no one can reach you, exercise that burns off the static, time with people who do not need you professionally, or quiet, which is wildly underrated. There is no gold standard. There is only one question that matters: does this actually let my brain rest? Encourage your team to find their own answer to that question. Then give them room to actually use it.</p>
+
+      <h2>Give Yourself Some Grace</h2>
+
+      <p>Decision fatigue is not a personal failure. It is an occupational reality. You are not less capable. You are not losing your edge. You are a human being doing cognitively demanding work in a high-stress profession.</p>
+
+      <p>Of course you are tired.</p>
+
+      <p>Some days you are sharp, decisive, and on your game. Some days choosing a Netflix show feels like a commitment. Both can be true.</p>
+
+      <h2>Final Thought</h2>
+
+      <p>We spend our days making decisions for everyone else. At some point, the most important decision becomes this: how am I going to take care of myself when the day is over?</p>
+
+      <p>And as a leader, there is a second question worth sitting with: are the people around me running on empty too?</p>
+
+      <p>Sometimes the answer to both is very simple.</p>
+
+      <blockquote>No more decisions. Just pass the remote.</blockquote>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">— Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>

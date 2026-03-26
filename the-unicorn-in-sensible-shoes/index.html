@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Unicorn in Sensible Shoes | Gray Oak Journal</title>
+  <meta name="description" content="We have become so accustomed to indifferent service that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes." />
+  <meta name="keywords" content="customer service, veterinary practice management, indifferent employees, service standards, hiring, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Unicorn in Sensible Shoes | Gray Oak Journal" />
+  <meta property="og:description" content="We have become so accustomed to indifferent service that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/the-unicorn-in-sensible-shoes/" />
+  <meta property="og:image" content="https://grayoakjournal.com/vet-client-service.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Unicorn in Sensible Shoes" />
+  <meta name="twitter:description" content="We have become so accustomed to indifferent service that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/vet-client-service.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/the-unicorn-in-sensible-shoes/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../vet-client-service.jpg" alt="Veterinary client service interaction" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Practice Management</span>
+      <h1>The Unicorn in Sensible Shoes</h1>
+      <p class="article-meta">March 16, 2026 &nbsp;·&nbsp; 10 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>I recently had a genuinely wonderful shopping experience.</p>
+
+      <p>The sales clerk was proactive, knowledgeable, helpful, and refreshingly sensible. She offered opinions, but not too many. She guided, but did not hover. She was not trying to sell me three extra things, a store credit card, and what felt like partial ownership in the company. She was simply helping me make good decisions.</p>
+
+      <p>As a result, I bought what I came for, plus a few things I had not even considered because her advice was thoughtful and useful.</p>
+
+      <p>I walked out in that rare post-shopping state known as delight.</p>
+
+      <p>And for the next couple of weeks, I told anyone who would listen about this amazing experience.</p>
+
+      <p>Then the glow wore off.</p>
+
+      <p>Because eventually I realized I had not had an extraordinary shopping experience. I had had an appropriate one.</p>
+
+      <p>That was the part that stayed with me. Somewhere along the way, we as consumers lowered the bar so far that basic professionalism, attentiveness, and competence now feel exceptional. We are pleased when someone is engaged. We are impressed when someone follows through. We are almost weirdly grateful when a person in the service industry looks alert, helpful, and mildly interested in solving our problem.</p>
+
+      <p>That should not feel magical. That should feel Tuesday.</p>
+
+      <p>And yet here we are.</p>
+
+      <p>We have become so accustomed to indifferent service, and occasionally downright rude service, that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes.</p>
+
+      <h2>Why Customer Service Standards Have Fallen</h2>
+
+      <p>So why have customer service standards fallen? The short answer is that businesses stopped treating service as a core product and started treating it as a personality bonus, something to admire when it appeared and excuse when it did not. Combine that with high turnover, undertrained managers, and a culture that rewards speed over warmth, and indifference becomes the default. Customers adjusted their expectations downward in response, which made it easier for businesses to stop noticing the gap.</p>
+
+      <p>That cycle is worth breaking.</p>
+
+      <h2>The Three Types of Customer Service Employees</h2>
+
+      <p>As a veterinary hospital owner, I have employed many people in a service-based profession. Veterinary medicine is, of course, medical work. But it is also deeply a service industry, and one where the stakes are high. Clients do not experience your hospital only through your medicine. They experience it through your responsiveness, your tone, your clarity, your empathy, your follow-through, and your willingness to help. The medicine may save the patient. The service often determines whether the client comes back.</p>
+
+      <p>That dynamic is not unique to veterinary practice. It applies to any business where people interact with people.</p>
+
+      <p>After years of hiring, managing, and coaching employees, I have found there are generally three kinds of service people.</p>
+
+      <p>The superstar is warm, engaged, and genuinely enjoys helping people. You can usually spot them in an interview. The rude employee is easier to catch than people expect. References help, prior employers leave clues, and when they do slip through, the behavior surfaces quickly enough to act on.</p>
+
+      <p>But the third type is the most dangerous: the indifferent employee.</p>
+
+      <p>The indifferent employee is rarely dramatic. They are not openly hostile. They are not usually offensive enough to trigger immediate complaints. They are simply underwhelming. Flat. Minimally engaged. Technically present, but not truly helpful. They are the human equivalent of a shrug.</p>
+
+      <p>And that is exactly why they are so damaging.</p>
+
+      <h2>Why Indifferent Customer Service Is More Dangerous Than Rude Service</h2>
+
+      <p>Rude service gets noticed. Indifferent service quietly drains the life out of a business.</p>
+
+      <p>Clients rarely leave over one dramatic moment. More often, they leave by a thousand forgettable interactions. A phone call that sounds rushed. A front desk exchange that feels cold. A question answered without warmth. A concern handled as though it were mildly inconvenient instead of deserving reassurance. No single interaction feels catastrophic, but together they create an unmistakable message: we are here, but we are not especially invested.</p>
+
+      <p>That is the real danger of indifference. It does not repel with force. It erodes with consistency.</p>
+
+      <p>And customers respond accordingly. They stop feeling loyal. They become more price-sensitive. They shop around. They are more easily swayed by convenience, by a competitor, or by one bad online review. Indifference creates clients who are never fully anchored.</p>
+
+      <p>This is where leadership has to stop pretending that service quality is just a matter of hiring a few naturally gifted people and hoping for the best.</p>
+
+      <p>Hope is lovely. It is not a management system.</p>
+
+      <h2>Great Customer Service Does Not Happen by Accident</h2>
+
+      <p>Great customer service is not a personality bonus. It is not something to admire when it appears and excuse when it does not. It is a leadership expectation, a hiring standard, a coaching standard, and when necessary, a disciplinary standard.</p>
+
+      <p>Too many leaders treat service as a soft value. Something nice to mention in meetings. Something that matters if everyone has the time, energy, and favorable alignment of the planets. But service is not extra. It is part of the product.</p>
+
+      <p>In veterinary medicine, the medicine matters deeply. Of course it does. But a client's experience of the practice is shaped just as powerfully by how they are spoken to, how clearly things are explained, how promptly concerns are addressed, and whether anyone seems to genuinely care. If those things are missing, clients do not describe the practice as excellent. They describe it as fine.</p>
+
+      <blockquote>And "fine" is where loyalty goes to die.</blockquote>
+
+      <p>If you are a leader, the service standard in your business is not what you say you value. It is what you are willing to tolerate.</p>
+
+      <p>That is the uncomfortable truth.</p>
+
+      <p>Teams do not learn service standards from posters in the break room or mission statements framed near the coffee machine. They learn them from what leadership notices, what leadership reinforces, what leadership corrects, and what leadership excuses. If an employee is consistently dismissive, vague, disengaged, or unhelpful and nothing happens, then leadership has made the standard clear. Silence is permission.</p>
+
+      <h2>How to Lead, Coach, and Improve Customer Service Standards</h2>
+
+      <p>So what does real leadership around service look like?</p>
+
+      <p>It starts at hiring. Disposition matters as much as skill. Kindness, curiosity, emotional steadiness, genuine helpfulness. Product knowledge can be taught. Processes can be taught. It is much easier to teach someone how to do the job than it is to teach them how to care that the job is done well. You are not just filling a role. You are selecting for values.</p>
+
+      <p>But hiring well is only the beginning. Once someone is in the building, leadership has to define what excellent service actually looks like in observable, specific terms. "Be nicer" is not coaching. "Greet the client warmly, answer the question directly, make eye contact, clarify next steps, and offer one additional helpful thought" is coaching. Vague standards produce vague performance, and vague performance is just indifference with better intentions.</p>
+
+      <p>Then you have to pay attention. You cannot lead what you do not inspect. Listen to phone calls. Read client communications. Watch front-desk interactions. Check social media reviews and online feedback to see what clients are saying when they are outside your building. Too many leaders avoid this because they do not want to seem critical. But early coaching is far kinder than delayed frustration, for everyone.</p>
+
+      <p>And look at what you are recognizing. If your only praise goes to the fastest employee, do not be surprised when thoughtful service disappears. People repeat what gets noticed. If you celebrate efficiency and ignore empathy, you will get a very brisk, very forgettable business.</p>
+
+      <p>Finally, have the courage to correct indifference when coaching has not moved it. Not every service issue is a training issue. Some are effort issues. Some are attitude issues. Some are a values mismatch that no amount of feedback is going to fix. If an employee has been shown the standard, coached clearly, supported appropriately, and still chooses indifference, that is no longer a development opportunity. It is a performance problem, and it deserves to be treated as one.</p>
+
+      <h2>Leadership and Accountability in Customer Service</h2>
+
+      <p>This is where many businesses lose their way. They tolerate mediocre customer service because it is not disruptive enough to force action. The employee is not openly rude. They are not creating scenes. They are just consistently underdelivering. But underdelivering service costs you clients just as surely as bad service does. It simply does it more quietly.</p>
+
+      <p>Leaders have to be willing to say: this is not good enough here.</p>
+
+      <p>That does not mean becoming harsh. It does not mean humiliating people or leading without grace. It means being clear. It means documenting patterns. It means giving direct feedback. It means following up. And yes, sometimes it means letting someone go.</p>
+
+      <p>Because protecting your culture, your clients, and your standards matters more than avoiding an uncomfortable conversation.</p>
+
+      <p>The employee who helped me in that store should not have felt rare. She should have felt normal. But she stood out because so many businesses have allowed the ordinary standard of service to slip into indifference, and customers have adjusted their expectations downward in response.</p>
+
+      <p>That is the part worth challenging.</p>
+
+      <p>We should not be dazzled by basic helpfulness. We should not be grateful for professionalism as though it were some rare and precious gift bestowed upon us by a weary civilization. We should expect it. We should hire for it, coach for it, reward it, and insist on it.</p>
+
+      <p>And in the end, that is the real issue: the service standard in any business is not what leadership hopes for.</p>
+
+      <blockquote>It is what leadership is willing to tolerate.</blockquote>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">— Dr. V<br>The Gray Oak Journal</p>
+
+      <div style="margin-top:3rem; padding-top:2rem; border-top:1px solid var(--rule);">
+        <p class="post-tag">Previous Article</p>
+        <a href="/the-best-veterinarian/" style="font-family:var(--serif); font-size:1.25rem; font-weight:700; color:var(--ink); text-decoration:none; transition:color 0.15s;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--ink)'">&larr; The Best Veterinarian in Town Can Still Lose to a Friendlier Front Desk</a>
+      </div>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
