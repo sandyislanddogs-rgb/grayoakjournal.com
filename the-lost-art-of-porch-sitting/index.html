@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSVHB9MB6K"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JSVHB9MB6K');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Lost Art of Porch Sitting | Gray Oak Journal</title>
+  <meta name="description" content="Sometimes the most productive thing a leader can do is stop producing long enough to observe what is actually happening. A veterinarian on stillness, awareness, and the discipline of paying attention." />
+  <meta name="keywords" content="veterinary leadership, observation, mindfulness, team management, hospital culture, awareness, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Lost Art of Porch Sitting | Gray Oak Journal" />
+  <meta property="og:description" content="Sometimes the most productive thing a leader can do is stop producing long enough to observe what is actually happening." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/the-lost-art-of-porch-sitting/" />
+  <meta property="og:image" content="https://grayoakjournal.com/sunset-companionship.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Lost Art of Porch Sitting" />
+  <meta name="twitter:description" content="Sometimes the most productive thing a leader can do is stop producing long enough to observe what is actually happening." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/sunset-companionship.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/the-lost-art-of-porch-sitting/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../sunset-companionship.jpg" alt="Person sitting with dog at sunset" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Leadership</span>
+      <h1>The Lost Art of Porch Sitting</h1>
+      <p class="article-subtitle">Sometimes the most productive thing a leader can do is stop producing long enough to observe what is actually happening.</p>
+      <p class="article-meta">April 2, 2026 &nbsp;&middot;&nbsp; 15 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>A few years ago, I insisted on buying chairs for our front porch. Not because we used them. Not because we had some romantic vision of slow evenings and iced tea. Because that is what you do. You have a porch, you buy the chairs. It is basically a law.</p>
+
+      <p>And then we did not sit in them. Not once. Not twice. Not for years.</p>
+
+      <p>One day those chairs caught my eye, and something about the image stopped me. I had created the idea of rest without ever actually practicing it. So I walked outside, sat down, and did something that felt oddly unfamiliar.</p>
+
+      <p>Nothing.</p>
+
+      <p>I just sat. And what I noticed in that stillness was simple and a little uncomfortable. We have stopped giving ourselves permission to observe.</p>
+
+      <p>When you sit on a porch long enough, you start to notice things. Patterns and rhythms. Who walks by and who avoids eye contact. Which dog is going to pee on your new bushes every single time, without fail, as though it is his personal mission and he has trained extensively for it. None of it is dramatic. None of it is loud. But it is incredibly informative. The same principle applies inside your hospital.</p>
+
+      <h2>The Cult of Motion</h2>
+
+      <p>We live in a world that rewards motion. Veterinary medicine is a particularly extreme version of this. We are answering something from the moment we walk in the door, and the volume does not let up until we leave. Clients. Team members. Labs. Phones. Emails. And this is before anyone has had a second cup of coffee. After enough years of operating that way, stillness starts to feel irresponsible. Like falling behind. Like a luxury reserved for people who clearly do not have enough to do.</p>
+
+      <blockquote>Sometimes the most productive thing a leader can do is stop producing long enough to observe what is actually happening.</blockquote>
+
+      <h2>Observation Is More Than Listening</h2>
+
+      <p>Observation in the hospital setting is worth defining, because it goes well beyond listening. Listening is one component, and an important one, but genuine observation is a fuller practice. It is watching who gravitates toward whom and who quietly avoids whom. It is noticing whether your team talks while they work or whether conversation stops the moment a task requires focus, and then asking yourself what that tells you about your culture, your workflows, and your people. It is reading body language in a staff meeting when someone says everything is fine. It is clocking who lights up during certain kinds of work and who is visibly depleted by it. It is the difference between being present in a room and actually seeing what the room is telling you. Most leaders are physically present in their organizations for the majority of their working hours. Far fewer are actually observing.</p>
+
+      <h2>What Stillness Reveals</h2>
+
+      <p>In one of my practices, there was a small desk area that opened directly into the treatment space. From that spot, you could observe everything. If I sat quietly long enough, team members would forget I was there, and what surfaced was unfiltered in a way that no meeting or one-on-one ever produced. I heard frustrations I did not know existed. Small resentments that, left alone, would have become something much harder to fix. And I could see who was actually doing the work versus who was trying to look like they were doing the work. You know the one. Cleaning the same counter surface ten times in a row because that is a far better option than cleaning the poop kennel.</p>
+
+      <p>But I also observed something else. Workarounds people had invented around processes that were not working. A technician who had developed a faster, calmer way to handle a particular kind of intake. A receptionist who had quietly figured out how to de-escalate an anxious client before the situation ever reached the back. None of it was in a training manual. All of it had evolved organically from people who cared enough to solve problems on their own. And I would have missed every bit of it if I had not been sitting still long enough to notice.</p>
+
+      <h2>Observation Is Not Surveillance</h2>
+
+      <p>That is the part of observation that does not get talked about enough. Leaders tend to frame it as surveillance, as catching what is broken. But genuine observation is not about looking for failure. It is about developing a true picture of what is actually happening in your organization, and that picture is almost always more complicated and more interesting than either the best-case or worst-case version you have been carrying around in your head.</p>
+
+      <h2>Being Present Versus Being There</h2>
+
+      <p>Here is the part worth being honest about, though. I was usually still multitasking. Half listening. Half charting. Technically present in the way that a houseplant is present. Which meant I was catching maybe half of what was actually there to catch. That was a mistake. Observation only works when you are genuinely present. And being genuinely present has a way of pulling you out of your own head and dropping you directly into the room. Which is when something uncomfortable tends to happen. You realize how little you have actually been taking in. Not because the information was not there. It was always there. But because you were so busy producing, responding, and moving that you had stopped receiving.</p>
+
+      <p>Truly observing requires intention. Most of us are going through the motions of paying attention without actually doing it. We are physically present but mentally elsewhere, composing our next response, planning our next task, waiting for our turn to speak. That is why someone can introduce themselves and you have lost their name before the sentence is finished. You were never really there for it.</p>
+
+      <h2>The Two Failures of Leadership</h2>
+
+      <p>But there is a second failure that is just as common, and it is the one that quietly does the most damage. A leader can observe clearly, understand exactly what they are seeing, and then do nothing with it. Sometimes that hesitation is conflict avoidance. The behavior is not dramatic enough to force action, the employee is not creating scenes, they are just cleaning the same counter for the fourth time, and addressing it feels like more trouble than it is worth. Until it isn't. Other times the hesitation is closer to ego. Acknowledging what a team member figured out requires admitting that the official process was not the best one, and that is a harder pill for some leaders to swallow than they would like to admit. Both are forms of avoidance. They just wear different clothes.</p>
+
+      <p>That takes a particular kind of confidence to overcome. The willingness to say: you found something better than what I gave you, and we are going to change how we do this because of it. Or equally: this is not acceptable, and we are going to address it directly. That kind of leadership earns something that no onboarding checklist or performance review ever will.</p>
+
+      <h2>The Cost of Not Paying Attention</h2>
+
+      <p>The cost of not doing it is real. What you fail to notice does not go away. It comes back as team conflict, as good people leaving, as the expensive and exhausting process of replacing someone you might have retained if you had simply been paying attention. And there is a quieter cost that is just as real. The employee who solved a problem no one asked them to solve, who improved something on their own initiative and never heard a word about it, does not keep doing that forever. At some point they stop offering. They do the job as written and save their best thinking for somewhere it will be recognized. That is a loss most leaders never see coming because they were never still enough to observe what they had in the first place.</p>
+
+      <h2>Your Clients Are Observing Too</h2>
+
+      <p>This applies beyond your team, too. Clients who are truly observant will hand you the diagnosis if you slow down long enough to receive it. And the ones who struggle to describe what they are seeing still carry observational clues they may not even realize they have. It shows up in how they hesitate, which details they reach for first, what they minimize or gloss over entirely. And then there are the others, bless them, who come in describing "a liquid on the floor, not sure which end, possibly brown." Your job is to listen for the details they do not realize are important. The clinical picture is always sitting somewhere between what is said and what is seen. That particular skill deserves its own conversation, and we will get there in a future article.</p>
+
+      <h2>The Leader Who Cannot Be Still</h2>
+
+      <p>There is a particular kind of leader who is deeply invested in their team and their organization, genuinely cares about the outcome, and still cannot tell you what is actually happening on the floor. Not because they lack curiosity, but because they have trained themselves out of stillness. They are always in motion, always producing, always responding. They have confused activity with awareness, and the gap between what they think is happening and what is actually happening grows without anyone announcing it.</p>
+
+      <p>The porch does not fix that. But the discipline the porch represents does.</p>
+
+      <p>Those chairs on my front porch did not change anything by sitting there. But sitting in them did. It reminded me that stillness is not wasted time. It is where awareness lives. And awareness is what allows you to lead better, diagnose better, and understand your team well enough to actually help them.</p>
+
+      <p>So call it whatever you want. Mindfulness. Presence. Walking the floor. Or just sitting somewhere long enough to observe what is in front of you.</p>
+
+      <blockquote>Because more is happening than you think. You just have to be still long enough to notice it.</blockquote>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
