@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSVHB9MB6K"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JSVHB9MB6K');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lost in Translation | Gray Oak Journal</title>
+  <meta name="description" content="If your client leaves the room confused, it does not matter how correct you were. Clear communication is not a soft skill. It is a clinical skill, a service skill, and a leadership responsibility." />
+  <meta name="keywords" content="client communication, veterinary leadership, exam room communication, patient education, veterinary practice management, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Lost in Translation | Gray Oak Journal" />
+  <meta property="og:description" content="If your client leaves the room confused, it does not matter how correct you were. Clear communication is not a soft skill. It is a clinical skill and a leadership responsibility." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/lost-in-translation/" />
+  <meta property="og:image" content="https://grayoakjournal.com/vet-holding-puppy.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Lost in Translation" />
+  <meta name="twitter:description" content="If your client leaves the room confused, it does not matter how correct you were. Clear communication is not a soft skill. It is a clinical skill and a leadership responsibility." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/vet-holding-puppy.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/lost-in-translation/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../vet-holding-puppy.jpg" alt="Veterinarian gently holding a puppy" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Practice Management</span>
+      <h1>Lost in Translation</h1>
+      <p class="article-subtitle">What a Shih Tzu and a Glass of Milk Can Teach You About Client Communication</p>
+      <p class="article-meta">April 9, 2026 &nbsp;&middot;&nbsp; 16 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>I had a client come in with a litter of Dachshund puppies and a problem.</p>
+
+      <p>The mother dog had refused to nurse, but the client had found a solution. A friend's Shih Tzu had recently whelped her own litter, had milk to spare, and was willing to foster the puppies. Crisis averted. Everyone was fed. The client was relieved but had one remaining concern.</p>
+
+      <p>She wanted to know if the puppies would now be Dachshunds or Shih Tzus.</p>
+
+      <p>My licensed vet tech abruptly left the room, suddenly remembering an urgent matter requiring her immediate attention elsewhere in the building. I could hear her laughing from the hallway.</p>
+
+      <p>I was left alone with my client, who was watching me with genuine worry, waiting for an answer.</p>
+
+      <p>I took a breath. Then I asked her: do you drink cow's milk?</p>
+
+      <p>She said yes.</p>
+
+      <p>I waited.</p>
+
+      <p>She thought about it.</p>
+
+      <p>And then, slowly, something shifted in her expression. The penny dropped. She laughed. We talked through the biology briefly, confirmed the puppies were going to be just fine, very much still Dachshunds, and she left reassured.</p>
+
+      <p>That moment has stayed with me, not because it was funny, though it was, but because of what it required. I could not explain genetics to someone who did not yet understand that nursing does not transfer DNA. I had to find out where she was before I could get her to where she needed to be. The cow's milk question was not condescending. It was a bridge. And building that bridge was my job, not hers.</p>
+
+      <h2>Where Are They, Actually</h2>
+
+      <p>Every client who walks through your door arrives with a different baseline. Some have medical backgrounds and you feel the quiet thrill of a kindred spirit, someone you can finally talk to in medical code without watching their eyes glaze over. Some have Googled their pet's symptoms for three days and arrived with a diagnosis and a grievance. Some have never owned an animal before and are the new puppy parents who send a daily photograph of their dog's stool wanting to know if it's normal. And some, through no fault of their own, are working from an understanding of biology that has some gaps.</p>
+
+      <p>None of that is a character flaw. It is just where they are.</p>
+
+      <p>The problem begins when clinicians assume a shared starting point that does not exist. A client who tells you their dog is eating fine may mean three bites and a slow walk away from the bowl. A client who nods at "keep the incision dry" may go home and decide that only applies to swimming in the creek, not baths. A client who mentions their dog has been vomiting may be describing a single enthusiastic encounter with a patch of backyard grass. These are not careless clients. They are answering your questions honestly, just not in your framework. The gap between what you asked and what they heard is not their failure to listen. It is a shared language problem, and it lands on your side of the exam table to fix.</p>
+
+      <blockquote>Using clinical language is not a sign of expertise. It is often a barrier to it.</blockquote>
+
+      <p>If your client leaves the room confused, it does not matter how correct you were. What matters is that they did not understand you. The goal in an exam room is not to demonstrate how much you know. It is to make sure your client leaves understanding what is happening with their animal and what they need to do about it. Those are not the same thing.</p>
+
+      <h2>Louder Is Not Clearer</h2>
+
+      <p>I watched one of my employees demonstrate how to give a dog an oral liquid medication. She walked the owner through it carefully, showed the technique, explained the steps. The owner looked at her and said she did not understand.</p>
+
+      <p>So my employee repeated herself. Word for word. At a higher volume.</p>
+
+      <p>I want to be clear that this was not a hearing issue. The owner understood every individual word. What she did not understand was the explanation, and the response to her confusion was simply more of the same thing, delivered with greater conviction and increased decibels.</p>
+
+      <p>It would be easy to make that employee the cautionary tale here, but she was not doing anything she had not been taught, either explicitly or by example. She knew the technique. She knew the words. What she had never been shown was how to notice that the words were not landing, stop, and find a different way in. That is not a knowledge gap. That is a communication skill, and it has to be taught like one.</p>
+
+      <p>When a client says they do not understand, the answer is never the same sentence louder. It is a different sentence entirely. It might be a demonstration. It might be a drawing. It might be asking the client to tell you what they heard, so you can find where the gap is and build the bridge from there. Whatever it is, it starts with recognizing that the problem is not the client's ears. It is your approach.</p>
+
+      <p>Finding a different way in also means staying in the conversation long enough to know whether it worked. Check in as you go, not once at the end with a perfunctory "any questions?" but throughout. Does that make sense? Is this helpful? What questions do you have so far? And when they do ask something, answer it without making them feel foolish for not already knowing. The client who asked me about the Shih Tzu puppies was not uninformed about animals. She was uninformed about one specific thing. There is a difference, and the way you respond to the question tells the client whether it is safe to keep asking them.</p>
+
+      <p>Repeat the important things, not because clients are not intelligent, but because they are often anxious, distracted, grieving, or simply processing more than one piece of information at a time. The diagnosis, the medication name, the dosing schedule, the signs to watch for. Say it, confirm it, offer it in writing. That is not redundancy. That is care.</p>
+
+      <h2>What Leaders Have to Do With This</h2>
+
+      <p>Here is where it gets uncomfortable, because the leadership conversation is not only about what your team does in the exam room. It is also about what you modeled before you realized you were modeling anything.</p>
+
+      <p>I said "bland diet" for years. I said it with complete confidence, because to me it meant something specific: boiled chicken and rice, small frequent meals, nothing else, nothing fancy. It felt self-explanatory. It is not. A bland diet to a client might mean the dog's regular food without the usual treat, or scrambled eggs because that feels gentle, or whatever happened to be in the pantry that did not seem particularly exciting. I have no idea how many clients went home and fed their recovering dogs something perfectly well-intentioned and completely wrong, because I used a phrase that felt like an explanation but was actually just a word.</p>
+
+      <p>I said "strict rest" the same way. To me that meant crate rest, leash only for bathroom breaks, no stairs, no jumping, no exceptions. To a client it might mean no dog park, but the couch is fine, or limited activity, interpreted generously. The phrase felt complete. It was not.</p>
+
+      <p>And here is the part that belongs to leadership: if you said "bland diet" for years without defining it, your team learned to say "bland diet" the same way. If you said "strict rest" and moved on, they moved on too. The gap did not start with them. It started with the standard you were setting before you thought of it as a standard.</p>
+
+      <blockquote>That is how communication habits become culture. Not through deliberate policy, but through repetition and example, through what gets said and what gets assumed and what nobody ever thinks to question because everyone in the building already knows what it means. Except the clients.</blockquote>
+
+      <p>So if you want your team to communicate clearly, you have to start by examining your own habits honestly. What phrases do you use that feel like explanations but are actually shorthand? What do you assume clients understand that they probably do not? What does your team hear you say and then repeat, because you said it and that made it the standard?</p>
+
+      <p>It means you hire for it too. Communication skills are not a bonus. They are part of the job description. In an interview, pay attention to how a candidate explains things, not just what they say. Can they take something complex and make it accessible? Do they check for understanding? Do they listen, or do they just wait for their turn to talk? Ask them to explain something to you as they would to a client. The answer will tell you more than their resume did.</p>
+
+      <p>And it means you pay attention once they are in the building. Listen to how your team talks to clients. Sit in on appointments when you can. Read the reviews clients leave when they are safely back in their cars and no longer feel the need to be polite. If clients consistently say they felt rushed, or confused, or like no one really explained what was happening, that is not a client perception problem. That is a communication standard problem, and it belongs to leadership.</p>
+
+      <h2>The Standard You Set</h2>
+
+      <p>The Shih Tzu question was funny. I will not pretend otherwise. But the lesson underneath it is serious.</p>
+
+      <p>Clients come to you with trust. They are handing you their animals, their worry, and often their money, based on the belief that you will not just treat the patient but help them understand what is happening. When they leave confused, that is not their failure. It is ours.</p>
+
+      <p>Clear communication is not a soft skill. It is a clinical skill, a service skill, and a leadership responsibility. It is what separates a client who follows through on a treatment plan from one who does not. It is what separates a client who comes back from one who quietly finds another practice. It is what separates a team that clients trust from a team that clients merely tolerate. If your clients do not understand you, they cannot follow you. And if your team has not been trained to communicate clearly, they will not do it consistently either.</p>
+
+      <blockquote>The standard of communication in your practice is not what you hope happens behind closed exam room doors. It is what you teach, model, and require.</blockquote>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
