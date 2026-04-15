@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSVHB9MB6K"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JSVHB9MB6K');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Family Crest Would Be a Donkey | Gray Oak Journal</title>
+  <meta name="description" content="Stubborn does not need instructions. A veterinarian on recognizing the trait in yourself, understanding why people resist change, and knowing when patience stops being leadership." />
+  <meta name="keywords" content="stubbornness, change management, veterinary leadership, team resistance, accountability, neuroscience, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Family Crest Would Be a Donkey | Gray Oak Journal" />
+  <meta property="og:description" content="Stubborn does not need instructions. A veterinarian on recognizing the trait in yourself, understanding why people resist change, and knowing when patience stops being leadership." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/the-family-crest-had-a-donkey-on-it/" />
+  <meta property="og:image" content="https://grayoakjournal.com/beagle-sleeping.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Family Crest Would Be a Donkey" />
+  <meta name="twitter:description" content="Stubborn does not need instructions. A veterinarian on recognizing the trait in yourself, understanding why people resist change, and knowing when patience stops being leadership." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/beagle-sleeping.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/the-family-crest-had-a-donkey-on-it/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../beagle-sleeping.jpg" alt="Beagle curled up sleeping on a white comforter" style="width:100%;border-radius:4px;aspect-ratio:4/3;object-fit:contain;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Leadership</span>
+      <h1>The Family Crest Would Be a Donkey</h1>
+      <p class="article-subtitle">Stubborn Does Not Need Instructions</p>
+      <p class="article-meta">April 15, 2026 &nbsp;&middot;&nbsp; 14 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>There is a piece of IKEA furniture in my house that I assembled with my family. I use the word "assembled" loosely.</p>
+
+      <p>We spread the pieces across the floor, opened the instruction booklet, got through the first two graphics, and I made the call: we didn't need these. We were capable adults. We could look at the parts and figure it out.</p>
+
+      <p>Reader, we could not figure it out.</p>
+
+      <p>The finished product technically holds things. It is also slightly tilted, which we have collectively decided is character. There is a sandwich bag of leftover hardware on a shelf nearby, the kind of hardware that is probably load-bearing but whose purpose is now lost to history and stubbornness.</p>
+
+      <p>If my family had a crest, it would feature a mule. Possibly flanked by a donkey. Maybe a jackass for good measure. At one point, this trait was reinforced by owning a pair of beagles. Because, of course, stubborn recognizes stubborn and says, yes, let's live together.</p>
+
+      <h2>The Mule Went to Work</h2>
+
+      <p>I called it that day. Everyone followed. Nobody questioned the person who had already decided. We built a slightly wonky cabinet and agreed never to discuss the hardware bag.</p>
+
+      <p>Then I became a leader. And it turns out that the person who confidently ignored the instructions and produced a tilted cabinet is not automatically well-positioned to diagnose stubbornness in others. That took me a little while to figure out.</p>
+
+      <p>You roll out a new protocol. You explain the why. You get the nods, the agreement, the yes, absolutely. And then you turn your back. And everyone quietly goes right back to doing it the old way.</p>
+
+      <p>Because once you recognize the trait in yourself, the lazy version of leadership stops being available. You cannot call someone difficult and close the file. You know too much about what it feels like from the inside. You know it does not feel like defiance. It feels like confidence. It feels like experience. It feels, frankly, like being right.</p>
+
+      <blockquote>Which means the question worth asking is not why are they being stubborn. It is something closer to: what would it actually take to give someone a reason to change their mind?</blockquote>
+
+      <h2>Stubborn Is Not a Character Flaw. It Is a Feature.</h2>
+
+      <p>Here is what neuroscience actually says about stubbornness, and it is more useful than "some people are just difficult."</p>
+
+      <p>The brain is not a passive receiver of information. It is constantly making predictions based on past experience, running a kind of internal model of how the world works and filtering new information through that model. Researchers call this predictive coding. The brain learns what to expect, and then it looks for confirmation. When something contradicts the model, the brain has a choice: update the prediction, or discount the new information.</p>
+
+      <p>Stubborn people, it turns out, are not always choosing rigidity. Sometimes their brains are just very good at discounting.</p>
+
+      <p>This is not a flaw. It is efficiency. A brain that updated its entire operating model every time something unexpected happened would be exhausting to live in. The problem comes when the predictions stop updating at all, when experience hardens into certainty and certainty stops leaving room for evidence.</p>
+
+      <p>That IKEA cabinet was evidence. My brain looked at it, weighed it against a lifetime of confident assembly experiences, and decided the instructions were the problem. The instructions were not the problem.</p>
+
+      <p>Your employee who keeps doing it the old way is running the same calculation. Their experience tells them the old way works. Your new protocol is unproven. Their brain is not being difficult. It is being efficient with incomplete information.</p>
+
+      <p>That distinction matters, because it changes what leadership actually needs to do.</p>
+
+      <h2>Before You Check Them, Check the Change</h2>
+
+      <p>So what does that mean practically, when you are standing in a hospital or an office or a job site watching someone ignore a protocol they agreed to follow?</p>
+
+      <p>It means the first question is not about them. It is about the change itself. Is it actually better? Is it clearly explained? Does it make their day easier or harder? Sometimes the team is not resistant. Sometimes the plan is not that good, and your most stubborn employee is your most honest feedback loop. Check that first, before you check them.</p>
+
+      <p>If the change is solid, then you need to understand what their brain is protecting. Not as an excuse, but as a diagnosis. Are they afraid of looking incompetent while they learn something new? Worried the efficiency this creates makes them less necessary? So comfortable with mastery of the old way that starting over feels like loss? Each of those requires a different response. Lumping them all under "resistant" and pushing harder is the leadership equivalent of ignoring graphic three and hoping the cabinet sorts itself out.</p>
+
+      <p>When you understand what the brain is protecting, you can translate the change into terms it can actually receive. Not "this is the new way" but "this protects you when." Not "we need to modernize" but "this is how we grow without burning you out." People do not resist change as much as they resist what the change means to them. Translate it into their terms and the brain has something to work with.</p>
+
+      <p>Then set a clear expectation with a real timeline, and follow up. Not to catch them failing. To show them it mattered. Because if you do not follow up, you have told them it did not.</p>
+
+      <p>I once had a highly skilled veterinary technician who was not comfortable with technology. I found her spending hours scanning documents into patient records when there was a faster, simpler way to do it. I took the time to show her. Step by step. In her own workflow. I framed it around what it would give back to her day, less time at the scanner, more time doing the work she was actually good at.</p>
+
+      <p>The next time I walked past, she was scanning again.</p>
+
+      <p>Sometimes you do everything right and nothing moves. You have translated the change correctly, given the time, provided the support. And the person returns to the old way as though none of it happened. That is the moment the question changes. You are no longer asking what the brain needs in order to update. You are asking whether this is still a brain that hasn't updated, or a person who has decided not to.</p>
+
+      <p>Those require completely different responses.</p>
+
+      <h2>Would You Hire Them Again</h2>
+
+      <p>Here is where it gets harder.</p>
+
+      <p>Everything above assumes you are dealing with someone whose brain has not updated yet. Someone who needs the right translation, the right support, the right amount of time and clarity. Most stubborn employees live here, and most of them are worth the patience.</p>
+
+      <p>But some are not.</p>
+
+      <p>At some point, continued resistance stops being about the brain's preference for familiar patterns. It becomes a decision. The expectation is clear. The training has been provided. The timeline has passed. And nothing has changed. That is not a neuroscience problem anymore. That is a choice, and it deserves to be treated as one.</p>
+
+      <p>This is where leaders get stuck. The stubborn employee has become familiar. Predictable. Manageable in a low-grade, ongoing sort of way. You have made peace with the wobble. But there is a question worth asking, and it is the most clarifying one I know.</p>
+
+      <blockquote>Knowing what you know now, would you hire them again?</blockquote>
+
+      <p>If the answer is no, you already have your answer. Because what your team sees when you keep someone who has chosen not to meet the standard is not loyalty. It is permission. It tells everyone watching that the expectations are negotiable, the standards are flexible, and leadership will eventually adjust to accommodate whoever holds out longest.</p>
+
+      <p>That is not a culture. That is a slightly wonky cabinet. And you already have one of those.</p>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
