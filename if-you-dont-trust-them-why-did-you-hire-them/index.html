@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42NG42J1DE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-42NG42J1DE');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>If You Don't Trust Them, Why Did You Hire Them? | Gray Oak Journal</title>
+  <meta name="description" content="Why leaders fail to empower employees, and what it costs them. A practical look at hovering, micromanagement, and the bottleneck you built by accident." />
+  <meta name="keywords" content="employee empowerment, micromanagement, veterinary leadership, trust, team building, delegation, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="If You Don't Trust Them, Why Did You Hire Them? | Gray Oak Journal" />
+  <meta property="og:description" content="Why leaders fail to empower employees, and what it costs them. A practical look at hovering, micromanagement, and the bottleneck you built by accident." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/if-you-dont-trust-them-why-did-you-hire-them/" />
+  <meta property="og:image" content="https://grayoakjournal.com/lab-microscope.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="If You Don't Trust Them, Why Did You Hire Them?" />
+  <meta name="twitter:description" content="Why leaders fail to empower employees, and what it costs them. A practical look at hovering, micromanagement, and the bottleneck you built by accident." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/lab-microscope.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/if-you-dont-trust-them-why-did-you-hire-them/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .article-body .formula {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: var(--warm);
+      border-radius: 4px;
+      text-align: center;
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--ink);
+      letter-spacing: 0.02em;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../lab-microscope.jpg" alt="Veterinary technician examining slide under microscope" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Leadership</span>
+      <h1>If You Don't Trust Them, Why Did You Hire Them?</h1>
+      <p class="article-subtitle">Hire great people. Then get out of their way.</p>
+      <p class="article-meta">April 23, 2026 &nbsp;&middot;&nbsp; 16 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>Early in my career, I was fortunate to hire an extraordinary licensed veterinary technician.</p>
+
+      <p>She was the full package. Pleasant, hardworking, self-motivated, patient, knowledgeable, technically excellent, and always willing to help. She loved veterinary medicine and brought real passion to the job. She was the kind of employee every practice hopes to find and keep.</p>
+
+      <p>What made the biggest impression on me was not just how wonderful she was. It was how I got her.</p>
+
+      <p>She had previously worked at another veterinary hospital in town, but only for a couple of weeks. Despite strong references and solid experience, she had been relegated almost entirely to cleaning. Eventually, she was permitted to read fecals, but only under such close supervision that someone was essentially following behind her to double-check every slide.</p>
+
+      <p>I understand the instinct. When someone is new, you want to verify their skills. Training matters. Oversight matters.</p>
+
+      <p>But once someone has demonstrated competence, you have to let them work.</p>
+
+      <p>This particular employee turned out to be one of the most technically gifted microscope technicians I have ever known. She could find things others would miss, including me. Her eye for detail was exceptional.</p>
+
+      <blockquote>She did not need to be managed more. She needed to be trusted more.</blockquote>
+
+      <p>Instead, that hospital kept her on a very short leash. They never really let her step into her full potential.</p>
+
+      <p>So they lost her.</p>
+
+      <p>That was a leadership lesson I learned early. When you fail to empower good employees, they do not stay. First they disengage. Then they burn out. Then they leave. And they usually take their talent somewhere it will be used.</p>
+
+      <h2>Why Leaders Fail to Empower Their Teams</h2>
+
+      <p>If the cost of failing to empower employees is so high, the obvious question is why it happens so often. The answer is that it is almost never one thing, and it is almost never what the leader thinks it is.</p>
+
+      <p>In my years of hospital ownership, leadership coaching, and watching other practices from the outside, I have seen four reasons over and over again. They often overlap. Most leaders are guilty of at least one without realizing it.</p>
+
+      <h2>Reason One: It Is Just Easier to Do It Yourself</h2>
+
+      <p>This is the most sympathetic reason, and also the most damaging over time.</p>
+
+      <p>I grew up watching it happen in my own kitchen. My mother was a great cook. She worked all day, came home, and needed to get dinner on the table on a weeknight schedule. I wanted to learn. She would have been a perfectly good teacher. But teaching me would have doubled the time it took to get dinner out, and everyone was hungry now.</p>
+
+      <p>So she cooked. Every night. For years.</p>
+
+      <p>I am now very good at organizing takeout, and I chose a husband who can cook.</p>
+
+      <p>Nobody decided I would not learn. It just happened, one weeknight at a time, because the short-term math always favored her doing it herself.</p>
+
+      <p>That is exactly what happens in a hospital. A hundred small versions of that same calculation every week. Train the technician on the new protocol or just run it yourself. Explain the scheduling logic to the CSR or just fix the appointment. Walk the new associate through the difficult client conversation or just take the call. Each shortcut saves ten minutes today. None of them fix the underlying problem. Over time they compound into an employee who cannot function without you, or a team that escalates everything, or a leader who is still the bottleneck three years later wondering why nothing has changed.</p>
+
+      <blockquote>Being busy is real. It is not a strategy. It is the thing that makes every other problem worse.</blockquote>
+
+      <p>The leader who is too busy to train today will still be too busy to train in six months, because the investment that would have bought them the time back never gets made.</p>
+
+      <h2>Reason Two: They Never Move Past Verification</h2>
+
+      <p>When a new employee starts, appropriate oversight is a feature, not a flaw. You watch closely. You double-check the work. You ask a lot of questions. That is how you verify competence, and it is how you protect patients, clients, and the employee themselves.</p>
+
+      <p>The problem is that some leaders never update.</p>
+
+      <p>The LVT who came to me had demonstrated competence quickly at her previous hospital. The leadership there simply never stepped back. What started as reasonable new-hire oversight calcified into hovering, and hovering looks the same whether it is week one or week fifty.</p>
+
+      <p>Verification has an expiration date. Once an employee has shown they can do the work, continuing to check behind them is no longer oversight. It is distrust wearing the uniform of diligence.</p>
+
+      <h2>Reason Three: They Need to Be Needed</h2>
+
+      <p>This is the uncomfortable one.</p>
+
+      <p>Some leaders unintentionally create environments where they need to be needed. Every decision runs through them. Every answer comes from them. Nothing moves forward without their input. From the inside, it feels like control. It feels like indispensability. It can even feel like job security.</p>
+
+      <p>From the outside, it looks like a team that will not decide anything.</p>
+
+      <p>The hard truth is that the need to be needed is not strong leadership. It is a form of insecurity dressed up as engagement. Strong leaders do not measure their value by how many decisions flow through them. They measure it by how many capable people can function confidently without them.</p>
+
+      <p>I used to tell my leaders: do not call me unless you are in jail or the hospital is burning down. If there is a true emergency, absolutely loop me in. I want to know. I should know. But if I am constantly needed while you are in charge, then I do not need you in that role.</p>
+
+      <p>Leadership is not about being the center of every decision. It is about building people who can make them.</p>
+
+      <h2>Reason Four: The Systems Were Never Built for Anyone Else to Decide</h2>
+
+      <p>Sometimes the leader is not even the problem. The culture is.</p>
+
+      <p>I spent a short period of time doing relief work years ago, and I remember being genuinely confused in one particular hospital. The culture was to ask a leader for everything. Not emergencies. Not clinical gray areas. Everything. And it was not just the doctors being asked. It was any available manager, lead technician, or senior staff member within arm's reach. Whoever looked most in charge at that moment was the next person interrupted.</p>
+
+      <p>"Did you keep Fluffy's leash when the husband dropped her off this morning? We cannot find it."</p>
+
+      <p>"Mrs. Miller would like a refill on Fred's carprofen. It says two refills, but I just wanted to check."</p>
+
+      <p>Question after question. None of these required clinical judgment, and most did not require leadership judgment either. The leash question did not need a doctor or a manager. It needed a written intake process that specified where client-owned items are stored when a pet is dropped off, and a team trained to follow it. That system would have answered the question before it was ever asked.</p>
+
+      <p>The refill question did not need a doctor's attention either. It needed a clear policy on what counts as an auto-approved refill and what does not, so the CSR could have handled it in thirty seconds instead of interrupting someone else's exam room for a verbal confirmation of something already written on the chart.</p>
+
+      <p>Neither was a people problem. The team was not incompetent and they were not lazy. They had rationally adapted to a building that never defined what they were allowed to decide on their own. In the absence of clear guidelines, the safest move is always to ask someone above you. So that is what they did, all day, every day.</p>
+
+      <p>The fix is not a pep talk about confidence. The fix is written systems, defined decision rights, and the leadership discipline to build those things before the chaos forces you to.</p>
+
+      <h2>What It Looks Like When Empowerment Fails</h2>
+
+      <p>In one of my own hospitals, we had high turnover in the CSR role. That always gets my attention. When one position keeps cycling through people, it is rarely a people problem. It is usually a systems or leadership problem.</p>
+
+      <p>So I observed. I asked questions. I listened to exit interviews.</p>
+
+      <p>We had done several things right. We had set guidelines. We had trained. We had given feedback. On paper, these CSRs should have succeeded.</p>
+
+      <p>But there was one major issue.</p>
+
+      <p>A doctor was micromanaging how the CSRs scheduled appointments for her. She would tell them to make appointments, then later criticize those same decisions as incorrect or redo them herself. She would go behind them, override their choices, and make them feel like they could not win.</p>
+
+      <p>That is not support. That is how you take a capable employee and slowly convince them they are not one.</p>
+
+      <p>I was able to stop one CSR from leaving, but only because we caught it in time. A shift leader noticed that our once-confident CSR was now asking constant questions about simple decisions. When I checked in with her, she confirmed it. The micromanagement had eroded her confidence to the point that she was afraid to make any decision on her own.</p>
+
+      <blockquote>That was not incompetence. That was conditioning. She had learned that every decision might be corrected or undone. So she stopped deciding.</blockquote>
+
+      <p>That is what all four of these reasons produce, eventually. Whether it starts with a leader who is too busy to train, one who never stopped verifying, one who needs to be needed, or a system that routes everything upward, the end state looks the same. Capable people quietly stop acting capable. And then they leave.</p>
+
+      <h2>What Empowerment Actually Requires</h2>
+
+      <p>None of this means hands-off leadership. Empowerment is not throwing people in the deep end and calling it trust. That is abdication, and it fails just as badly in the other direction.</p>
+
+      <p>Empowerment requires structure first, then space. Clear expectations. Thoughtful training. Real feedback. And then enough trust to let people do the job you hired them to do.</p>
+
+      <p>It requires spot-checking instead of hovering. You check a point in time. A sample here, a case there. Not every single one. Spot-checking builds confidence. Constant correction destroys it. And practically speaking, who in veterinary medicine has time to check behind everyone on everything anyway?</p>
+
+      <p>It requires protecting your team's authority once you have given it to them. Nothing undermines an empowered employee faster than watching their decisions get reversed the moment someone else complains.</p>
+
+      <p>And it requires the courage to step back even when stepping in would be faster.</p>
+
+      <p>The LVT I hired early in my career spent years with me. She grew, she taught others, and she made our hospital better in ways that would have been impossible if I had followed her around the microscope double-checking slides.</p>
+
+      <p>Her previous employer thought they were being careful. What they were actually doing was building a reason for her to leave.</p>
+
+      <blockquote>That is the real cost of failing to empower. Not just the employee who walks out the door, but everything that employee would have become if someone had simply let them.</blockquote>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
