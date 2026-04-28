@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42NG42J1DE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-42NG42J1DE');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Tail on the Counter | Gray Oak Journal</title>
+  <meta name="description" content="How strong veterinary leaders teach their teams to prioritize the right work, in the right order, at the right time. Sequence, deadlines, and why the reasoning matters." />
+  <meta name="keywords" content="veterinary leadership, prioritization, team management, practice management, delegation, workflow, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="The Tail on the Counter | Gray Oak Journal" />
+  <meta property="og:description" content="How strong veterinary leaders teach their teams to prioritize the right work, in the right order, at the right time." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/the-tail-on-the-counter/" />
+  <meta property="og:image" content="https://grayoakjournal.com/guardian-dog-watches.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="The Tail on the Counter" />
+  <meta name="twitter:description" content="How strong veterinary leaders teach their teams to prioritize the right work, in the right order, at the right time." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/guardian-dog-watches.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/the-tail-on-the-counter/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../guardian-dog-watches.jpg" alt="Guardian dog watching over sheep" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Practice Management</span>
+      <h1>The Tail on the Counter</h1>
+      <p class="article-subtitle">Your team will complete what is in front of them. The question is whether you have made sure the right thing is at the top of the list.</p>
+      <p class="article-meta">April 28, 2026 &nbsp;&middot;&nbsp; 14 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>A veterinary assistant briefed me on the next case before I walked in. I had seen the appointment pop up on the schedule and was genuinely excited. I had never met an Akbash (Turkish livestock guardian dog) in person, and I was looking forward to it.</p>
+
+      <p>My assistant ran through the visit: vaccines were due, heartworm test needed, a couple of questions about flea prevention. Everything else was good.</p>
+
+      <p>When I walked into the room, one foot of that dog's tail was sitting on the counter in a Ziploc bag.</p>
+
+      <p>The owner mentioned, almost in passing, that the tail had gotten caught in a door earlier in the week.</p>
+
+      <p>I looked at the bag. Then I looked at the dog. He was happily wagging his stump.</p>
+
+      <p>I looked at my assistant. "You didn't lead with this?"</p>
+
+      <p>She hadn't ignored it. She wasn't careless. She had simply led with what was predictable, routine, and easy to categorize. The vaccines required recall. The tail required judgment.</p>
+
+      <blockquote>And that distinction is at the heart of one of the most common and costly problems in any practice: the inability to prioritize not by what feels productive, but by what actually matters most right now.</blockquote>
+
+      <h2>Busy Is Not the Same as Productive</h2>
+
+      <p>In a busy veterinary hospital, the to-do list is never short. Schedules need writing. Inventory needs ordering. Callbacks need making. Client complaints need addressing. The inbox refills the moment you empty it.</p>
+
+      <p>The problem is not that people aren't working. Most teams are working constantly. The problem is that when everything feels urgent, people make prioritization decisions based on something other than actual urgency. They default to what's familiar. What's completable. What feels like forward motion.</p>
+
+      <p>The CSR who spends the morning calling patients whose rabies vaccines are two months overdue is not being lazy. She is doing real work. But if a hospitalized patient discharged the night before still hasn't been checked on by mid-morning, she has spent her morning on the wrong call list. Both feel like follow-up. Only one has a consequence that can't wait.</p>
+
+      <p>The schedule that goes unwritten while someone reorganizes the controlled drug log is the same problem. Inventory that gets audited while a client complaint sits unanswered is the same problem. Legitimate work, wrong order, real cost.</p>
+
+      <p>This is what happens when priority hasn't been defined. People fill their time with tasks that feel productive rather than tasks that are most important. And they do it with complete sincerity, which is what makes it so difficult to address.</p>
+
+      <h2>Why Easy Tasks Win by Default</h2>
+
+      <p>There is a reason people gravitate toward certain tasks over others. Completable tasks feel good. Who doesn't love crossing things off a list with fun color-coded pens? You start, you finish, you move on. The controlled drug log has a clear beginning and end. The difficult callback, the incomplete schedule, the staffing gap that needs resolution: those don't finish cleanly. They require judgment, follow-up, and sometimes uncomfortable conversations.</p>
+
+      <p>So without explicit guidance, the human brain will quietly rank tasks by ease of completion rather than urgency of consequence. Not out of negligence. Out of instinct.</p>
+
+      <p>This is why telling your team to "prioritize what's important" accomplishes almost nothing. Important is not a filter. Important describes everything on the list. What people need is order. Sequence. And an understanding of why the order is what it is.</p>
+
+      <p>Client complaints, prior day critical case callbacks, and prior day surgical and anesthetic callbacks are always at the top, full stop.</p>
+
+      <p>A client with a complaint wants to be heard now. Every hour that passes without a callback adds a new grievance to the original one: that they were ignored, that they weren't a priority, that the practice doesn't care. Complaints that are addressed promptly almost always resolve better, not because the underlying issue changed, but because the client felt like they mattered. Give them that, and you have already done half the work.</p>
+
+      <p>Prior day critical case callbacks sit at the same level for a different reason. These are the patients who left you yesterday: the dog discharged after being hospitalized on IV fluids, the cat sent home who is still urinating but you are trying to decide if he is going to block, the patient started on a new medication for a condition that needs watching. If something is going wrong, you want to know at nine in the morning, not four-thirty in the afternoon when the team is wrapping up and the day has no room left in it. The window to act on what you find narrows by the hour. Calling first thing protects the patient and protects your team's ability to respond.</p>
+
+      <p>Prior day surgical and anesthetic callbacks belong in the same tier. These patients went home stable, but routine recoveries still produce surprises. The spay that has been vomiting since morning is uncomfortable, the owner has been anxious for hours, and the veterinarian who performed that surgery is finding out at the end of a full day that something needed attention much earlier.</p>
+
+      <p>The order depends on the role. The front desk has its own sequence. The manager has another. The lead technician has another still. The principle is the same in every case: the high-consequence task comes before the comfortable one, and someone has to decide which is which.</p>
+
+      <p>Every hospital will build this list differently. The specific order matters less than the fact that one exists, that your team knows it, and that they understand the reasoning behind it. Because when people understand the why, they stop following the order like a checklist and start applying it like a principle. They begin to ask themselves: if I do this task now, does it leave time and capacity to act on what I find? That is the difference between a team that completes tasks and a team that exercises judgment.</p>
+
+      <p>If your hospital runs on checklists, this is a natural place to start. Build the priority order directly into the list. Not just what needs to get done, but in what sequence and why. A checklist that reflects true priority is a coaching tool. One that doesn't is just a to-do list.</p>
+
+      <h2>Define the Order, Set the Deadline</h2>
+
+      <p>Just as the order of priority must be defined, so must the deadlines attached to each task. A priority without a deadline is just a good intention. The deadline is what makes the important task undeferrable. A task without one will always lose to a task that feels completable right now. When you tell someone the schedule must be written by Wednesday at noon, you have changed the calculus. The inventory audit can wait until Thursday. The schedule cannot. Deadlines are not suggestions. They are the mechanism that keeps priority from drifting back into convenience.</p>
+
+      <p>This is not micromanagement. It is clarity. There is a meaningful difference between telling someone how to do every step of their job and telling them which thing needs to be done first and when. The first removes autonomy. The second protects it, because the person now knows the boundary and can make their own decisions about how to execute within it.</p>
+
+      <h2>The Ongoing Part of the Job</h2>
+
+      <p>If you manage people, defining priority is not something you do once in an orientation or a staff meeting. It is ongoing, specific, and situational.</p>
+
+      <p>It means looking at what your team is working on and asking whether that is actually the most important thing right now. It means being willing to redirect, not because someone did something wrong, but because the order needs adjusting and only you can see the full picture.</p>
+
+      <p>Your team can see their task list. You can see which ball is about to hit the floor. That gap is normal, and it's the reason your input matters.</p>
+
+      <p>The tail on the counter was not a failure of effort or attention. It was the result of a missing filter. My assistant knew everything on that list mattered. Nobody had told her which one to say first.</p>
+
+      <blockquote>That is the job. Not just assigning the work. Defining the order.</blockquote>
+
+      <p>Because your team will complete what's in front of them. The question is whether you've made sure the right thing is at the top of the list.</p>
+
+      <p>Unless, of course, you don't mind the occasional amputated tail on the counter.</p>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <div style="max-width:860px; margin:0 auto; padding:2.5rem 2rem; border-top:1px solid rgba(26,23,20,0.12);">
+    <h3 style="font-family:'Playfair Display',Georgia,serif; font-size:1.3rem; font-weight:700; color:#1a1714; margin-bottom:0.35rem;">Subscribe to Gray Oak Journal</h3>
+    <p style="font-size:0.95rem; font-weight:300; color:#4a4540; margin-bottom:1.25rem;">Get new articles in your inbox.</p>
+    <form action="https://formspree.io/f/xbdqnrza" method="POST" style="display:flex; gap:0.75rem; flex-wrap:wrap; max-width:480px;">
+      <input type="email" name="email" placeholder="Your email address" required style="flex:1; min-width:200px; padding:0.65rem 1rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.95rem; border:1px solid rgba(26,23,20,0.2); border-radius:4px; background:#fff; color:#1a1714; outline:none;">
+      <button type="submit" style="padding:0.65rem 1.5rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.9rem; font-weight:500; color:#fff; background:#b85c2a; border:none; border-radius:4px; cursor:pointer; transition:background 0.15s;">Subscribe</button>
+    </form>
+  </div>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
