@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42NG42J1DE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-42NG42J1DE');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>When the Leader Is the Emergency | Gray Oak Journal</title>
+  <meta name="description" content="What happens when the person your team relies on is the one who needs help. A real story about crisis leadership, debriefs, and what near-misses reveal about your culture." />
+  <meta name="keywords" content="veterinary leadership, crisis management, team debrief, workplace trauma, veterinary safety, compassion fatigue, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="When the Leader Is the Emergency | Gray Oak Journal" />
+  <meta property="og:description" content="What happens when the person your team relies on is the one who needs help. A real story about crisis leadership, debriefs, and what near-misses reveal about your culture." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/when-the-leader-is-the-emergency/" />
+  <meta property="og:image" content="https://grayoakjournal.com/leader-emergency.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="When the Leader Is the Emergency" />
+  <meta name="twitter:description" content="What happens when the person your team relies on is the one who needs help. A real story about crisis leadership, debriefs, and what near-misses reveal about your culture." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/leader-emergency.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/when-the-leader-is-the-emergency/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: var(--sans);
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      height: 64px;
+      background: rgba(245,242,236,0.92);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .logo {
+      font-family: var(--serif);
+      font-size: 1.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      width: 40px; height: 40px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background: #000000;
+      border-radius: 2px;
+      transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s;
+      transform-origin: center;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay {
+      position: fixed; inset: 0;
+      z-index: 90;
+      display: flex;
+      pointer-events: none;
+    }
+    .nav-backdrop {
+      position: absolute; inset: 0;
+      background: rgba(26,23,20,0);
+      transition: background 0.35s;
+    }
+    .nav-drawer {
+      position: absolute;
+      top: 0; right: 0;
+      width: 280px; height: 100%;
+      background: var(--ink);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
+      display: flex;
+      flex-direction: column;
+      padding: 80px 2.5rem 3rem;
+    }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer   { transform: translateX(0); }
+
+    .nav-label {
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 1.5rem;
+    }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a {
+      display: block;
+      font-family: var(--serif);
+      font-size: 2rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.88);
+      text-decoration: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      transition: color 0.15s, padding-left 0.2s;
+      line-height: 1.3;
+    }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+
+    .nav-tagline {
+      margin-top: auto;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.25);
+      line-height: 1.7;
+    }
+
+    main { padding-top: 64px; }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1rem;
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a {
+      font-size: 0.78rem;
+      color: var(--ink);
+      text-decoration: none;
+      opacity: 0.45;
+      transition: opacity 0.15s;
+    }
+    footer a:hover { opacity: 1; }
+
+    .article-header {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 2rem;
+    }
+    .article-header h1 {
+      font-family: var(--serif);
+      font-size: clamp(1.8rem, 4.5vw, 2.8rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-bottom: 0.5rem;
+    }
+    .article-subtitle {
+      font-family: var(--serif);
+      font-size: 1.15rem;
+      font-style: italic;
+      font-weight: 400;
+      color: var(--ink2);
+      margin-bottom: 1.25rem;
+      line-height: 1.5;
+    }
+    .article-meta {
+      font-size: 0.75rem;
+      color: var(--ink2);
+      opacity: 0.55;
+      letter-spacing: 0.03em;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .article-body {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem 5rem;
+    }
+    .article-body p {
+      font-size: 1.05rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.85;
+    }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--ink);
+      margin-top: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: -0.01em;
+    }
+    .article-body blockquote {
+      margin: 2rem 0;
+      padding: 1.25rem 1.5rem;
+      border-left: 3px solid var(--accent);
+      background: var(--warm);
+      border-radius: 0 4px 4px 0;
+      font-family: var(--serif);
+      font-size: 1.1rem;
+      font-style: italic;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .post-tag {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../leader-emergency.jpg" alt="Stethoscope on veterinary exam table" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Leadership</span>
+      <h1>When the Leader Is the Emergency</h1>
+      <p class="article-subtitle">What happens when the person your team relies on is the one who needs help.</p>
+      <p class="article-meta">May 4, 2026 &nbsp;&middot;&nbsp; 8 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>An adolescent Mastiff put his teeth through my face on a Saturday morning, and the first thing I remember is the looks on my team's faces when they saw mine. It was bad. I did not need a mirror. Their expressions of horror said enough.</p>
+
+      <p>He was about a hundred pounds of adolescent muscle, and he hit me the way Mike Tyson hits a heavy bag. I do not remember the sequence with any clarity. I know there were screams. I am not entirely sure whose. Mine, probably. The owner's, possibly. My technicians', almost certainly. A reasonable candidate for each.</p>
+
+      <p>I left for emergency plastic surgery, which required calling in a surgeon who had just launched his boat for a Saturday on the water with his family. He came back to the hospital. (I am sorry about the boat, doc.) I eventually came back to my own hospital looking like a different person. Swollen, purple, stitched. I walked in looking like I had lost a fight, which was accurate, and the second wave of something hit the room about three seconds after I came through the door. I walked in anyway, knowing my arrival would be trauma number two for a team that had already had one. Coming back was the right thing to do. I still believe that.</p>
+
+      <p>I am not telling you about the Mastiff to scare anyone considering this work. I am telling you because the bite is not the story. The story is what happened in the building after I left, and what happened when I came back. I came back because my team needed to see me, and because we needed to debrief. Those two things turned out to be the whole job.</p>
+
+      <h2>This Is a Strange Way to Earn a Living</h2>
+
+      <p>Veterinary medicine is a scary profession. It is not for the faint of heart. There is the cat who runs out of Kitty minutes, claws and teeth flying, with no safe place left on the animal to put your hands. There is the owner who swears up and down the dog has never bitten anyone, right up until you squat down to say hello and they add, except at the vet. There is the sweetest dog in the world who becomes a Tasmanian devil the moment he sees the orange-handled nail clippers. Every day in this profession, people who love animals put themselves within reach of teeth and claws on the word of owners whose read of their own pets is often, let us say, aspirational.</p>
+
+      <p>Most days, you get away with it.</p>
+
+      <h2>I Was the Crisis</h2>
+
+      <p>Here is the first thing worth saying plainly. In the moment the bite happened, I was not useful to my team. I was the crisis. I could not triage the fear in that room because I was actively generating it. Someone else had to hold the hospital together while I was gone, and the only reason that worked is because I had a hospital leader who already knew what to do. She handled the clients, calmed the staff, closed the loop on the patient who had just tried to rearrange my skull, and kept the morning from dissolving into chaos. She did not need permission. She did not need me to call in from the emergency room with instructions. The authority to act had been built into her role long before we ever needed it, and I have written elsewhere about why that matters, in <a href="/if-you-dont-trust-them-why-did-you-hire-them/" style="color:var(--accent); text-decoration:none; border-bottom:1px solid var(--accent);">She Did Not Need to Be Managed More</a>. For the purposes of this story, it is enough to say this: the day you are the emergency, your team will have to act on what you built before the emergency happened. Mine did.</p>
+
+      <p>Back to that morning, and the door I had to walk through twice. When I came back, there was a second wave of something. Not quite fear. Something closer to the shock of watching a person you saw earlier looking one way and now looking another way entirely. A few people cried. A few people laughed, the nervous kind. A few people hugged me. I probably did not look like a person who should be hugged at that moment, but I was not going to turn them down.</p>
+
+      <h2>The Conversation Some Hospitals Skip</h2>
+
+      <p>This is the part that matters.</p>
+
+      <p>We sat down together, and we walked through what had happened. Not a formal incident report. Not a liability conversation. A real conversation, about a real event, with the people who had lived through it. Some of it was preventable. Some of it was not. We named both honestly.</p>
+
+      <p>I told my team it was okay to be scared. I told them I was scared. I told them that what we do for a living is strange, and sometimes dangerous, and usually absurd, and we laughed about the owners and the cats and the dogs and the warning signs they choose to share only after the fact. We laughed because laughing was how we were going to carry this out of the room instead of leaving it there. That is what we do in veterinary medicine. We laugh through the tough parts to survive, and to protect ourselves.</p>
+
+      <p>By the end of the conversation, something had shifted. The fear was still there. You do not talk your way out of a day like that. But it was not sitting in anyone's chest by itself anymore. We had a shared version of what had happened. We had a shared understanding of what we would do differently. We had each other, which, after a day like that, was not a small thing. If you want to call that trauma bonding, fine. I will not argue. It is as accurate a word as any.</p>
+
+      <h2>The Debrief Is Not Optional</h2>
+
+      <p>Here is what I learned, and here is what I want other leaders to take from this.</p>
+
+      <blockquote>The debrief is not optional. It is not a nicety you get to if everyone has time, between the dental and the drop-off blood draw. It is the work.</blockquote>
+
+      <p>Your team is going to carry a hard day somewhere. They are going to carry it home, or into the next exam room, or quietly for months until it surfaces as burnout, attrition, or a resignation letter you absolutely did not see coming. The debrief is how you give them somewhere to put it that is not their own nervous system. It is not about blame. It is about language. Shared language turns a hard thing into something the team went through together, instead of something that happened to each person alone in a quiet room with their own racing heart.</p>
+
+      <p>No one taught me this. Veterinary school did not cover it. Management books possibly mention it in the chapter everyone skips. Some hospital leaders avoid it because it feels awkward, or because they worry they will say the wrong thing, or because the schedule is full and the day is not going to run itself. I have used every one of those excuses. None of them make the event smaller. What I learned is that they just make my team carry it longer.</p>
+
+      <p>You do not have to do it perfectly. You just have to do it.</p>
+
+      <h2>Trauma Does Not Read a Calendar</h2>
+
+      <p>And then you have to keep watching.</p>
+
+      <p>The debrief is not the finish line. It is the beginning of the recovery, and trauma does not read a calendar. For months after the bite, my heart would start racing every time a Mastiff walked through the door. I knew, intellectually, that the dog in front of me had nothing to do with the dog that had put me in the hospital. My nervous system did not care. The body keeps the receipts even when the mind has moved on.</p>
+
+      <p>If it was in me, it was in my team too. Trauma has its own timeline and shows up differently in different people, and it does not have to be a bite. Hospital trauma rarely arrives with stitches. Most of it accumulates quietly, one hard day at a time. The technician who held a senior dog through his last breath and went home and made dinner for her kids carries something that does not show up on the schedule. The doctor who delivered the diagnosis no family ever wants to hear carries something too. So does the receptionist who has to tell a client with limited funds the cost of an office visit they cannot afford. None of it disappears just because the next appointment is here. It stacks. And it stacks faster in people who care the most. That weight is not a failure of professionalism. It is the receipt for caring.</p>
+
+      <p>So you watch. The technician who used to volunteer for end-of-life appointments and now finds reasons to step out. The doctor who used to debrief naturally with the team and now leaves the building the second the shift ends. The receptionist who used to take every hard phone call and now passes them along. The assistant who used to talk about their patients at lunch and has gone quiet about work entirely. The quiet one is often the one carrying the most, and the one who seems unaffected is sometimes the one who will struggle the longest. Leftover trauma rarely announces itself. It shows up sideways, in the small shifts you will only catch if you are looking. And when you see it, you name it. Gently. Not as a performance review. As a check-in. You let your team know that a lingering reaction to a hard day is not weakness. It is the cost of doing this work. Fine is not a destination you can schedule. You offer support, you make counseling or an employee assistance program available if you can, and you model the behavior yourself by being honest about your own racing heart when a Mastiff walks into the lobby.</p>
+
+      <h2>What We Owe Our Teams</h2>
+
+      <p>I walked back into my hospital that morning because I thought the team needed to see me. What I learned is that they needed something more than that. They needed the conversation. They needed to know that what they had just lived through was a thing we were going to face together, in the room, with words, and not something we were going to swallow quietly and pretend had not happened.</p>
+
+      <p>We work in a profession where the risk is part of the job. The orange-handled nail clippers. The Kitty minutes. The dog who has never bitten anyone, except. The risk being part of the job does not make it less real, and it does not mean our teams should be expected to absorb it silently.</p>
+
+      <blockquote>What we owe our teams, and ourselves, on the days when the risk becomes reality, is not silence. It is a conversation, a real one, with the people who lived through it and with ourselves about what we are still carrying.</blockquote>
+
+      <p>That is worth doing, even when &mdash; especially when &mdash; you are the one who walked back in looking like the emergency.</p>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <div style="max-width:860px; margin:0 auto; padding:2.5rem 2rem; border-top:1px solid rgba(26,23,20,0.12);">
+    <h3 style="font-family:'Playfair Display',Georgia,serif; font-size:1.3rem; font-weight:700; color:#1a1714; margin-bottom:0.35rem;">Subscribe to Gray Oak Journal</h3>
+    <p style="font-size:0.95rem; font-weight:300; color:#4a4540; margin-bottom:1.25rem;">Get new articles in your inbox.</p>
+    <form action="https://formspree.io/f/xbdqnrza" method="POST" style="display:flex; gap:0.75rem; flex-wrap:wrap; max-width:480px;">
+      <input type="email" name="email" placeholder="Your email address" required style="flex:1; min-width:200px; padding:0.65rem 1rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.95rem; border:1px solid rgba(26,23,20,0.2); border-radius:4px; background:#fff; color:#1a1714; outline:none;">
+      <button type="submit" style="padding:0.65rem 1.5rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.9rem; font-weight:500; color:#fff; background:#b85c2a; border:none; border-radius:4px; cursor:pointer; transition:background 0.15s;">Subscribe</button>
+    </form>
+  </div>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+
+    function openNav() {
+      navOverlay.classList.add('open');
+      hamburger.classList.add('open');
+      hamburger.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeNav() {
+      navOverlay.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+
+    hamburger.addEventListener('click', () => {
+      navOverlay.classList.contains('open') ? closeNav() : openNav();
+    });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
