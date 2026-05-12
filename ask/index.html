@@ -293,16 +293,16 @@
       position: absolute;
       inset: 0;
       background-size: cover;
-      background-position: center 20%;
+      background-position: center 55%;
     }
     .hero-overlay {
       position: absolute; inset: 0;
       background: linear-gradient(
-        to bottom,
-        rgba(26,23,20,0.55) 0%,
-        rgba(26,23,20,0.30) 50%,
-        rgba(245,242,236,0.60) 85%,
-        rgba(245,242,236,1) 100%
+        108deg,
+        rgba(245,242,236,0.92) 0%,
+        rgba(245,242,236,0.75) 40%,
+        rgba(245,242,236,0.25) 68%,
+        rgba(245,242,236,0.05) 100%
       );
     }
     .hero-content {
@@ -318,9 +318,8 @@
       font-weight: 500;
       letter-spacing: 0.15em;
       text-transform: uppercase;
-      color: #fff;
+      color: var(--accent);
       margin-bottom: 1.25rem;
-      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     }
     .hero h1 {
       font-family: var(--serif);
@@ -328,18 +327,16 @@
       font-weight: 700;
       letter-spacing: -0.03em;
       line-height: 1.1;
-      color: #fff;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.25);
+      color: var(--ink);
     }
     .hero h1 em { font-style: italic; color: var(--accent); }
     .hero-sub {
       font-size: 1rem;
       font-weight: 300;
-      color: rgba(255,255,255,0.9);
+      color: var(--ink);
       line-height: 1.75;
       max-width: 500px;
       margin-top: 1rem;
-      text-shadow: 0 1px 3px rgba(0,0,0,0.2);
     }
 
     .page-body {
@@ -628,13 +625,14 @@
   </div>
 
   <footer>
-    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <p>&copy; 2026 Gray Oak Veterinary Investments, LLC. All rights reserved.</p>
     <div style="display:flex; gap:1.5rem;">
       <a href="/">Home</a>
       <a href="/#about">About</a>
       <a href="/ask/">Ask</a>
       <a href="/#blog">Blog</a>
     </div>
+    <p style="width:100%; font-size:0.7rem; color:#4a4540; opacity:0.5; line-height:1.6; margin-top:0.5rem;">The Gray Oak Journal is a publication of Gray Oak Veterinary Investments, LLC. The content reflects the personal views and professional experiences of the author and does not constitute legal, financial, or veterinary medical advice.</p>
   </footer>
 
   <script>
