@@ -1766,6 +1766,12 @@
     const img = new Image();
     img.src = imgUrl;
     img.onload = () => heroBg.classList.add('loaded');
+
+    /* Handle hash on page load (e.g. /#about from external pages) */
+    const hash = window.location.hash.replace('#', '');
+    if (hash && document.getElementById(hash)) {
+      showPage(hash);
+    }
   </script>
 
 </body>
