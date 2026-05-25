@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42NG42J1DE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-42NG42J1DE');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>We Teach Our Clients How to Treat Us | Gray Oak Journal</title>
+  <meta name="description" content="We teach our clients how to treat us. Sometimes intentionally, sometimes by answering texts at 10:47 p.m. A veterinarian on boundaries, systems, and the special client problem." />
+  <meta name="keywords" content="veterinary client boundaries, veterinary practice management, client communication, veterinary leadership, burnout prevention, Gray Oak Journal" />
+  <meta name="author" content="Dr. Susan Ries Valashinas" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="We Teach Our Clients How to Treat Us | Gray Oak Journal" />
+  <meta property="og:description" content="We teach our clients how to treat us. Sometimes intentionally, sometimes by answering texts at 10:47 p.m." />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://grayoakjournal.com/we-teach-our-clients-how-to-treat-us/" />
+  <meta property="og:image" content="https://grayoakjournal.com/white-fence-boundaries.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="We Teach Our Clients How to Treat Us" />
+  <meta name="twitter:description" content="We teach our clients how to treat us. Sometimes intentionally, sometimes by answering texts at 10:47 p.m." />
+  <meta name="twitter:image" content="https://grayoakjournal.com/white-fence-boundaries.jpg" />
+
+  <link rel="canonical" href="https://grayoakjournal.com/we-teach-our-clients-how-to-treat-us/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:    #1a1714;
+      --ink2:   #4a4540;
+      --cream:  #f5f2ec;
+      --warm:   #ece8df;
+      --accent: #b85c2a;
+      --rule:   rgba(26,23,20,0.12);
+      --serif:  'Playfair Display', Georgia, serif;
+      --sans:   'DM Sans', system-ui, sans-serif;
+    }
+
+    html { scroll-behavior: smooth; }
+    body { font-family: var(--sans); background: var(--cream); color: var(--ink); min-height: 100vh; overflow-x: hidden; }
+
+    header { position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; align-items: center; justify-content: space-between; padding: 0 2rem; height: 64px; background: rgba(245,242,236,0.92); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid var(--rule); }
+    .logo { font-family: var(--serif); font-size: 1.2rem; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); text-decoration: none; }
+    .logo span { color: var(--accent); font-style: italic; }
+
+    .hamburger { display: flex; flex-direction: column; justify-content: center; gap: 5px; width: 40px; height: 40px; background: none; border: none; cursor: pointer; padding: 6px; border-radius: 6px; transition: background 0.15s; }
+    .hamburger:hover { background: var(--warm); }
+    .hamburger span { display: block; width: 100%; height: 3px; background: #000; border-radius: 2px; transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), opacity 0.2s; transform-origin: center; }
+    .hamburger.open span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
+    .nav-overlay { position: fixed; inset: 0; z-index: 90; display: flex; pointer-events: none; }
+    .nav-backdrop { position: absolute; inset: 0; background: rgba(26,23,20,0); transition: background 0.35s; }
+    .nav-drawer { position: absolute; top: 0; right: 0; width: 280px; height: 100%; background: var(--ink); transform: translateX(100%); transition: transform 0.4s cubic-bezier(0.4,0,0.2,1); display: flex; flex-direction: column; padding: 80px 2.5rem 3rem; }
+    .nav-overlay.open { pointer-events: all; }
+    .nav-overlay.open .nav-backdrop { background: rgba(26,23,20,0.45); }
+    .nav-overlay.open .nav-drawer { transform: translateX(0); }
+    .nav-label { font-size: 0.7rem; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.35); margin-bottom: 1.5rem; }
+    .nav-links { list-style: none; display: flex; flex-direction: column; }
+    .nav-links a { display: block; font-family: var(--serif); font-size: 2rem; font-weight: 400; color: rgba(255,255,255,0.88); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); transition: color 0.15s, padding-left 0.2s; line-height: 1.3; }
+    .nav-links a:hover { color: #fff; padding-left: 6px; }
+    .nav-tagline { margin-top: auto; font-size: 0.78rem; color: rgba(255,255,255,0.25); line-height: 1.7; }
+
+    main { padding-top: 64px; }
+
+    footer { border-top: 1px solid var(--rule); padding: 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; max-width: 860px; margin: 0 auto; }
+    footer p { font-size: 0.78rem; color: var(--ink2); opacity: 0.45; }
+    footer a { font-size: 0.78rem; color: var(--ink); text-decoration: none; opacity: 0.45; transition: opacity 0.15s; }
+    footer a:hover { opacity: 1; }
+
+    .article-header { max-width: 860px; margin: 0 auto; padding: 5rem 2rem 2rem; }
+    .article-header h1 { font-family: var(--serif); font-size: clamp(1.8rem, 4.5vw, 2.8rem); font-weight: 700; line-height: 1.15; letter-spacing: -0.02em; color: var(--ink); margin-bottom: 0.5rem; }
+    .article-subtitle { font-family: var(--serif); font-size: 1.15rem; font-style: italic; font-weight: 400; color: var(--ink2); margin-bottom: 1.25rem; line-height: 1.5; }
+    .article-meta { font-size: 0.75rem; color: var(--ink2); opacity: 0.55; letter-spacing: 0.03em; padding-bottom: 2rem; border-bottom: 1px solid var(--rule); }
+    .article-body { max-width: 860px; margin: 0 auto; padding: 2.5rem 2rem 5rem; }
+    .article-body p { font-size: 1.05rem; font-weight: 300; color: var(--ink2); line-height: 1.85; }
+    .article-body p + p { margin-top: 1.25rem; }
+    .article-body h2 { font-family: var(--serif); font-size: 1.5rem; font-weight: 700; color: var(--ink); margin-top: 2.5rem; margin-bottom: 1rem; letter-spacing: -0.01em; }
+    .article-body blockquote { margin: 2rem 0; padding: 1.25rem 1.5rem; border-left: 3px solid var(--accent); background: var(--warm); border-radius: 0 4px 4px 0; font-family: var(--serif); font-size: 1.1rem; font-style: italic; color: var(--ink); line-height: 1.6; }
+    .shaded-box { margin: 2rem 0; padding: 1.5rem 2rem; background: var(--warm); border-radius: 6px; border: 1px solid var(--rule); }
+    .shaded-box h3 { font-family: var(--serif); font-size: 1.15rem; font-weight: 700; color: var(--ink); margin-bottom: 1rem; }
+    .shaded-box p { font-size: 0.95rem; }
+    .shaded-box ul { padding-left: 1.25rem; margin-top: 0.5rem; }
+    .shaded-box li { font-size: 0.95rem; font-weight: 300; color: var(--ink2); line-height: 1.75; margin-bottom: 0.5rem; }
+    .shaded-box li strong { font-weight: 500; color: var(--ink); }
+    .post-tag { display: inline-block; font-size: 0.65rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.75rem; }
+
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a class="logo" href="/">Gray Oak <span>Journal</span></a>
+    <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </header>
+
+  <div class="nav-overlay" id="navOverlay">
+    <div class="nav-backdrop" id="navBackdrop"></div>
+    <nav class="nav-drawer">
+      <p class="nav-label">Navigation</p>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/#about">About</a></li>
+        <li><a href="/ask/">Ask</a></li>
+        <li><a href="/#blog">Blog</a></li>
+      </ul>
+      <p class="nav-tagline">Veterinary roots.<br>Universal truths.</p>
+    </nav>
+  </div>
+
+  <main>
+    <div style="max-width:860px;margin:0 auto;padding:5rem 2rem 0;">
+      <img src="../white-fence-boundaries.jpg" alt="White picket fence along a tree-lined path" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
+    </div>
+    <div class="article-header" style="padding-top:2rem;">
+      <span class="post-tag">Practice Management</span>
+      <h1>We Teach Our Clients How to Treat Us</h1>
+      <p class="article-subtitle">And Sometimes We Accidentally Teach Them That We Are Open 24/7</p>
+      <p class="article-meta">May 25, 2026 &nbsp;&middot;&nbsp; 10 min read</p>
+    </div>
+    <div class="article-body">
+
+      <p>There is an old truth in veterinary medicine that we do not always want to admit.</p>
+
+      <blockquote>We teach our clients how to treat us.</blockquote>
+
+      <p>Sometimes we teach them intentionally, with clear expectations and consistent systems. Other times, we teach them accidentally, by answering texts at 10:47 p.m., approving refill requests that are now "an emergency" because Fluffy took her last pill two days ago, is acting weird, and the client is shocked that this cannot be solved instantly by emotional urgency alone, or letting a client bypass the entire hospital team because somewhere along the way they got the doctor's cell phone number and decided that was the new front desk.</p>
+
+      <p>Either way, the teaching is happening.</p>
+
+      <p>The question is whether we are teaching by design or by panic.</p>
+
+      <p>Proactive teaching means clients know how the hospital handles prescription refills. They know when to expect a return phone call. They know how appointment scheduling works. They know how the doctors and team members communicate with them.</p>
+
+      <p>Reactive teaching sounds more like this:</p>
+
+      <blockquote>"We do not usually take walk-ins, but they drove all the way here, so let's just squeeze her in between the dental and the laceration repair."<br><br>"We don't normally answer medical questions through Facebook, but this client tagged us and it would feel rude not to respond."<br><br>"We normally do not give out doctor cell phone numbers, but this client is special."<br><br>And somehow, mysteriously, all 1,000+ clients become special.</blockquote>
+
+      <p>The first approach builds trust, clarity, and sustainability. The second builds entitlement, stress, resentment, and a team that starts making eye contact with job postings.</p>
+
+      <h2>The Good Intentions That Create Bad Systems</h2>
+
+      <p>Most boundary problems in veterinary hospitals start with genuinely good intentions.</p>
+
+      <p>Nobody wakes up and says, "You know what I would love to do today? Create an unsustainable client interaction system that slowly erodes morale and burns the team out by Wednesday."</p>
+
+      <p>We are trying to help. We care about the client. We care about the pet. We care about being responsive. We care about not disappointing people.</p>
+
+      <p>And then, little by little, we teach people that the system is optional.</p>
+
+      <h2>I Was Once the Emergency Hospital, Except I Had a Couch and Poor Boundaries</h2>
+
+      <p>When I was a new graduate, I worked in a rural area where emergency veterinary care was limited. In that setting, I was not only the primary general practitioner, I was also the backup emergency room, recovery ward, client hotline, and occasionally a very underpaid boarding facility.</p>
+
+      <p>It was not unusual for me to bring cases home over a weekend when the hospital was closed.</p>
+
+      <p>A pneumonia dog in a crate at my house? Sure.</p>
+
+      <p>A recovering cystotomy patient needing observation? Why not.</p>
+
+      <p>A tiny post-op patient in my laundry room while I tried to pretend this was a normal lifestyle? Absolutely.</p>
+
+      <p>At the time, it felt like the right thing to do. And in many cases, it probably was. There were not many other options.</p>
+
+      <p>But it is no longer 2005, and veterinary medicine has changed. A lot.</p>
+
+      <p>In many communities, emergency hospitals and urgent care hospitals now provide a level of support that simply did not exist years ago. As those resources developed, I built relationships with them. I learned to trust them. And in turn, I helped my clients learn to trust them too.</p>
+
+      <p>That part is important.</p>
+
+      <blockquote>Clients often trust what we trust.</blockquote>
+
+      <p>If we present the emergency hospital like, "I guess you can go there if you absolutely must," the client hears uncertainty. If we present it like, "They are excellent, they are equipped for this, and this is exactly what they do," the client hears confidence. And if they have your cell phone number, they will most definitely default to calling you anyway, and the guilt that got you into this position in the first place will kick in all over again.</p>
+
+      <p>We do not have to be everything. Trying to be everything is not noble. It is usually just a direct route to burnout with a stethoscope around its neck.</p>
+
+      <h2>Boundaries Are the Fence, Not the Wall</h2>
+
+      <p>A lot of veterinary people hear the word "boundary" and immediately feel guilty. We think boundaries mean we are being cold, unavailable, or uncaring.</p>
+
+      <p>But boundaries are not a lack of caring. Boundaries are what allow caring people to keep caring without turning into crispy little emotional croutons. Research on healthcare professional burnout consistently identifies the erosion of professional boundaries as a primary contributing factor. In veterinary medicine, where compassion fatigue is already an occupational hazard, this is not a soft skill. It is a survival skill.</p>
+
+      <p>A boundary is not a wall. It is a standard. It tells people how we work, how we communicate, and how we protect patient care. That is not poor service. That is a system. And a system is a beautiful thing, especially in a profession where the alternative usually involves a client handing you a fecal sample in a leaf.</p>
+
+      <p>Boundaries are how we set the team up for success through empowerment. The front desk that knows the policy can hold the line. The technician who has been given authority can use it. The system protects them, and they protect the system.</p>
+
+      <div class="shaded-box">
+        <h3>The Pressure Points That Need Real Boundaries</h3>
+        <ul>
+          <li><strong>Phone calls.</strong> Who answers, who routes, who returns, and how quickly. Including realistic expectations for return contact so the team is not chasing a 4:00 p.m. promise made at 9:00 a.m.</li>
+          <li><strong>Access to the doctor.</strong> When, how, and through whom. Including whether the doctor's personal cell phone is part of the system or a workaround to it, and what after-hours contact actually looks like in your practice.</li>
+          <li><strong>Appointment scheduling.</strong> How walk-ins are handled, how urgent cases are handled, and who has authority to fit cases in.</li>
+          <li><strong>Prescription refills.</strong> What the timeline is, what requires a current exam, and what counts as a true exception.</li>
+          <li><strong>Test results.</strong> What the realistic turnaround is, communicated up front. If the outside lab takes at least three business days and the doctor then needs to review before calling, tell the client at least five business days. Under-promise and over-deliver. This single habit sets the team up for success and prevents the 10:00 a.m. "did my results come in yet" call on day two.</li>
+          <li><strong>Payment and financial conversations.</strong> Who has authority to discount, and what forms of payment are acceptable, even when Mrs. Smith assures you that Dr. X loves her fresh eggs and she will be bringing in some from her hens in lieu of traditional forms of payment.</li>
+          <li><strong>End-of-life appointments.</strong> How euthanasia and hospice conversations are scheduled, who handles the initial call, how the team is protected from carrying every family's grief without support, and what families can expect from the experience. Boundaries here are not about logistics. They are about protecting people through one of the hardest moments in pet ownership.</li>
+        </ul>
+        <p style="margin-top:1rem;"><em>These buckets hold most of the drama in a veterinary hospital. Get the systems right here, and the rest of the day gets noticeably quieter.</em></p>
+      </div>
+
+      <h2>The 9:00 a.m. Mrs. Smith Situation</h2>
+
+      <p>Every hospital knows this case.</p>
+
+      <p>Mrs. Smith calls at 9:00 a.m. as the hospital opens. She needs a non-emergency medication refill.</p>
+
+      <p>By 9:17, she calls again.</p>
+
+      <p>By 9:31, she calls a third time and asks whether the doctor "got the message."</p>
+
+      <p>By 9:42, another call and the front desk is questioning every career choice that led them to this moment.</p>
+
+      <p>Now, Mrs. Smith may be a lovely person. She may love her pet deeply. She may be worried. She may also be the kind of client who could <a href="/talk-the-ear-off-of-corn/" style="color:var(--accent); text-decoration:none; border-bottom:1px solid var(--accent);">talk the ear off of corn</a>, which is its own management challenge.</p>
+
+      <p>But if Mrs. Smith has been taught that repeated calling moves her request to the front of the line, then repeated calling is exactly what she will do.</p>
+
+      <p>That is not a character flaw. That is training.</p>
+
+      <p>We trained her.</p>
+
+      <p>And now we have to retrain her. Kindly. Clearly. Consistently.</p>
+
+      <blockquote>"Mrs. Smith, we did receive your request. Refill requests are reviewed by the medical team, and we typically ask for 24 to 48 hours. We will contact you when it is ready or if the doctor has any questions."</blockquote>
+
+      <p>Then we have to actually stick to that. The sticking to it is the part where most hospitals fall dramatically off the horse, and it is the part that sets the team up for success or sets them up to absorb every Mrs. Smith call for the next six years.</p>
+
+      <h2>The Special Client Problem</h2>
+
+      <p>Every hospital has "special clients." That is not the problem.</p>
+
+      <p>The problem is when "special client" becomes a secret password that unlocks a completely different hospital. Across the hospitals I have owned, the doctors I have worked alongside, and the team members I have coached, the pattern is remarkably consistent. The names change. The dynamic does not.</p>
+
+      <p>I once worked with a veterinarian who would have told you she had the best intentions. As a team, we would agree on hospital rules and communication systems. Then she would immediately make exceptions for her special clients. And by "special clients," I mean essentially everyone who had ever made eye contact with her in an exam room.</p>
+
+      <p>They had her cell phone number. They could bypass the front desk. They could text questions directly.</p>
+
+      <p>I was reminded of this on a busy Friday afternoon, because of course it was a Friday afternoon. Veterinary medicine has a special way of saving its most dramatic plot twists for Fridays.</p>
+
+      <p>A "special" client walked in carrying a small cup of freshly caught urine.</p>
+
+      <p>No phone call. No appointment. No warning. Just urine.</p>
+
+      <p>She informed the receptionist that she needed us to run a urinalysis immediately because she was "best friends" with Dr. X. She also made it very clear that if Dr. X had not been out of town, she would have preferred to have Dr. X drive up to the hospital and handle this personally.</p>
+
+      <p>But since Dr. X was unavailable, apparently we would have to do.</p>
+
+      <p>So this client sat in the lobby, holding her cup of urine, shooting death rays from her eyes at the receptionist while waiting for the hospital to rearrange itself around her expectations.</p>
+
+      <p>And here is the important part. She had been taught that this was acceptable. Not maliciously. Not intentionally. But consistently.</p>
+
+      <p>Somewhere along the way, exceptions had become expectations. Direct access had become entitlement. And the team was left to enforce rules the client had already been taught did not really apply to her.</p>
+
+      <p>From the client's perspective, this probably felt like concierge service. From the team's perspective, it felt like someone had taken our systems, placed them neatly in a box, and then run over the box with a car.</p>
+
+      <p>It created entitlement from clients. It made the front desk look powerless. It made technicians feel unnecessary. It undermined teamwork. And worst of all, it made the doctor believe she was helping when she was actually creating more work for everyone, including herself.</p>
+
+      <blockquote>Intent matters. Impact matters more.</blockquote>
+
+      <h2>The Goal Is Not to Be Rigid. The Goal Is to Be Reliable.</h2>
+
+      <p>None of this means we stop accommodating clients.</p>
+
+      <p>I am a huge believer in accommodating clients when possible. We should help people. We should be flexible when it makes sense. We should use judgment. We should recognize that real life happens.</p>
+
+      <p>But we should not accommodate in ways that create bad habits, punish the team, or damage the hospital. That is the line. A one-time exception for a kind client in a genuine bind is different from repeatedly rewarding poor planning, aggressive behavior, or system bypassing.</p>
+
+      <p>A hospital can be compassionate without being chaotic. That is the sweet spot.</p>
+
+      <h2>It Is Never Too Late to Retrain</h2>
+
+      <p>Here is the good news. It is never too late.</p>
+
+      <p>Even if clients have been texting the doctor directly for years, expectations can be reset.</p>
+
+      <p>The reset will feel awkward. Some clients will not love it. Some doctors will feel guilty. That is fine. Awkward does not mean wrong. Growth is often awkward. So is trimming a pug's nails, and we still have to do it.</p>
+
+      <p>The rollout does not have to be dramatic. It usually looks like a team meeting where the new standards are named out loud, scripted language the front desk can lean on when a regular pushes back, and the doctor publicly walking back her own cell phone by telling clients directly that going forward, the hospital line is the best way to reach the team. This is how you set the team up for success. The front desk cannot enforce a standard the doctor has not publicly endorsed. That part has to come from the top, and it has to come more than once.</p>
+
+      <p>The key is to communicate clearly and repeat the message until it becomes the new normal.</p>
+
+      <blockquote>"To serve you and your pet well, all medical questions and refill requests need to go through the hospital phone line or email. This allows our team to document your request and respond appropriately."</blockquote>
+
+      <p>It took me longer than it should have to realize this is not rudeness. It is leadership.</p>
+
+      <h2>Final Thought</h2>
+
+      <p>We are always teaching our clients how to treat us.</p>
+
+      <p>We teach them whether the hospital system matters. We teach them whether the front desk has authority. We teach them whether "special" is a relationship or a workaround. We teach them whether the doctor's cell phone is the appointment line.</p>
+
+      <p>The goal is not to become cold or unavailable. The goal is to become clear.</p>
+
+      <p>Because a hospital without boundaries does not become more caring. It becomes more chaotic. And chaos may be exciting on reality television, but it is a terrible operating model for veterinary medicine.</p>
+
+      <p>So set the expectations. Protect the systems. Support the team. Teach the clients.</p>
+
+      <p>And please, for the love of all things covered in fur, stop letting the doctor's cell phone be the new front desk.</p>
+
+      <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+    </div>
+  </main>
+
+  <div style="max-width:860px; margin:0 auto; padding:2.5rem 2rem; border-top:1px solid rgba(26,23,20,0.12);">
+    <h3 style="font-family:'Playfair Display',Georgia,serif; font-size:1.3rem; font-weight:700; color:#1a1714; margin-bottom:0.35rem;">Subscribe to Gray Oak Journal</h3>
+    <p style="font-size:0.95rem; font-weight:300; color:#4a4540; margin-bottom:1.25rem;">Get new articles in your inbox.</p>
+    <form action="https://formspree.io/f/xbdqnrza" method="POST" style="display:flex; gap:0.75rem; flex-wrap:wrap; max-width:480px;">
+      <input type="email" name="email" placeholder="Your email address" required style="flex:1; min-width:200px; padding:0.65rem 1rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.95rem; border:1px solid rgba(26,23,20,0.2); border-radius:4px; background:#fff; color:#1a1714; outline:none;">
+      <button type="submit" style="padding:0.65rem 1.5rem; font-family:'DM Sans',system-ui,sans-serif; font-size:0.9rem; font-weight:500; color:#fff; background:#b85c2a; border:none; border-radius:4px; cursor:pointer; transition:background 0.15s;">Subscribe</button>
+    </form>
+  </div>
+
+  <footer>
+    <p>&copy; 2026 Gray Oak Journal. All rights reserved.</p>
+    <div style="display:flex; gap:1.5rem;">
+      <a href="/#about">About</a>
+      <a href="/ask/">Ask</a>
+      <a href="/#blog">Blog</a>
+    </div>
+  </footer>
+
+  <script>
+    const hamburger   = document.getElementById('hamburger');
+    const navOverlay  = document.getElementById('navOverlay');
+    const navBackdrop = document.getElementById('navBackdrop');
+    function openNav() { navOverlay.classList.add('open'); hamburger.classList.add('open'); hamburger.setAttribute('aria-expanded','true'); document.body.style.overflow='hidden'; }
+    function closeNav() { navOverlay.classList.remove('open'); hamburger.classList.remove('open'); hamburger.setAttribute('aria-expanded','false'); document.body.style.overflow=''; }
+    hamburger.addEventListener('click', () => { navOverlay.classList.contains('open') ? closeNav() : openNav(); });
+    navBackdrop.addEventListener('click', closeNav);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+  </script>
+
+</body>
+</html>
