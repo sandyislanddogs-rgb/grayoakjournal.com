@@ -4,6 +4,627 @@
 
 ---
 
+# Scheduling in the Vet Hospital So Everyone Leaves on Time
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-06-08
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/veterinary-scheduling-leave-on-time/
+
+I was in the chair at my hairdresser's when she took a call from her sister, who works the front desk at my hairdresser's own doctor's office. My hairdresser asked her something I was not expecting. She wanted to know whether an appointment that had just shown up on her patient scheduler was real or fake.
+
+Real or fake. My ears perked up.
+
+At the risk of outing my lifelong habit of eavesdropping, I asked what the difference was. Her sister, the receptionist, books fake appointments for her at the end of the day. She calls them phantoms. A phantom fills a slot on the schedule, so the front desk cannot book a real patient into it. Block out the last hour with phantoms, the ones booked under my hairdresser's name, and nothing real can land there, and the team gets to leave on time. I genuinely did not know whether to be appalled or impressed.
+
+Here is the part that stuck with me. The phantoms were not a secret. The physician she worked for knew. She saw the ghosts on the schedule and let them stand, because she was underwater too, and the group that owned the practice was not listening to either of them. So the receptionist guarded the door, the doctor let her, and the people who could have fixed the actual schedule were too far up the chain to notice.
+
+Back in the day we called this gatekeeping. Merriam-Webster defines a gatekeeper as someone or something that controls access, and that is exactly what is happening. What that receptionist is doing, what a lot of our teams are doing, is controlling who gets through the door, and when. The phantom appointment is just the most honest version of it.
+
+## Don't delete the ghosts
+
+When you find this in your own hospital, and you will, the instinct is to crack down. Pull up the schedule, find the blocked slots, and announce that the practice does not do phantom appointments. I know the instinct because I had it. When I first owned a hospital I treated guarded doors like a case to crack. I went looking for them, determined to get to the bottom of each one.
+
+Investigating was the right instinct. My execution was not always kind. More than once I went in like a detective when the person in front of me needed a colleague, and "help me understand what happened here" came out sounding a lot more like "explain yourself."
+
+The phantom appointment is the symptom. Block a slot, send a case out, refer a spay across town. Delete the ghosts without knowing why they are there and they come back, because you treated the schedule instead of the thing that made someone cheat it. So before you touch anyone's calendar, work the differential. The same blocked slot can come from six very different places.
+
+- **No catch-up time.** There is no room to finish cases, fill prescriptions, or write medical notes, so the team turns work away to take back time the schedule never accounted for.
+- **No authority.** The team sees the day getting away from them but has never been given the power to stop scheduling, so ghosts appear instead.
+- **People and pet pleasers.** A team that cannot say no fills the day past what it can carry, then guards the back end to survive it.
+- **A skills gap.** A doctor or team was never trained for certain procedures, or has lost confidence in them, and the schedule routes around them.
+- **Revenue pressure.** The owner keeps the book open because labor hours, inventory, and new equipment only happen if the revenue affords them.
+- **Front versus back.** The resentment between front and back gets bad enough that the front desk stops booking legitimate appointments to avoid the grief, even when the schedule was fine.
+
+The first five are reasons a door gets guarded. The sixth is a door that should never have been blamed. And before you reach for any of them, rule out the lazy answer. Once in a while you do find someone who has genuinely checked out, who blocks the schedule because they would rather not do the work in front of them. It happens, but it is rarer than a frustrated owner wants to believe, and reaching for it first is the trap. Even that person almost always cared once.
+
+What worked in my hospitals will not map cleanly onto yours, but the principle under each fix will travel.
+
+## 1. Build catch-up time into the schedule
+
+The most common reason is the simplest. There is no time built into the day to do the work the day creates.
+
+When I was a new graduate I worked at a hospital that took walk-ins. We closed at six, but if someone came through the door before six, even at 5:58, we saw them. Quick vaccine or full workup, it did not matter. I can count on one hand how many times I left at six. Honestly, one finger of that hand.
+
+One evening a very lethargic Golden Retriever came into the lobby. His mom said he had been vomiting all day, starting at five that morning with the sound only moms seem able to hear, the heaving that crescendos into something liquid hitting the floor. First the kibble, then the water, by evening just bile. I watched the eye rolls go around the team, the kind that say she waited all day and now it is our problem. When we asked whether he might have eaten something he should not have, mom assured us absolutely not. More eye rolls, because as we all know, Goldens never eat anything they should not. He must have been an off-brand Golden.
+
+He looked genuinely pitiful. We ran diagnostics, started treatment, stayed an extra ninety minutes, and sent him to the emergency hospital for surgery. The foreign body was, you guessed it, a sock.
+
+I felt wonderful about that dog. I felt equally awful for my team. Someone missed a kid's game. Someone missed a dinner they had planned for a week. We did right by the patient on their own time, because a policy written by someone else said we had to. That is where the urge to guard the door is born. It is not a lack of caring for pets. It is a hundred nights like that one, where a team gives of their personal life and the people doing the work pay for a rule they had no hand in writing.
+
+The fix for a day with no slack is slack, and you have to build it in on purpose, because it will never show up on its own. In my hospital that meant doctors were trained to write their SOAP notes through the day, as they saw patients, not from memory days later. The time to write each note was built into the appointment itself, so the record was finished while the visit was still fresh. The surgery team had protected time of their own to finish records, prepare go-home medications, and clean and restock the surgical suite. Yours will look different. The principle holds. If there is no room to catch up, a team will make room by turning work away, and a phantom is them taking back the time the schedule never gave them.
+
+## 2. Give your team authority to close the book
+
+They know by two o'clock that the evening is going to fall apart. They can feel it, because it is a Friday afternoon and they have already squeezed in two vomiting dogs, a limping cat, and Mrs. Jones's emergency nail trim for Fluffy. But heading it off means hunting down a manager or an owner with the authority to say no, usually while three lines are ringing and the lobby is full. So they do not stop it. They watch it happen, and they learn to head it off the next time with a phantom.
+
+Give the people closest to the work a real lever they are allowed to pull. I have written before about what it costs you when you do not, the good people who disengage, then burn out, then leave. In my hospitals, managers had standing authority to cut off walk-ins and squeeze-ins when the floor was underwater, a full hour before closing, with no permission required. If the person running the day judged that one more case would tip the whole evening over, they protected it. That single change did more for morale than any speech I ever gave. The people who can feel the day going wrong are the ones who should be allowed to stop it.
+
+## 3. The team that cannot say no
+
+Some of it is simply who we are. I think most of us came into this work as people pleasers, or at the very least pet pleasers, and there is always one more we want to help. A team like that does not need to be told to care. It needs permission to stop. Left to its own good intentions, a room full of people who cannot say no will fill the day past what it can carry, and then guard the back end to survive what the front end booked.
+
+The fix is to make "no" a normal word in the building instead of a small failure. That means backing the team when they decline a same-day add the day cannot hold, rather than overriding them to keep one client happy. It means giving them sanctioned language, a real "we cannot do that justice today, here is the soonest we can," so a no feels like protecting care instead of refusing it. And it means saying it yourself once in a while, because a team learns fastest what is allowed by watching whether the owner ever does it.
+
+## 4. It is not really about the schedule at all
+
+This one is harder to spot, and harder to say out loud. Sometimes a door gets guarded because someone does not feel ready to walk through it. It still fits the definition. A door is being guarded. What is being kept out is not a time of day but a kind of case.
+
+One day I caught our CSR referring a spay to another hospital while our own surgery schedule sat half empty. Sending a routine procedure and its revenue out the door made no sense, so I asked why. The answer was not on the schedule. One of our doctors had lost confidence in her surgical skills, and rather than say so, the team had built a workaround to protect her. They were routing cases away from her so she would never have to decline one in front of anyone. I had to dig to find that out, because nobody was going to volunteer it.
+
+That is not laziness, and it is not a scheduling problem, which is exactly why adjusting the schedule does nothing. It is a training or a confidence gap wearing a scheduling problem's clothes. Had I treated it as lost revenue and leaned on the CSR for sending cases away, I would have punished the person covering for a colleague and taught the whole team to hide the next problem deeper. Name the real thing instead, in private and without an audience, then offer the mentorship or the CE or the slower first few cases that rebuild the skill. Do that and the case stops being something to avoid.
+
+## 5. When revenue keeps the book open
+
+I should be honest about my own record. When I finally owned a hospital I made a vow to protect my team's time better than the schedules I had worked under, and I broke it more than once. Not because I stopped caring. When you own the place you also hold the budget, and the labor hours, the inventory, and the new equipment only happen if the revenue affords them. So the same person who wants to protect the team's evening is the one who knows that turning cases away is what keeps you from hiring the help that would relieve the crunch. That tension is real, and no pep talk dissolves it.
+
+What I had to accept is that you cannot willpower your way out of a math problem, but you can stop pretending the overfull book is free. It is not. You pay for it in turnover, in mistakes, in the seasoned tech who finally leaves for a clinic that closes on time. Put that cost next to the revenue and the trade stops looking obvious.
+
+What saved me was reading the right signal. One person stuck late on a hard night is a conversation with that person. The whole team stuck an hour past close, week after week, is not a coaching problem. It is a broken schedule, and no amount of coaching fixes a schedule.
+
+## 6. The schedule is fine, and the front desk is taking the blame
+
+This one is the opposite of everything above, and it catches good front desks. Sometimes the schedule is fair. The volume is reasonable, the case types are appropriate, and the receptionist is doing exactly what leadership asked, which is keep the book full. The clinical team grumbles at them anyway, and every busy afternoon becomes the front desk's fault.
+
+That has nothing to do with the schedule being wrong. It is the front of the hospital against the back, and it festers fast if no one names it. The receptionist who booked an honest, reasonable day should not have to absorb the team's resentment for doing the job.
+
+Part of the work is telling the difference. A front desk overloading an exhausted team is a scheduling problem you fix. A team blaming a reasonable front desk is a culture problem you shut down before it hardens. The people booking the appointments cannot become the enemy of the people seeing them. That split will cost you more than any single overbooked afternoon, and it is the same wound I described in an earlier piece on the days that fall apart: the front desk pays first when leadership will not hold a line.
+
+I think often about that receptionist and her phantoms. It would be easy to call what she does dishonest and go scrolling for her ghosts to delete them. But she is not the problem, and neither is the doctor she worked for. They are the smoke detector. They found the one lever anyone had given them, and they pulled it.
+
+The hospitals where I stopped finding phantoms were not the ones with stricter schedules. They were the ones where the team had a real lever instead, and where someone above them was listening when they reached for it. Once that was true, there were no ghosts left to find.
+
+---
+
+# Accountability in Veterinary Leadership: Why It Is Not Optional
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-06-01
+**Section:** Leadership
+**URL:** https://grayoakjournal.com/accountability-in-veterinary-leadership/
+
+This one is for Roxanne Eilers, who helped a team to heal and be their best.
+
+There are moments in veterinary medicine that do not just stay with you. They change the way you see hospitals, leadership, culture, and the slow erosion that happens when no one is willing to hold people accountable.
+
+Gallup research has documented for years that managers account for roughly seventy percent of the variance in team engagement, and that weak accountability is one of the most reliable predictors of turnover. Across the hospitals I have owned, the doctors I have worked alongside, and the team members I have coached, I have watched that research play out in real time. When accountability disappears, good people leave. Sometimes they leave the building. Sometimes they leave the profession. Either way, the cost is real.
+
+Years ago, I worked as a regular relief veterinarian at one hospital that made me question my life decisions. I had built and worked in highly successful hospitals. I knew what good culture felt like. I knew the difference between normal veterinary chaos and leadership-created chaos.
+
+This was not normal veterinary chaos. This was something else entirely.
+
+My first shift at this hospital, the team knew I was coming, and yet when I walked in, the practice manager was not there to greet me, show me around, log me into the systems, or help the team integrate a relief doctor into the day.
+
+I was just there, floundering around like a lost golden retriever in a parking lot.
+
+The team was at a loss, but what struck me most was that they were not surprised. There was no visible shock. No sense of "this is unusual." They had already absorbed it as normal.
+
+That told me almost everything I needed to know.
+
+The practice manager arrived late every day. At five minutes past her start time, the quiet mumblings began. By fifteen minutes late, there were full conversations. At some point, someone hinted that there may have been a betting pool on her arrival time, which would have been funny if it had not also been a fairly devastating employee engagement survey in real time.
+
+And the chaos did not stop at tardiness.
+
+One day, after the last appointment, I noticed several employees lingering in the hospital. That was unusual. This was not a team that stayed late for fun. They had lives and errands and families waiting for them. When the work was done, they left.
+
+But this day, they were waiting after their shift had ended, hanging around the treatment area because the person responsible for the schedule that would begin tomorrow had not posted it.
+
+That is not a scheduling issue. That is a leadership failure wearing a name tag.
+
+This was also the same practice manager who, while the team was visibly stressed under a monumental caseload, would sit on the treatment room counter and discuss the latest antics of her child. Or she would begin bottle-feeding whatever new litter of foster kittens she had brought in that week. Meanwhile, her team was drowning. Phones were ringing, patients needed care, and clients were waiting on callbacks. The person whose job it was to lead, organize, support, and remove obstacles was physically present but functionally absent.
+
+To be clear, I am pro-kitten. I have nothing against bottle babies. But there is a time and place for everything, and bottle-feeding kittens on company time while your team is being buried alive by the appointment schedule is not a leadership strategy. It is not even good optics.
+
+A fair question is whether the expectations were clear. Yes. They were. This was a hospital with clear rules around tardiness, personal pets, work expectations, and what should and should not happen on company time. The standards existed. The handbook existed. The policies existed.
+
+What did not exist was accountability.
+
+> Without accountability, policies are just decorative documents that live in a binder somewhere, occasionally dusted off when leadership visits.
+
+The morale in that hospital was awful. On my very first day, I left for lunch and did not want to come back. I wiped a few tears from my eyes in the parking lot because I knew there were better versions of veterinary medicine than this. I had lived them. I had helped build them. I knew hospitals could be busy, imperfect, emotionally intense, and still be healthy places to work.
+
+But this is what happens when standards are written down and not enforced. Good people carry the weight. Poor performers learn there are no consequences. Resentment grows until the team realizes the problem is no longer one person's behavior. The problem is that leadership is allowing it. One bad apple really will ruin the whole orchard if no one is willing to address it.
+
+Eventually the practice manager was dismissed for performance reasons, but it took far too long. By then, some really great employees had already left. That is one of the most painful parts of weak accountability. By the time leadership finally acts, some of the people you wanted to keep are gone.
+
+A new practice manager stepped in, and she was excellent. Strong work ethic. Comfortable holding people accountable without making accountability feel punitive or personal. She showed up. She followed through. She helped the team understand that the rules were real.
+
+The change was almost immediate. Morale improved. People who had been underperforming started to rise. Some became rock stars. The team showed up on time, ready to work, ready to do a good job. The building did not change. Veterinary medicine did not suddenly get easier. The leadership changed, and with it, the expectations became real.
+
+## When Leaders Exempt Themselves
+
+I saw another version of this later, with a doctor who showed up late every day. Not occasionally. Every day.
+
+We were peers. We had agreed on the hospital rules. We had a clear handbook every employee had read and signed. We had also agreed that accountability had to be timely, fair, and consistent so small problems did not become a toxic culture.
+
+What I did not anticipate was that I would have to go behind another leader and make sure they were holding themselves accountable. That sounds naive now. At the time I assumed that a lead veterinarian understood that leadership begins with personal behavior.
+
+The first real clue came from a client complaint. The appointment was running late because the doctor was not even in the building. Then I noticed the team trying to cover for them, which told me the issue was no longer just punctuality. When a team starts covering for a leader, the culture has already been compromised.
+
+They were not covering because everything was fine. They were covering because they had built a workaround that kept everyone safe. They did not want to upset the doctor. They had seen people come and go. They did not want to get caught in the middle. So they adapted to the dysfunction, which can look like loyalty from a distance but is usually fear wearing a polite little hospital-branded fleece.
+
+When I reviewed the security footage, I saw this doctor strolling in more than an hour late in the morning and taking lunches that regularly stretched to ninety minutes or longer. We did not just have an accountability issue. We had a lost revenue issue, a client service issue, a team trust issue, and a leadership credibility issue.
+
+The biggest damage was cultural.
+
+Once the team sees that rules can be bent arbitrarily for certain people, it becomes very hard to hold anyone else accountable. Why should the receptionist be on time if the doctor is not? Why should the assistant follow the handbook if leadership does not? Why should the technician hustle to stay on schedule if the person with the most power in the building creates delays and no one addresses it?
+
+People are quick to notice hypocrisy.
+
+I was at fault in that situation, too. Even though we were peers, that did not absolve me of responsibility. I saw the impact too late. I let it run too long. I underestimated how closely the team was watching.
+
+> Accountability is not only something we apply downward. It must apply across, upward, and inward.
+
+## How to Actually Hold People Accountable
+
+Accountability does not mean ambushing people. It does not mean public embarrassment. It does not mean waiting until you are so frustrated that the conversation qualifies as a weather event. Done well, it is structured, clear, timely, and fair. Here is what that looks like in practice.
+
+**1. Make the expectations clear.** You cannot hold people accountable to standards they do not understand. That means written job descriptions, attendance policies, scheduling expectations, communication standards, client service protocols, and rules around personal pets or personal tasks on the clock. The handbook is the starting point, not the finish line. The team also needs to hear the expectations in plain language and know what will happen when the standard is not met. A signature on a handbook does not create accountability. Leadership follow-through does.
+
+**2. Pay attention to what is actually happening.** Leaders cannot manage from assumptions. Are people arriving on time? Are lunches reasonable? Are schedules posted when they are supposed to be posted? Are callbacks completed? Are medical notes closed? Are leaders modeling the same standards they expect from everyone else? Culture is not what the handbook says. Culture is what actually happens when no one intervenes.
+
+**3. Address issues early and privately.** The first accountability conversation should be private, direct, and curious. Not a lecture. Not a hallway comment. Not sarcasm delivered with a smile while everyone pretends it was a joke. Try something like, "I have noticed you have been arriving fifteen to twenty minutes late several days a week. Help me understand what is going on." Sometimes there is a real issue. Childcare. Transportation. A medical concern. A scheduling problem that needs to be solved. Accountability should include curiosity. But curiosity is not avoidance. If the expectation is reasonable, the conversation has to move to clarity. "This role requires you to be here and ready to work by 8:00. Beginning tomorrow, that needs to happen consistently. We will check in again in two weeks."
+
+**4. Document the conversation and the expected change.** Documentation is not about building a case against someone. It is about creating clarity and protecting fairness. Capture the specific behavior, the expectation going forward, the timeline for improvement, any support being offered, the consequence if the behavior does not change, and the follow-up date. Vague accountability creates vague improvement. Specific accountability creates a path forward. When the time comes for a harder conversation, the goal is to be clear, not cruel. Rip the Band-Aid, not the skin.
+
+**5. Follow up when you said you would.** This is where most leaders fail. They have the uncomfortable conversation, feel temporary relief, and never return to it. The follow-up is what makes accountability real. If the person improves, acknowledge it. If they do not, escalate appropriately. If the leader does nothing, the team learns that accountability was just a mood, not a standard.
+
+**6. Apply accountability consistently, especially to leaders.** The higher someone sits in the organization, the more important accountability becomes. Leaders set the permission structure for everyone else. If a kennel assistant is late, that is a performance issue. If a practice manager is late every day, that is a culture issue. If a lead doctor ignores the standards, that is a leadership credibility issue. The team will forgive a leader who makes a mistake and owns it. They will not respect a leader who acts exempt.
+
+## The Hard Conversation Is Usually the Kindest One
+
+Many leaders avoid accountability because they do not want to be mean. But avoiding accountability is not kindness. It is conflict avoidance dressed up as compassion.
+
+It is unfair to the person who needs coaching, because they are never clearly told what must change. It is unfair to the team, because they absorb the consequences. And it is unfair to the business, because inefficiency, turnover, and resentment become normalized.
+
+Accountability, done well, is not an attack. It is a form of protection. It protects the standard, the team, the clients, the patients, and the people who are doing the right thing when no one is watching.
+
+The work is already hard enough. We do not need to make it harder by allowing preventable chaos to become the culture.
+
+The strongest hospitals I have known were not perfect. They still had conflict, bad days, and people who needed coaching. But they had leaders willing to protect the standard. They had leaders willing to have the conversation.
+
+They had leaders who understood that accountability is not the opposite of compassion.
+
+> Accountability is what allows compassion to survive.
+
+---
+
+# We Teach Our Clients How to Treat Us
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-05-25
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/we-teach-our-clients-how-to-treat-us/
+
+There is an old truth in veterinary medicine that we do not always want to admit.
+
+> We teach our clients how to treat us.
+
+Sometimes we teach them intentionally, with clear expectations and consistent systems. Other times, we teach them accidentally, by answering texts at 10:47 p.m., approving refill requests that are now "an emergency" because Fluffy took her last pill two days ago, is acting weird, and the client is shocked that this cannot be solved instantly by emotional urgency alone, or letting a client bypass the entire hospital team because somewhere along the way they got the doctor's cell phone number and decided that was the new front desk.
+
+Either way, the teaching is happening.
+
+The question is whether we are teaching by design or by panic.
+
+Proactive teaching means clients know how the hospital handles prescription refills. They know when to expect a return phone call. They know how appointment scheduling works. They know how the doctors and team members communicate with them.
+
+Reactive teaching sounds more like this:
+
+> "We do not usually take walk-ins, but they drove all the way here, so let's just squeeze her in between the dental and the laceration repair." "We don't normally answer medical questions through Facebook, but this client tagged us and it would feel rude not to respond." "We normally do not give out doctor cell phone numbers, but this client is special." And somehow, mysteriously, all 1,000+ clients become special.
+
+The first approach builds trust, clarity, and sustainability. The second builds entitlement, stress, resentment, and a team that starts making eye contact with job postings.
+
+## The Good Intentions That Create Bad Systems
+
+Most boundary problems in veterinary hospitals start with genuinely good intentions.
+
+Nobody wakes up and says, "You know what I would love to do today? Create an unsustainable client interaction system that slowly erodes morale and burns the team out by Wednesday."
+
+We are trying to help. We care about the client. We care about the pet. We care about being responsive. We care about not disappointing people.
+
+And then, little by little, we teach people that the system is optional.
+
+## I Was Once the Emergency Hospital, Except I Had a Couch and Poor Boundaries
+
+When I was a new graduate, I worked in a rural area where emergency veterinary care was limited. In that setting, I was not only the primary general practitioner, I was also the backup emergency room, recovery ward, client hotline, and occasionally a very underpaid boarding facility.
+
+It was not unusual for me to bring cases home over a weekend when the hospital was closed.
+
+A pneumonia dog in a crate at my house? Sure.
+
+A recovering cystotomy patient needing observation? Why not.
+
+A tiny post-op patient in my laundry room while I tried to pretend this was a normal lifestyle? Absolutely.
+
+At the time, it felt like the right thing to do. And in many cases, it probably was. There were not many other options.
+
+But it is no longer 2005, and veterinary medicine has changed. A lot.
+
+In many communities, emergency hospitals and urgent care hospitals now provide a level of support that simply did not exist years ago. As those resources developed, I built relationships with them. I learned to trust them. And in turn, I helped my clients learn to trust them too.
+
+That part is important.
+
+> Clients often trust what we trust.
+
+If we present the emergency hospital like, "I guess you can go there if you absolutely must," the client hears uncertainty. If we present it like, "They are excellent, they are equipped for this, and this is exactly what they do," the client hears confidence. And if they have your cell phone number, they will most definitely default to calling you anyway, and the guilt that got you into this position in the first place will kick in all over again.
+
+We do not have to be everything. Trying to be everything is not noble. It is usually just a direct route to burnout with a stethoscope around its neck.
+
+## Boundaries Are the Fence, Not the Wall
+
+A lot of veterinary people hear the word "boundary" and immediately feel guilty. We think boundaries mean we are being cold, unavailable, or uncaring.
+
+But boundaries are not a lack of caring. Boundaries are what allow caring people to keep caring without turning into crispy little emotional croutons. Research on healthcare professional burnout consistently identifies the erosion of professional boundaries as a primary contributing factor. In veterinary medicine, where compassion fatigue is already an occupational hazard, this is not a soft skill. It is a survival skill.
+
+A boundary is not a wall. It is a standard. It tells people how we work, how we communicate, and how we protect patient care. That is not poor service. That is a system. And a system is a beautiful thing, especially in a profession where the alternative usually involves a client handing you a fecal sample in a leaf.
+
+Boundaries are how we set the team up for success through empowerment. The front desk that knows the policy can hold the line. The technician who has been given authority can use it. The system protects them, and they protect the system.
+
+- **Phone calls.** Who answers, who routes, who returns, and how quickly. Including realistic expectations for return contact so the team is not chasing a 4:00 p.m. promise made at 9:00 a.m.
+- **Access to the doctor.** When, how, and through whom. Including whether the doctor's personal cell phone is part of the system or a workaround to it, and what after-hours contact actually looks like in your practice.
+- **Appointment scheduling.** How walk-ins are handled, how urgent cases are handled, and who has authority to fit cases in.
+- **Prescription refills.** What the timeline is, what requires a current exam, and what counts as a true exception.
+- **Test results.** What the realistic turnaround is, communicated up front. If the outside lab takes at least three business days and the doctor then needs to review before calling, tell the client at least five business days. Under-promise and over-deliver. This single habit sets the team up for success and prevents the 10:00 a.m. "did my results come in yet" call on day two.
+- **Payment and financial conversations.** Who has authority to discount, and what forms of payment are acceptable, even when Mrs. Smith assures you that Dr. X loves her fresh eggs and she will be bringing in some from her hens in lieu of traditional forms of payment.
+- **End-of-life appointments.** How euthanasia and hospice conversations are scheduled, who handles the initial call, how the team is protected from carrying every family's grief without support, and what families can expect from the experience. Boundaries here are not about logistics. They are about protecting people through one of the hardest moments in pet ownership.
+
+*These buckets hold most of the drama in a veterinary hospital. Get the systems right here, and the rest of the day gets noticeably quieter.*
+
+## The 9:00 a.m. Mrs. Smith Situation
+
+Every hospital knows this case.
+
+Mrs. Smith calls at 9:00 a.m. as the hospital opens. She needs a non-emergency medication refill.
+
+By 9:17, she calls again.
+
+By 9:31, she calls a third time and asks whether the doctor "got the message."
+
+By 9:42, another call and the front desk is questioning every career choice that led them to this moment.
+
+Now, Mrs. Smith may be a lovely person. She may love her pet deeply. She may be worried. She may also be the kind of client who could talk the ear off of corn, which is its own management challenge.
+
+But if Mrs. Smith has been taught that repeated calling moves her request to the front of the line, then repeated calling is exactly what she will do.
+
+That is not a character flaw. That is training.
+
+We trained her.
+
+And now we have to retrain her. Kindly. Clearly. Consistently.
+
+> "Mrs. Smith, we did receive your request. Refill requests are reviewed by the medical team, and we typically ask for 24 to 48 hours. We will contact you when it is ready or if the doctor has any questions."
+
+Then we have to actually stick to that. The sticking to it is the part where most hospitals fall dramatically off the horse, and it is the part that sets the team up for success or sets them up to absorb every Mrs. Smith call for the next six years.
+
+## The Special Client Problem
+
+Every hospital has "special clients." That is not the problem.
+
+The problem is when "special client" becomes a secret password that unlocks a completely different hospital. Across the hospitals I have owned, the doctors I have worked alongside, and the team members I have coached, the pattern is remarkably consistent. The names change. The dynamic does not.
+
+I once worked with a veterinarian who would have told you she had the best intentions. As a team, we would agree on hospital rules and communication systems. Then she would immediately make exceptions for her special clients. And by "special clients," I mean essentially everyone who had ever made eye contact with her in an exam room.
+
+They had her cell phone number. They could bypass the front desk. They could text questions directly.
+
+I was reminded of this on a busy Friday afternoon, because of course it was a Friday afternoon. Veterinary medicine has a special way of saving its most dramatic plot twists for Fridays.
+
+A "special" client walked in carrying a small cup of freshly caught urine.
+
+No phone call. No appointment. No warning. Just urine.
+
+She informed the receptionist that she needed us to run a urinalysis immediately because she was "best friends" with Dr. X. She also made it very clear that if Dr. X had not been out of town, she would have preferred to have Dr. X drive up to the hospital and handle this personally.
+
+But since Dr. X was unavailable, apparently we would have to do.
+
+So this client sat in the lobby, holding her cup of urine, shooting death rays from her eyes at the receptionist while waiting for the hospital to rearrange itself around her expectations.
+
+And here is the important part. She had been taught that this was acceptable. Not maliciously. Not intentionally. But consistently.
+
+Somewhere along the way, exceptions had become expectations. Direct access had become entitlement. And the team was left to enforce rules the client had already been taught did not really apply to her.
+
+From the client's perspective, this probably felt like concierge service. From the team's perspective, it felt like someone had taken our systems, placed them neatly in a box, and then run over the box with a car.
+
+It created entitlement from clients. It made the front desk look powerless. It made technicians feel unnecessary. It undermined teamwork. And worst of all, it made the doctor believe she was helping when she was actually creating more work for everyone, including herself.
+
+> Intent matters. Impact matters more.
+
+## The Goal Is Not to Be Rigid. The Goal Is to Be Reliable.
+
+None of this means we stop accommodating clients.
+
+I am a huge believer in accommodating clients when possible. We should help people. We should be flexible when it makes sense. We should use judgment. We should recognize that real life happens.
+
+But we should not accommodate in ways that create bad habits, punish the team, or damage the hospital. That is the line. A one-time exception for a kind client in a genuine bind is different from repeatedly rewarding poor planning, aggressive behavior, or system bypassing.
+
+A hospital can be compassionate without being chaotic. That is the sweet spot.
+
+## It Is Never Too Late to Retrain
+
+Here is the good news. It is never too late.
+
+Even if clients have been texting the doctor directly for years, expectations can be reset.
+
+The reset will feel awkward. Some clients will not love it. Some doctors will feel guilty. That is fine. Awkward does not mean wrong. Growth is often awkward. So is trimming a pug's nails, and we still have to do it.
+
+The rollout does not have to be dramatic. It usually looks like a team meeting where the new standards are named out loud, scripted language the front desk can lean on when a regular pushes back, and the doctor publicly walking back her own cell phone by telling clients directly that going forward, the hospital line is the best way to reach the team. This is how you set the team up for success. The front desk cannot enforce a standard the doctor has not publicly endorsed. That part has to come from the top, and it has to come more than once.
+
+The key is to communicate clearly and repeat the message until it becomes the new normal.
+
+> "To serve you and your pet well, all medical questions and refill requests need to go through the hospital phone line or email. This allows our team to document your request and respond appropriately."
+
+It took me longer than it should have to realize this is not rudeness. It is leadership.
+
+## Final Thought
+
+We are always teaching our clients how to treat us.
+
+We teach them whether the hospital system matters. We teach them whether the front desk has authority. We teach them whether "special" is a relationship or a workaround. We teach them whether the doctor's cell phone is the appointment line.
+
+The goal is not to become cold or unavailable. The goal is to become clear.
+
+Because a hospital without boundaries does not become more caring. It becomes more chaotic. And chaos may be exciting on reality television, but it is a terrible operating model for veterinary medicine.
+
+So set the expectations. Protect the systems. Support the team. Teach the clients.
+
+And please, for the love of all things covered in fur, stop letting the doctor's cell phone be the new front desk.
+
+---
+
+# Could've, Should've, Would've
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-05-18
+**Section:** Culture
+**URL:** https://grayoakjournal.com/veterinary-self-doubt/
+
+I try not to live in regret land. But I do find myself thinking about it. What could I have done. What should I have said. What would have been a better choice. That questioning and self-doubt feeds the little gremlin of our soul, the one who wakes us at 3am and keeps us up for the next hour.
+
+For those of us in the vet industry, the could've should've would've is especially harsh.
+
+You know the feeling. You wake up out of a dead sleep and it's: Could I have written down the wrong leg for Baxter's mass removal tomorrow? The vomiting cat. Could I have pushed harder for the x-rays, when all the owner wanted was a magical shot to make it go away? The dog who had the routine spay. Should I have kept her one more hour to observe? The puppy with a little bit of loose stool but eating and drinking fine. Should we have run the parvo test anyway? Mrs. Jones, 70 years old, going home with insulin. Would she have understood the protocol better if I had explained it one more time?
+
+We second-guess ourselves on what we saw on a physical exam, what we recommended to a client, what we administered to the pet, the diagnosis, the treatment, the prognosis. It is especially harsh because we are dealing with a person's pet. Their family member. Their companion. Their best friend. It is a stressful byproduct of being in this industry, and we do not talk about it enough.
+
+It does not help that we live in a country where accidents carry consequences far beyond the accident itself. The fear of those consequences shapes how we practice long before any of them actually happen. It rides in the passenger seat of every exam room.
+
+Let's actually define what we are talking about.
+
+That last part is the part that matters. *Without intent.*
+
+A construction crew mismeasures a foundation and the building goes up two inches off square. Tens of thousands of dollars to rework. Nobody set out to mismeasure. Somebody got tired, or got distracted, or read the wrong line on the plans. The mistake is real. The cost is real. The intent to cause damage is not. We call that an accident, and we expect the project to be repaired and the work to continue.
+
+A driver looks down at a text for one second and rear-ends the car in front of them. Insurance handles it. Nobody calls the driver evil. We call it an accident.
+
+A vet picks the wrong dose, or misses a finding on a film, or sends a pet home that should have stayed for observation. The pet is harmed. The family is devastated. The vet does not sleep for a week. And here is where the language gets dangerous, because somewhere along the way our profession started telling itself that this kind of mistake is not an accident. It is failure. It is reason to question whether you should be in this work at all.
+
+It is none of those things, unless you intended the harm. By the actual definition of the word, it is an accident. The same word we use for the construction crew and the distracted driver.
+
+## So What Is Really Driving the Could've Should've Would've?
+
+Is it regret? Or is it fear?
+
+I went to a therapist once and laid out my 'regrets.' Through a lot of conversation, we relabeled most of them as fears.
+
+I was afraid I had hurt a pet. Not in some abstract sense. A specific pet. A specific family. The dog who trusted me on the table. The cat whose owner cried in the lobby. The puppy whose name I still remember. I was afraid I had failed an animal who could not speak for itself, and a family who had handed that animal to me and asked me to fix it.
+
+That fear is the one that costs you something. It is the one that makes you set down your fork at dinner because you just remembered a case from three years ago. It is the one that makes you dread the post-op call instead of looking forward to it. It is the one that makes you wonder, on the drive home, whether you should have gone into another field. The legal and financial fears are loud, but this is the one that actually shapes you. Because every vet I know got into this work because of an animal. The fear of having harmed one is the fear of having betrayed the reason you are here at all.
+
+Yes, there were other fears too. I was afraid of losing the veterinary license I had worked so hard for. I was afraid of jeopardizing my own financial wellbeing and the wellbeing of the employees who counted on me. Those fears are real and I am not going to pretend they are not. But they are downstream of the first one. They are what your brain reaches for when the real fear, the one about the pet, is too painful to look at directly. The pet is the fear that wakes you up at 3am. Everything else is the aftershock.
+
+My therapist asked me a question that has stayed with me.
+
+> Did you purposefully injure or hurt a pet?
+
+No.
+
+Of course not. Not once. Not ever. That is not who I am, and it is not who any vet I have known is either. We do not go into this work to harm animals. We go into it because somewhere along the way an animal mattered enough to us that we wanted to spend our lives in service to them. That intention does not disappear when we make a mistake. A mistake made by someone trying their best to help is a fundamentally different thing than harm. Our brains at 3am are not good at telling the difference. They are also not kind narrators, which is its own problem. My therapist's question forces the difference into focus.
+
+And once that difference is in focus, the other fears get smaller too.
+
+Look at what malpractice actually means.
+
+Read that again. Negligence. Misconduct. Lack of ordinary skill. Breach of duty. Those are not the words for a vet who showed up, did the workup, made the call her training supported, and had a case go sideways anyway. Those are the words for someone who skipped steps, ignored protocols, or did not bother to know what they should have known. Malpractice is a specific charge with specific elements. It is not a synonym for "I am up at 3am wondering about a case."
+
+If I did not intend to cause harm, and I applied ordinary professional skill, then I was not committing malpractice. If I was not committing malpractice, then I was not going to lose my license. The legal and financial fears that had been living rent-free in my head turned out to be built on a foundation that did not actually exist. That realization, sitting in that therapist's office, was one of the most genuine moments of relief I have ever had in my career. I want every vet reading this to have that same moment.
+
+What I am, what most of us are, is a human being who tries, who sometimes needs to try harder, and who occasionally makes mistakes. Because that is what humans do. Animals get sick in ways we did not predict. Bodies do not always respond to medicine the way the textbook said they would. Owners hear half of what we say and remember a quarter of it. We work long hours, we carry the weight of every previous case into the next exam room, and decision fatigue is real even when we are doing everything right.
+
+I am not going to tell you to give yourself grace. That phrase has been put through too many inspirational graphics to mean anything anymore. What I will say is this. The next time the gremlin wakes you up at 3am, sort the noise first. Some of what you are feeling may be real regret. A case did not go the way you wanted. A pet did not make it. A family was hurt. That is real, and it deserves to be felt. Sit with it. Let it teach you something. Then let it rest.
+
+But the rest of it, the part that loops, the part that asks the same question on repeat, the part that wakes you up again the next night and the night after, that is not regret. That is fear. Fear that you are not good enough. Fear that you missed something. Fear that this case is the one that takes your license, your career, your sense of yourself.
+
+Ask yourself the therapist's question. Did you mean to cause harm? If the answer is no, then the fear has nothing to feed on. It is not regret. It is not malpractice. It is your brain at 3am, mistaking a memory for a verdict.
+
+Then maybe, just maybe, you can go back to sleep.
+
+When the gremlin wakes you up, work through these four questions in order.
+
+---
+
+# Talk the Ear Off of Corn
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-05-11
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/talk-the-ear-off-of-corn/
+
+This one is for my friend, Melissa Findlay, and her son, Aidan, who can carry a conversation with anyone.
+
+A friend of mine has a son who, in her words, could talk the ear off of corn.
+
+It is one of those phrases that lands the moment you hear it. You picture the kid. You also picture every adult in his life at the end of a long day, wondering if he plans to take a breath sometime before sundown.
+
+In a veterinary practice, we have all met the grown-up version. The chatty Cathys. The loquacious Larrys. The verbose Vernons. They are not difficult clients. They are not angry clients. They are not the ones we vent about in the break room. They are simply the ones who came in to talk about Fred the Labrador's itchy ears and somehow, twenty-three minutes later, are explaining the genetic improbability of their neighbor's sister-in-law's barn cat producing a litter of four kittens in four different colors. And by the way, while we're here, can we also talk about Ninja Mittens at home, because she's been doing this thing where she chews her back paw, and is it normal that she sleeps on top of the refrigerator now, and should we be feeding her the salmon food or the chicken food, and...
+
+There is no malice in it. There is often genuine warmth in it. These are the clients who like us, who trust us, who feel comfortable enough in our exam rooms to share the kind of detail their hairdresser also hears. That comfort is not a bad thing. We worked hard to build it.
+
+## The View From the Treatment Area
+
+But on the other side of the treatment room door is the veterinarian. She has glanced at the afternoon schedule. She knows what is coming. She knows how the next three hours are supposed to flow. And when her assistant has been in that exam room for twenty-two minutes of a thirty-minute appointment, she also knows exactly what the next three hours are about to look like instead.
+
+Nobody is doing anything wrong here. The assistant is doing what good service people do, which is letting the client feel heard. The veterinarian is doing what responsible doctors do, which is trying to honor the time she promised every other client on the schedule that day.
+
+> The problem isn't the chatty client. The problem is that we've left our team alone in that room with no idea how to handle her.
+
+## The Bind We Put Our Teams In
+
+Years ago, when my son was little and playing on his first soccer team, the coach pulled all of the parents aside before the season started. He told us, in so many words, that we had done a great job. Our kids were polite. Our kids were well-mannered. Our kids said please and thank you and waited their turn.
+
+And then he said, gently, that this was going to be a problem.
+
+Because polite kids do not call for the ball. Polite kids do not tell their teammate to pass. Polite kids hang back. He was not asking us to raise rude children. He was asking us to understand that being a good teammate sometimes requires the kind of direct, clear, slightly assertive voice that polite children have to be taught.
+
+I think about that conversation often when I watch a young assistant standing in an exam room she cannot get out of.
+
+We hire warm people in this profession. We look for the ones who will sit on the floor with a scared dog. We look for the ones who will hand a client a tissue without making a thing of it. We coach our teams on empathy and presence and not rushing the people in front of them. We tell them, rightly, that the client's experience matters as much as the medicine does.
+
+And then, when the chatty client arrives, we expect those same warm, attentive, empathetic people to find a graceful way to interrupt her, redirect her, and move her along. Without ever telling them how. Without ever giving them permission. And without the slightest sense from leadership that doing so is part of the job, not a betrayal of it.
+
+That's the bind. We trained warmth and forgot to train limits. We raised polite kids and forgot they would need to call for the ball someday.
+
+So our assistants stand there, polite and a little stuck, watching the clock and wondering if it's rude to bring the conversation back to Fred's ears. They choose politeness. They stay too long. And the schedule pays for it.
+
+## The Schedule Is a Promise to Every Client
+
+Here's the part that often gets missed in conversations about chatty clients. When we let one appointment run thirty minutes long for non-medical reasons, we aren't being generous. We're being generous to one client at the expense of every client who comes after her.
+
+The four o'clock who's now waiting forty minutes past her appointment time. The five-thirty who watches her doctor walk in tired and behind. The technician who skips lunch. The receptionist fielding the calls from the people in the lobby. The doctor who finishes charting at eight thirty instead of six.
+
+A schedule isn't a logistical inconvenience. It's a promise we made, in writing, to a series of people who arranged their day around the time we offered them. When we let that promise slide because we didn't know how to redirect a friendly client, we aren't choosing kindness. We're choosing one kind of kindness over another, and pretending the trade-off doesn't exist.
+
+This is the part the team needs to hear from us, and not just once. They've been told to be patient and warm. They haven't been told that protecting the schedule is also patient and warm, just to a different client. The teams that internalize this stop seeing redirection as a betrayal of the client in front of them and start seeing it as a kindness to the client still in the lobby.
+
+That's the why. Without it, they'll keep choosing politeness over the schedule, because politeness is what we hired them for.
+
+## What I've Watched Work
+
+So how does this actually play out on a Tuesday afternoon? In my experience, it comes down to three moments. What happens before the appointment, what happens during it, and what happens when the conversation has already gotten away from you.
+
+Here's the toolkit. The rest of this section unpacks it.
+
+In the morning huddle, the team flags the known chatty clients on the day's schedule. Make a plan ahead of time: who is doing what, who handles the redirect, who knocks if needed.
+
+Share the agenda-setting opener the assistant will use:
+
+*"Mrs. Smith, I see you have a thirty-minute appointment for Fred's ears today. Let me ask you a few quick questions about what's going on with him, and then I'll go grab the doctor so you get your full time with her."*
+
+The pivot from open to closed questions. When the client steers off course, switch to focused yes-or-no:
+
+*"Is Fred scratching more at night or during the day?"*
+
+*"Has he been doing this for more than a week?"*
+
+*"Is he scratching one ear or both?"*
+
+Acknowledgment plus redirect:
+
+*"I'm sorry to interrupt, but I want to make sure we get a good look at Fred's ears today. Can I ask you a quick question? When did you first notice him scratching?"*
+
+The rescue knock. Pre-arrange someone from the back to knock at the pre-determined time and say:
+
+*"Do you need anything? The doctor is ready when you are."*
+
+*"Mrs. Smith, the appointment today is for Fred. If we and the doctor have time, we can absolutely talk about Ninja Mittens, and if not, I'd love to get you scheduled so she can have her own visit and her own focused attention."*
+
+## Before: The Huddle and the Agenda-Setting Opener
+
+The teams I've seen handle this best aren't doing anything heroic. The work starts before the client ever walks in.
+
+Five minutes in the morning huddle to look at the schedule and flag the appointments where everyone already knows what to expect. Mrs. Smith is on the books for two o'clock. The team knows. The plan is set. Nobody has to improvise politeness in the moment.
+
+Then there's the agenda-setting opener. Instead of walking in with "how can we help you today" and bracing for whatever comes back, the assistant sets the frame.
+
+*"Mrs. Smith, I see you have a thirty-minute appointment for Fred's ears today. Let me ask you a few quick questions about what's going on with him, and then I'll go grab the doctor so you get your full time with her."*
+
+That sentence does a lot at once. It names the appointment's purpose. It signals there's a structure to the visit. It tells the client when the doctor is coming. And it doesn't invite an open-ended monologue, it invites a focused exchange.
+
+Clients respond well to this, especially the chatty ones. The opener is doing the thing they actually wanted, which is answering the unspoken question they walked in with. How is this visit going to go? When you tell them, they relax into it.
+
+## During: The Pivot From Open to Closed
+
+Here's a tension I've watched play out in practice after practice. We train our teams to ask open-ended questions, and we should. Open-ended questions are how you get a real medical history. "Tell me what you've noticed with Fred lately." That's the right tool when you need information.
+
+But open-ended questions are also exactly how you end up twenty minutes deep in the barn cat's litter. The same skill that gets you a good history is the skill that gets you stuck.
+
+The assistants I've watched do this well have learned to pivot. When the client steers off course, they don't ask another open question. They ask a focused yes-or-no.
+
+*"Is Fred scratching more at night or during the day?"*
+
+*"Has he been doing this for more than a week?"*
+
+*"Is he scratching one ear or both?"*
+
+These questions can't be answered with a story about a barn cat. They give the client something specific to think about and they put the conversation back on the patient. Nobody has to feel rude. The redirection is built into the question.
+
+This is a teachable skill, not instinct, and the assistants who do it well aren't naturally more assertive. They've usually had someone show them, or they've stumbled into it on their own and noticed it worked. Either way, it's something a team can learn.
+
+## When the Conversation Has Already Gotten Away
+
+Sometimes you walk into the room and it's already running. Mrs. Smith has been talking since the door opened and the appointment is slipping. This is when language matters most, and this is where I've seen good teams reach for two specific tools.
+
+The first is acknowledgment plus redirect.
+
+*"I'm sorry to interrupt, but I want to make sure we get a good look at Fred's ears today. Can I ask you a quick question? When did you first notice him scratching?"*
+
+The acknowledgment is what makes the interruption land. It tells the client I hear you, I'm not dismissing you, I'm just choosing to focus right now because I respect your appointment. That phrase, "I'm sorry to interrupt, but," is one of the most useful things I've watched a team learn. It isn't rude. It's professional warmth with a steering wheel.
+
+The second is the rescue knock. Every well-run practice I've been part of has some version of it. When the team knows going in that a client tends to run long, somebody from the back is pre-arranged to knock at the pre-determined time, poke their head in, and ask "do you need anything? The doctor is ready when you are."
+
+The knock isn't a trick. It's a structural way to redraw the lines without making the assistant be the one who has to do it. The team handles the moment together.
+
+## About the Pet Who Isn't in the Room
+
+The chatty client is also, very often, the client who wants to ask about another pet at home. Ninja Mittens is real. She probably does need to be seen. The client isn't wrong to ask. But Fred is the one in the room, and Fred is the one whose appointment is being eaten.
+
+The line I've watched land is something like this.
+
+*"Mrs. Smith, the appointment today is for Fred. If we and the doctor have time, we can absolutely talk about Ninja Mittens, and if not, I'd love to get you scheduled so she can have her own visit and her own focused attention."*
+
+That signals her time is valued. It explains the why. It gracefully ends the part of the visit that wasn't supposed to happen yet. And it offers Ninja Mittens her own moment instead of dismissing her.
+
+There's a quiet second benefit to handling it this way. By offering Ninja Mittens her own appointment instead of squeezing her into Fred's, we're protecting the schedule and capturing a visit we might otherwise have lost. The client leaves feeling cared for, the second pet gets actual care, and the practice gets compensated for the work. Nobody loses.
+
+## The Part That Doesn't Make It Into the Training Manual
+
+The thing I keep coming back to, watching front-line teams handle these moments, is that they rarely fail for lack of skill. They fail because nobody has ever told them they were allowed to redirect. The permission has to come from us, out loud, more than once. Until they believe it, they will keep choosing politeness over the schedule, because politeness is what we hired them for.
+
+## We Are Teaching Our Clients How to Treat Us
+
+There's one more thing worth saying out loud, even briefly. We don't just redirect chatty clients to protect our schedule. We redirect them because, over time, we are teaching them how to treat us.
+
+Every client interaction is training, in both directions. The way we run our visits teaches clients what to expect, and people tend to rise to the bar we set. The behaviors we tolerate are the behaviors we teach.
+
+This is a bigger topic than I can do justice to here, and it's one I plan to come back to in a future piece on setting client boundaries in veterinary medicine. For now, it's enough to name that the chatty client moment isn't just a scheduling problem. It's a teaching moment, and the lesson is one we are giving whether we mean to or not.
+
+And here's the part I didn't expect when I first started running practices. When clients hear the why out loud, they respond beautifully. "Mrs. Smith, the doctor wants to give you her full attention, so let me get her started." Almost no one argues with that. Almost everyone appreciates it. The framing of "we are protecting your time with the doctor" lands differently than the unspoken "please stop talking" they were probably bracing for.
+
+The chatty client isn't the villain in this story. She never was. She's a perfectly nice person who likes you, likes your hospital, and would happily take an hour of your day if you let her.
+
+The question is whether we've given our teams what they need to handle that moment with grace, or whether we've left them alone in the exam room hoping they figure it out.
+
+> The schedule is a promise. The team is doing its best. And the rest is on us.
+---
+
 # When the Leader Is the Emergency: How to Lead Your Team Through Crisis and Trauma
 
 **Author:** Dr. Susan Ries Valashinas
