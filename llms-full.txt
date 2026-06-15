@@ -4,6 +4,74 @@
 
 ---
 
+# Doctor-First Room Flow: A Faster Way to Run Veterinary Sick Appointments
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-06-15
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/doctor-first-room-flow-veterinary-sick-appointments/
+
+We all know how this plays out. The veterinary assistant (VA) comes out of the sick dog room. Fred is here for vomiting. She gives me the signalment, then walks me through what she gathered: vomiting started two days ago, the owner doesn’t think he got into anything and says he doesn’t eat household objects, no diarrhea, still eating and drinking, urinating normally. She is confident she asked everything.
+
+**Me:** Did they say what the vomit looks like? Bile or food?
+
+**VA:** Blink.
+
+**Me:** Is he keeping water down?
+
+**VA:** She said he’s drinking normally.
+
+**Me:** Right, but does it stay down? Does he vomit right after eating or drinking?
+
+**VA:** I’m not sure.
+
+**Me:** Any new medications recently?
+
+**VA:** Blink, blink.
+
+**Me, thinking out loud:** I wonder if he’s PU/PD?
+
+The VA exits stage left.
+
+So I head into the room myself. Fred is a golden retriever. And Mrs. Jones, unprompted, remembers that he ate a sock two years ago and it had to come out surgically. “But this is definitely not that, because he learned his lesson and it just started this morning. Do you think he’s just tired of his food? Is that why he won’t eat?”
+
+**Me:** I thought he’d been vomiting for two days but still eating?
+
+**Mrs. Jones:** Blink, blink.
+
+And notice, the VA didn’t get any of this wrong. She relayed exactly what she was told. The story didn’t break because of her. It broke because the owner’s version changed the moment I was in the room. This is nobody’s fault, and that is the point.
+
+## The Problem Isn’t the People, It’s the Relay
+
+Whether your sick rooms are run by a veterinary assistant or a credentialed veterinary technician, the problem I’m describing is the same. It isn’t about the skill of the person. It’s about the relay itself.
+
+This is nobody’s fault. No team member can anticipate every question a given doctor is going to ask on a given day, especially when some of those questions are oddball ones specific to how I happen to think through a case. But the setup makes them feel like they’re standing in front of a firing squad. It builds a divide between the DVM and the support team.
+
+Here is the part that wears on a team. You can train well. You can build protocols that lay out the exact questions to ask for a vomiting case, a limping case, a coughing case. And your team member can run that list flawlessly and still walk out missing the one thing the doctor wanted, because the doctor’s brain went somewhere the protocol didn’t. So she feels like she let the doctor down. Again. Even though she did everything she was taught to do. Do that to a good team member enough times and she stops feeling like part of the medicine and starts feeling like the person who keeps getting the answer wrong.
+
+Early in my career, I ran my sick appointments the traditional way. The VA pre-nursed the room, took the history, got vitals, came out and briefed me. Then I’d ask the questions she hadn’t thought to ask, we’d go back in together, and the story would change in real time. The two days of vomiting became “it started this morning.” The food became bile. The history I’d been handed rewrote itself the second I was in the room.
+
+## Why Doctor-First Room Flow Works
+
+Years in, I heard about a system where the doctor goes into sick cases first. I rolled my eyes. I remained skeptical, as it sounded like more work, not less. I was wrong.
+
+One day every technician and assistant was busy and a lethargic pet with uncontrollable diarrhea was waiting to be seen in room 1. My anxiety kicked in as I mentally counted how much diarrhea we’d be cleaning up with each minute that ticked by. But I also recognized that everyone was legitimately slammed, and I could just go in myself, talk with the owner, take the history, do my physical exam, and come up with a plan. So I tried it. And it worked. I collected all the information, there was none of the back-and-forth with my assistant, and the story from the owner never changed. That’s when I embraced this as a truly more efficient way to run a sick visit.
+
+Going in first kills the back-and-forth. You hear it straight from the source, the first time, the way it actually happened. Once I committed to it, I was noticeably faster in the room. I hear the story firsthand, talk the client through next steps, and keep moving.
+
+Think about what the old way actually costs in time. My team member spends a chunk of the appointment taking a history. Then the owner spends that same stretch again telling me the same story, or a different one, all over again. It’s the same history taken twice, back to back, before anyone has run a single diagnostic. Going in first collapses that into one conversation, and the pet starts getting bloodwork, radiographs, and treatment that much sooner.
+
+To be clear, I still have my team pre-nurse preventative care and routine wellness appointments. They’ve been thoroughly trained on the education piece, and they can easily walk an owner through what their pet needs at a wellness visit. That doesn’t need to tie up DVM time. It’s the sick cases, where the history is everything and it tends to shift the moment I walk in, that I handle first.
+
+## Where the Team’s Time Should Actually Go
+
+I also use that first conversation to do more than take a history. I find out whether we’re working inside a budget or a time constraint. If the pet is being dropped off, I set the pickup time right then. I owe my clients respect for their time the same way I expect respect for mine, and a preset pickup time means nobody is sitting around waiting on anyone else for the rest of their day to unfold. The client isn’t tethered to a callback that may or may not come, and I’m not the doctor whose day got away from her and forgot to phone. From there, I set their expectations about who will be calling them, when, and with what, so they know updates will come as test results land. (If you want more on holding that line in both directions, I wrote about it in We Teach Our Clients How to Treat Us.)
+
+Then, once the owner has agreed on how to proceed, I hand the case to my team, and they run with the diagnostics and treatment. And I’m freed up. While I’m waiting on test results to come in, I’m working other cases, finishing SOAP notes, returning phone calls.
+
+That’s where the team’s time should go. Not into relaying a history that’s going to change anyway. Into the medicine.
+---
+
 # Scheduling in the Vet Hospital So Everyone Leaves on Time
 
 **Author:** Dr. Susan Ries Valashinas
