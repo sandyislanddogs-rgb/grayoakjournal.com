@@ -8,6 +8,7 @@ Site: https://grayoakjournal.com
 
 ## Essays
 
+- [Empathy vs. Sympathy: The Most Misused Word in Veterinary Medicine](https://grayoakjournal.com/empathy-vs-sympathy/): Why sympathy, not empathy, is the emotion that survives a veterinary career, and what the burnout research on empathic distress and compassion fatigue actually says.
 - [Doctor-First Room Flow: A Faster Way to Run Veterinary Sick Appointments](https://grayoakjournal.com/doctor-first-room-flow-veterinary-sick-appointments/): Why seeing sick cases first, before the assistant takes the history, speeds up appointments, protects the team, and gets pets into diagnostics sooner. Workflow Efficiency Series.
 - [Scheduling in the Vet Hospital So Everyone Leaves on Time](https://grayoakjournal.com/veterinary-scheduling-leave-on-time/): Phantom appointments and gatekeeping are symptoms of broken veterinary scheduling. Six reasons a day runs late, and the fix for each one, so your team gets home on time.
 - [Accountability in Veterinary Leadership: Why It Is Not Optional](https://grayoakjournal.com/accountability-in-veterinary-leadership/): Two stories on what happens when leaders fail to hold people accountable, plus a six-step framework for getting it right.
