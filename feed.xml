@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gray Oak Journal</title>
+    <link>https://grayoakjournal.com/</link>
+    <atom:link href="https://grayoakjournal.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Essays on veterinary leadership, mentorship, culture, and practice management by Dr. Susan Ries Valashinas, DVM.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Empathy vs. Sympathy: The Most Misused Word in Veterinary Medicine</title>
+      <link>https://grayoakjournal.com/empathy-vs-sympathy/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/empathy-vs-sympathy/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <description>A veterinarian on why sympathy, not empathy, is the emotion that survives a veterinary career, and what burnout research says about empathic distress.</description>
+    </item>
+    <item>
+      <title>Doctor-First Room Flow: A Faster Way to Run Veterinary Sick Appointments</title>
+      <link>https://grayoakjournal.com/doctor-first-room-flow-veterinary-sick-appointments/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/doctor-first-room-flow-veterinary-sick-appointments/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>A veterinarian on why seeing sick cases first, before the assistant takes the history, speeds up appointments, protects the team, and gets pets into diagnostics sooner.</description>
+    </item>
+    <item>
+      <title>Veterinary Scheduling: How to Get Everyone Out on Time</title>
+      <link>https://grayoakjournal.com/veterinary-scheduling-leave-on-time/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/veterinary-scheduling-leave-on-time/</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Phantom appointments and gatekeeping are symptoms of broken veterinary scheduling. Six causes, and the fix for each one, so your team gets home on time.</description>
+    </item>
+    <item>
+      <title>Accountability in Veterinary Leadership: Why It Is Not Optional</title>
+      <link>https://grayoakjournal.com/accountability-in-veterinary-leadership/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/accountability-in-veterinary-leadership/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Two stories on what happens when leaders fail to hold people accountable, plus a six-step framework for getting it right. From The Gray Oak Journal.</description>
+    </item>
+    <item>
+      <title>We Teach Our Clients How to Treat Us</title>
+      <link>https://grayoakjournal.com/we-teach-our-clients-how-to-treat-us/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/we-teach-our-clients-how-to-treat-us/</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <description>We teach our clients how to treat us. Sometimes intentionally, sometimes by answering texts at 10:47 p.m. A veterinarian on boundaries, systems, and the special client problem.</description>
+    </item>
+    <item>
+      <title>Could&#x27;ve, Should&#x27;ve, Would&#x27;ve: Veterinary Self-Doubt at 3am</title>
+      <link>https://grayoakjournal.com/veterinary-self-doubt/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/veterinary-self-doubt/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>A veterinarian on the 3am gremlin, the question her therapist asked, and how to tell veterinary self-doubt from actual malpractice.</description>
+    </item>
+    <item>
+      <title>Talk the Ear Off of Corn: Helping Your Veterinary Team Manage Chatty Clients</title>
+      <link>https://grayoakjournal.com/talk-the-ear-off-of-corn/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/talk-the-ear-off-of-corn/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>How to help your veterinary team redirect chatty clients without losing warmth. Practical phrases, coaching tools, and why protecting the schedule is an act of kindness.</description>
+    </item>
+    <item>
+      <title>When the Leader Is the Emergency: How to Lead Your Team Through Crisis and Trauma</title>
+      <link>https://grayoakjournal.com/when-the-leader-is-the-emergency/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/when-the-leader-is-the-emergency/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>What happens when the person your team relies on is the one who needs help. A real story about crisis leadership, debriefs, and what near-misses reveal about your culture.</description>
+    </item>
+    <item>
+      <title>The Tail on the Counter</title>
+      <link>https://grayoakjournal.com/the-tail-on-the-counter/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/the-tail-on-the-counter/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>How strong veterinary leaders teach their teams to prioritize the right work, in the right order, at the right time. Sequence, deadlines, and why the reasoning matters.</description>
+    </item>
+    <item>
+      <title>She Did Not Need to Be Managed More. She Needed to Be Trusted More.</title>
+      <link>https://grayoakjournal.com/if-you-dont-trust-them-why-did-you-hire-them/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/if-you-dont-trust-them-why-did-you-hire-them/</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Why leaders fail to empower employees, and what it costs them. A practical look at hovering, micromanagement, and the bottleneck you built by accident.</description>
+    </item>
+    <item>
+      <title>The Family Crest Would Be a Donkey</title>
+      <link>https://grayoakjournal.com/the-family-crest-had-a-donkey-on-it/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/the-family-crest-had-a-donkey-on-it/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Stubborn does not need instructions. A veterinarian on recognizing the trait in yourself, understanding why people resist change, and knowing when patience stops being leadership.</description>
+    </item>
+    <item>
+      <title>Lost in Translation</title>
+      <link>https://grayoakjournal.com/lost-in-translation/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/lost-in-translation/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <description>If your client leaves the room confused, it does not matter how correct you were. Clear communication is not a soft skill. It is a clinical skill, a service skill, and a leadership responsibility.</description>
+    </item>
+    <item>
+      <title>The Lost Art of Porch Sitting</title>
+      <link>https://grayoakjournal.com/the-lost-art-of-porch-sitting/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/the-lost-art-of-porch-sitting/</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Most veterinary leaders are present but not observing. Dr. V on why stillness is a leadership skill, and what you miss when you never stop moving.</description>
+    </item>
+    <item>
+      <title>Some People Would Rather Quit Than Say Sorry</title>
+      <link>https://grayoakjournal.com/some-people-would-rather-quit-than-say-sorry/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/some-people-would-rather-quit-than-say-sorry/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <description>When an employee walks out rather than apologize, it reveals a personality trait that can quietly destroy your veterinary team&#x27;s culture and patient safety.</description>
+    </item>
+    <item>
+      <title>&quot;Try Again Tomorrow&quot;: Because Today Was a Disaster</title>
+      <link>https://grayoakjournal.com/try-again-tomorrow/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/try-again-tomorrow/</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Snapping doesn&#x27;t make you a bad person. Refusing to reflect on it does. Self-reflection, apologies, and fixing the systems behind veterinary burnout.</description>
+    </item>
+    <item>
+      <title>Decision Fatigue Is Real. And So Is My Relationship With Reality TV</title>
+      <link>https://grayoakjournal.com/decision-fatigue/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/decision-fatigue/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>When you make high-stakes decisions all day, your brain needs real rest. A veterinarian on decision fatigue, burnout, and building a daily off switch.</description>
+    </item>
+    <item>
+      <title>Rip the Band-Aid, Not the Skin</title>
+      <link>https://grayoakjournal.com/rip-the-bandaid/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/rip-the-bandaid/</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <description>A veterinarian with 20+ years of leadership experience on how to terminate an employee with clarity and dignity, without unnecessary damage to them, to you, or to your team.</description>
+    </item>
+    <item>
+      <title>One Bad Apple Will Ruin the Whole Orchard</title>
+      <link>https://grayoakjournal.com/one-bad-apple/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/one-bad-apple/</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <description>A veterinary leader with 20 years of practice experience on knowing when coaching has run its course, and why waiting too long costs more than you think.</description>
+    </item>
+    <item>
+      <title>The Unicorn in Sensible Shoes</title>
+      <link>https://grayoakjournal.com/the-unicorn-in-sensible-shoes/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/the-unicorn-in-sensible-shoes/</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <description>We have become so accustomed to indifferent service that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes.</description>
+    </item>
+    <item>
+      <title>The Best Veterinarian in Town Can Still Lose to a Friendlier Front Desk</title>
+      <link>https://grayoakjournal.com/the-best-veterinarian/</link>
+      <guid isPermaLink="true">https://grayoakjournal.com/the-best-veterinarian/</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Great veterinary medicine is not enough. The service experience surrounding it determines whether clients return, refer others, or quietly disappear. A leadership perspective on hiring, culture, and the mindset shift most hospitals have not made yet.</description>
+    </item>
+  </channel>
+</rss>

@@ -29,11 +29,16 @@ Site: https://grayoakjournal.com
 - [The Unicorn in Sensible Shoes](https://grayoakjournal.com/the-unicorn-in-sensible-shoes/): We have become so accustomed to indifferent service that when someone simply does their job well, we talk about it as though we have spotted a unicorn in sensible shoes.
 - [The Best Veterinarian in Town Can Still Lose to a Friendlier Front Desk](https://grayoakjournal.com/the-best-veterinarian/): Your hospital is not primarily a healthcare provider. It is a service business that happens to deliver healthcare. That distinction changes everything.
 
-## About
+## Pages
 
-- [About Dr. V & the Journal](https://grayoakjournal.com/#about)
+- [Blog — All Posts](https://grayoakjournal.com/blog/): Every essay in the journal.
+- [About Dr. V & the Journal](https://grayoakjournal.com/about/): About The Gray Oak Journal and its author, Dr. Susan Ries Valashinas, DVM.
+- [Contact](https://grayoakjournal.com/contact/): Editorial, partnership, and general inquiries.
+- [Partner With Gray Oak Journal](https://grayoakjournal.com/partner/): Affiliate partnerships, newsletter sponsorships, and sponsored content.
 
 ## Optional
 
-- [Contact](mailto:grayoakjournal@gmail.com)
+- [Disclosures](https://grayoakjournal.com/disclosures/): Affiliate and sponsored-content disclosures.
+- [Privacy Policy](https://grayoakjournal.com/privacy/)
+- [Terms of Use](https://grayoakjournal.com/terms/)
 - [LinkedIn](https://www.linkedin.com/in/susan-valashinas-dvm-91784b195/)
