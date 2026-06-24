@@ -54,6 +54,15 @@
     .nav-links a:hover { color:#fff; padding-left:6px; }
     .nav-tagline { margin-top:auto; font-size:0.78rem; color:rgba(255,255,255,0.25); line-height:1.7; }
     main { padding-top:64px; }
+    .hero { position:relative; min-height:520px; display:flex; align-items:flex-end; overflow:hidden; }
+    .hero-bg { position:absolute; inset:0; background-size:cover; background-position:center center; }
+    .hero-overlay { position:absolute; inset:0; background:linear-gradient(288deg, rgba(245,242,236,0.94) 0%, rgba(245,242,236,0.78) 40%, rgba(245,242,236,0.30) 68%, rgba(245,242,236,0.08) 100%); }
+    .hero-fade { position:absolute; bottom:0; left:0; right:0; height:90px; background:linear-gradient(to bottom, transparent, var(--cream)); }
+    .hero-content { position:relative; z-index:2; padding:5rem 2rem 4.5rem; max-width:860px; width:100%; margin:0 auto; }
+    .hero .hero-eyebrow { font-size:0.72rem; font-weight:500; letter-spacing:0.15em; text-transform:uppercase; color:var(--accent); margin-bottom:1.25rem; }
+    .hero h1 { font-family:var(--serif); font-size:clamp(2.4rem,5.5vw,4rem); font-weight:700; line-height:1.1; letter-spacing:-0.03em; color:var(--ink); margin-bottom:1.25rem; }
+    .hero h1 em { font-style:italic; color:var(--accent); }
+    .hero-sub { font-size:1rem; font-weight:300; color:var(--ink); line-height:1.75; max-width:430px; }
     .page-hero { padding:5rem 2rem 2rem; max-width:860px; margin:0 auto; }
     .hero-eyebrow { font-size:0.7rem; font-weight:500; letter-spacing:0.18em; text-transform:uppercase; color:var(--accent); margin-bottom:0.75rem; }
     .page-hero h1 { font-family:var(--serif); font-size:clamp(2rem,5vw,3.2rem); font-weight:700; letter-spacing:-0.03em; line-height:1.1; }
@@ -112,11 +121,16 @@
   </div>
 
   <main>
-    <div class="page-hero">
-      <p class="hero-eyebrow">About</p>
-      <h1>From the exam room<br>to <em>the written page.</em></h1>
-      <p class="lead">Experience is an excellent teacher, although it has a habit of giving the exam first and the lesson afterward.</p>
-    </div>
+    <section class="hero">
+      <div class="hero-bg" style="background-image: url('/about-dog-hero.jpg');"></div>
+      <div class="hero-overlay"></div>
+      <div class="hero-fade"></div>
+      <div class="hero-content" style="text-align:right; display:flex; flex-direction:column; align-items:flex-end;">
+        <p class="hero-eyebrow">About</p>
+        <h1>From the exam room<br>to <em>the written page.</em></h1>
+        <p class="hero-sub" style="text-align:right;">Experience is an excellent teacher, although it has a habit of giving the exam first and the lesson afterward.</p>
+      </div>
+    </section>
     <div class="page-body">
       <h2>About The Gray Oak Journal</h2>
       <p>Leadership is often described with polished language: vision, strategy, alignment, transformation. In reality, it more commonly involves difficult decisions, uncomfortable conversations, and the occasional realization that the situation is not nearly as under control as it appeared five minutes earlier.</p>
