@@ -355,8 +355,44 @@
       max-width: 860px;
       margin: 0 auto;
       padding: 3rem 2rem;
+    }
+    .work-cta {
+      background: var(--warm);
+      border-top: 1px solid var(--rule);
       border-bottom: 1px solid var(--rule);
     }
+    .work-cta-inner {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.75rem 2rem;
+    }
+    .work-cta h2 {
+      font-family: var(--serif);
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin-bottom: 0.85rem;
+    }
+    .work-cta-body {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink2);
+      line-height: 1.75;
+      max-width: 620px;
+      margin-bottom: 1.25rem;
+    }
+    .work-cta-link {
+      font-family: var(--sans);
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(184,92,42,0.4);
+      padding-bottom: 2px;
+      transition: border-color 0.15s;
+    }
+    .work-cta-link:hover { border-bottom-color: var(--accent); }
     .section-label {
       font-size: 0.68rem;
       font-weight: 500;
@@ -617,6 +653,7 @@
     .hero-content     { animation: fadeUp 0.65s cubic-bezier(0.4,0,0.2,1) both; }
     .topics-bar       { animation: fadeUp 0.65s 0.08s cubic-bezier(0.4,0,0.2,1) both; }
     .featured-section { animation: fadeUp 0.65s 0.14s cubic-bezier(0.4,0,0.2,1) both; }
+    .work-cta         { animation: fadeUp 0.65s 0.17s cubic-bezier(0.4,0,0.2,1) both; }
     .posts-section    { animation: fadeUp 0.65s 0.20s cubic-bezier(0.4,0,0.2,1) both; }
   </style>
 </head>
@@ -684,6 +721,14 @@
             <p class="post-meta"><time datetime="2026-03-15">March 15, 2026</time> &nbsp;·&nbsp; 7 min read</p>
           </div>
         </a>
+      </section>
+
+      <section class="work-cta">
+        <div class="work-cta-inner">
+          <h2>Work with us</h2>
+          <p class="work-cta-body">The two of us have spent our careers building and running veterinary hospitals, and hitting marks we were told a practice like ours couldn&rsquo;t hit. If you love your practice but the business of running it is pulling you under, that&rsquo;s exactly who we built this for.</p>
+          <a class="work-cta-link" href="/work-with-us/">See how we help</a>
+        </div>
       </section>
 
       <section class="posts-section">
