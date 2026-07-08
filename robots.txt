@@ -1,4 +1,4 @@
-# Welcome to Gray Oak Journal — discovery encouraged.
+# Welcome to The Gray Oak Journal — discovery encouraged.
 User-agent: *
 Allow: /
 

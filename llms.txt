@@ -1,4 +1,4 @@
-# Gray Oak Journal
+# The Gray Oak Journal
 
 > Reflections on leadership, mentorship, and the practical challenges of guiding organizations and developing people. The ideas start in veterinary medicine, but they apply anywhere people lead people.
 
@@ -37,7 +37,7 @@ Site: https://grayoakjournal.com
 - [Work With Us — Gray Oak Veterinary Consulting](https://grayoakjournal.com/work-with-us/): Practice consulting for independent veterinary owners — a Remote Practice Review or an On-Site Practice Intensive with two operators who built and ran their own hospitals.
 - [About Dr. V & the Journal](https://grayoakjournal.com/about/): About The Gray Oak Journal and its author, Dr. Susan Ries Valashinas, DVM.
 - [Contact](https://grayoakjournal.com/contact/): Editorial, partnership, and general inquiries.
-- [Partner With Gray Oak Journal](https://grayoakjournal.com/partner/): Affiliate partnerships, newsletter sponsorships, and sponsored content.
+- [Partner With The Gray Oak Journal](https://grayoakjournal.com/partner/): Affiliate partnerships, newsletter sponsorships, and sponsored content.
 
 ## Optional
 
