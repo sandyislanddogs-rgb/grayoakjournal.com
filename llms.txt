@@ -8,6 +8,7 @@ Site: https://grayoakjournal.com
 
 ## Essays
 
+- [What We Owe Clients Before We Run the Test](https://grayoakjournal.com/what-we-owe-clients-before-we-run-the-test/): A veterinarian on the up-front conversations that prevent client frustration: what a test can and cannot prove, honest timelines, the full-case estimate, budget, and whether a family can actually do the care.
 - [The Serial Retiree: Why Retirement Didn't Stick for Me](https://grayoakjournal.com/the-serial-retiree/): A veterinarian on why retirement didn't stick, and the real work of building a network, finding hobbies, and sourcing purpose after a career built on being needed.
 - [Every Drop-Off Needs a Pickup Time](https://grayoakjournal.com/every-drop-off-needs-a-pickup-time/): A relief vet on the one intake habit that keeps a veterinary team from staying late: give every drop-off a real pickup time and a named callback. Part of the Workflow Efficiency series.
 - [When Your Favorite Client Stops Asking for You](https://grayoakjournal.com/when-your-favorite-client-stops-asking/): Solo vets say there's a shortage. The real reason many stay solo: control. A veterinarian on hiring an associate, sharing leadership, and the ego work that comes with scaling.
