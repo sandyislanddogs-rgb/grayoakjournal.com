@@ -374,6 +374,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -411,6 +434,11 @@
       <p class="article-meta"><time datetime="2026-05-04">May 4, 2026</time> &nbsp;&middot;&nbsp; 8 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">Leading a team through trauma starts with the debrief, a lesson I learned after an adolescent Mastiff bit my face. We sat down together and talked honestly about what happened, including what was preventable. Then the work continues for months: watching for small shifts that show someone is still carrying that day, and checking in gently.</p>
+      </div>
+
 
       <p>An adolescent Mastiff put his teeth through my face on a Saturday morning, and the first thing I remember is the looks on my team's faces when they saw mine. It was bad. I did not need a mirror. Their expressions of horror said enough.</p>
 

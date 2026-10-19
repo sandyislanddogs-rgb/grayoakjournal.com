@@ -386,6 +386,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -422,6 +445,11 @@
       <p class="article-meta"><time datetime="2026-03-23">March 23, 2026</time> &nbsp;·&nbsp; 5 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">When we snap, the fix is a plain apology followed by a look at the systems behind it: an overstuffed schedule, people in the wrong roles, thin training and client boundaries that bend depending on who answers. Fixing those tackles burnout at the source, so tomorrow&rsquo;s vow to be less of a jerk has a real shot.</p>
+      </div>
+
 
       <p><em>This one's for Dr. Stephanie Smith, Jacksonville, NC. She knows why.</em></p>
 

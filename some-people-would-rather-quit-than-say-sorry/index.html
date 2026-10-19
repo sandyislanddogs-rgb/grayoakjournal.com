@@ -386,6 +386,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -423,6 +446,11 @@
       <p class="article-meta"><time datetime="2026-03-30">March 30, 2026</time> &nbsp;&middot;&nbsp; 6 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">I used to think an employee who won&rsquo;t apologize could be coached into it, until a long-time team member walked out rather than say sorry. In a hospital built on rechecking each other, someone who can&rsquo;t stand being wrong shuts down the corrections keeping patients safe. Now we ask candidates about a mistake, and references about how they took correction.</p>
+      </div>
+
 
       <p>I recently witnessed something that has stayed with me. Not because of the medicine, but because of what happened after it.</p>
 
