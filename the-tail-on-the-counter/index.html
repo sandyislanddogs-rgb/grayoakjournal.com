@@ -374,6 +374,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -411,6 +434,11 @@
       <p class="article-meta"><time datetime="2026-04-28">April 28, 2026</time> &nbsp;&middot;&nbsp; 6 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">I&rsquo;ve learned that asking a team to focus on what&rsquo;s important gets you almost nowhere, since everything on the list feels important. Prioritizing well means defining the order and the deadline for each role, and explaining why. Client complaints and prior-day callbacks on critical and surgical patients always come before the tidy, completable work.</p>
+      </div>
+
 
       <p>A veterinary assistant briefed me on the next case before I walked in. I had seen the appointment pop up on the schedule and was genuinely excited. I had never met an Akbash (Turkish livestock guardian dog) in person, and I was looking forward to it.</p>
 

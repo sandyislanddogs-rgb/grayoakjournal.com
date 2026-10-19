@@ -401,6 +401,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -438,6 +461,11 @@
       <p class="article-meta"><time datetime="2026-07-20">July 20, 2026</time> &nbsp;&middot;&nbsp; 7 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">If you want to know how to be a good mentee, treat mentorship as an investment in your own career rather than a service delivered on your schedule. The new doctors I saw grow fastest did their homework before asking and admitted what they did not know. Respect the techs, too, because they will bail you out often.</p>
+      </div>
+
       <p>There is no shortage of advice on how to be a good mentor. Whole conferences are built around it, every leadership track has a session on it, countless books have been written about it, and do not get me started on how many mentoring posts show up in my LinkedIn feed.</p>
 
       <p>But mentoring is a handshake, and a handshake takes two hands.</p>

@@ -204,6 +204,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -241,6 +264,11 @@
       <p class="article-meta">May 25, 2026 &nbsp;&middot;&nbsp; 10 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">Clients learn how to treat us from what we allow, so every exception and every late-night text to the doctor&rsquo;s cell is a lesson. Setting client boundaries takes consistent policies on refills, callbacks and doctor access, backed publicly by the doctors. Retraining clients is always possible, even when the reset feels awkward.</p>
+      </div>
+
 
       <p>There is an old truth in veterinary medicine that we do not always want to admit.</p>
 

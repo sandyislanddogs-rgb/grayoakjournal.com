@@ -401,6 +401,29 @@
     }
     .kr-card:hover h4 { color: var(--accent); }
     .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
+    .short-version {
+      margin-bottom: 2rem;
+      padding: 1.25rem 1.5rem;
+      background: var(--warm);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 4px 4px 0;
+    }
+    .short-version .sv-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .short-version .sv-text {
+      font-size: 1rem;
+      font-weight: 300;
+      color: var(--ink);
+      line-height: 1.7;
+    }
+    .short-version p + p { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -439,6 +462,11 @@
       <p class="article-meta"><time datetime="2026-08-24">August 24, 2026</time> &nbsp;&middot;&nbsp; 8 min read</p>
     </div>
     <div class="article-body">
+      <div class="short-version">
+        <p class="sv-label">The Short Version</p>
+        <p class="sv-text">Clients judge us less on the workup than on whether the day matched what we told them, as Homer&rsquo;s dad taught me when day two cost extra. Setting client expectations before diagnostics means saying up front that a test may only rule things out, how long it really takes, and what the whole case could cost.</p>
+      </div>
+
       <p>Homer is the Lab we all love. Clownish, full of energy, deeply committed to tennis balls. A typical visit with him involves his dad distracting him with one while I try not to get beaten by an aggressively wagging tail.</p>
 
       <p>That morning was different. He was lying on the tile floor of the exam room. He lifted his eyes to me and gave the floor one small thump with his tail, and that was all he had.</p>
