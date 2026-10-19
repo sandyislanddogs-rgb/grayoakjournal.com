@@ -371,6 +371,36 @@
       from { opacity: 0; transform: translateY(14px); }
       to   { opacity: 1; transform: translateY(0); }
     }
+    .keep-reading {
+      margin-top: 3rem;
+      padding-top: 1.75rem;
+      border-top: 1px solid rgba(26,23,20,0.12);
+    }
+    .keep-reading-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .kr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    @media (max-width: 700px) { .kr-grid { grid-template-columns: 1fr; gap: 1.75rem; } }
+    .kr-card { text-decoration: none; display: block; }
+    .kr-thumb { aspect-ratio: 16/9; background: var(--warm); border-radius: 3px; overflow: hidden; }
+    .kr-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .kr-card h4 {
+      font-family: var(--serif);
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      margin-top: 0.6rem;
+      transition: color 0.15s;
+    }
+    .kr-card:hover h4 { color: var(--accent); }
+    .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
   </style>
 </head>
 <body>
@@ -472,6 +502,27 @@
       <p>If you need a second opinion, ask Hallmark. They&rsquo;ve had a hundred years to read the room, and they still sell sympathy cards. Nobody&rsquo;s buying empathy cards. Maybe the greeting card people figured out before the rest of us that concern is the thing you can actually give away.</p>
 
       <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+      <div class="keep-reading">
+        <p class="keep-reading-label">Keep reading</p>
+        <div class="kr-grid">
+          <a class="kr-card" href="/the-serial-retiree/">
+            <div class="kr-thumb"><img src="/deer-grazing-veterinary-retirement.jpg" alt="Four white-tailed deer, one still spotted, grazing in a green field" loading="lazy" decoding="async"></div>
+            <h4>The Serial Retiree: Why Retirement Didn&rsquo;t Stick for Me</h4>
+            <p class="kr-date">August 17, 2026</p>
+          </a>
+          <a class="kr-card" href="/how-to-be-a-good-mentee/">
+            <div class="kr-thumb"><img src="/how-to-be-a-good-mentee.jpg" alt="Two hands clasped in a handshake, representing the two-sided nature of a mentoring relationship" loading="lazy" decoding="async"></div>
+            <h4>How to Be a Good Mentee: The Other Half of the Handshake</h4>
+            <p class="kr-date">July 20, 2026</p>
+          </a>
+          <a class="kr-card" href="/sometimes-they-just-want-to-vent/">
+            <div class="kr-thumb"><img src="/sometimes-they-just-want-to-vent.jpg" alt="A yellow Labrador resting on the ground with a muddy tennis ball" loading="lazy" decoding="async" style="object-position:center 45%;"></div>
+            <h4>Sometimes They Just Want to Vent</h4>
+            <p class="kr-date">July 13, 2026</p>
+          </a>
+        </div>
+      </div>
 
       <p style="margin-top:2.5rem; font-size:0.85rem; font-style:italic; font-weight:300; color:var(--ink2); line-height:1.7; border-top:1px solid rgba(26,23,20,0.12); padding-top:1.5rem;">Dr. V is a veterinarian with over twenty years of clinical and operational leadership experience. She has owned and operated several veterinary hospitals, weathered many shifts in the industry, and served on advisory councils. She writes The Gray Oak Journal at grayoakjournal.com.</p>
 

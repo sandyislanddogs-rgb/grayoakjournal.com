@@ -371,6 +371,36 @@
       from { opacity: 0; transform: translateY(14px); }
       to   { opacity: 1; transform: translateY(0); }
     }
+    .keep-reading {
+      margin-top: 3rem;
+      padding-top: 1.75rem;
+      border-top: 1px solid rgba(26,23,20,0.12);
+    }
+    .keep-reading-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .kr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    @media (max-width: 700px) { .kr-grid { grid-template-columns: 1fr; gap: 1.75rem; } }
+    .kr-card { text-decoration: none; display: block; }
+    .kr-thumb { aspect-ratio: 16/9; background: var(--warm); border-radius: 3px; overflow: hidden; }
+    .kr-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .kr-card h4 {
+      font-family: var(--serif);
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      margin-top: 0.6rem;
+      transition: color 0.15s;
+    }
+    .kr-card:hover h4 { color: var(--accent); }
+    .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
   </style>
 </head>
 <body>
@@ -457,6 +487,27 @@
       <p>The back can keep the dentals.</p>
 
       <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+      <div class="keep-reading">
+        <p class="keep-reading-label">Keep reading</p>
+        <div class="kr-grid">
+          <a class="kr-card" href="/veterinary-practice-policies-protect-team/">
+            <div class="kr-thumb"><img src="/veterinary-practice-policies-protect-team.jpg" alt="A stack of cardboard shipping boxes and padded mailers, several marked Fragile" loading="lazy" decoding="async" style="object-position:center 45%;"></div>
+            <h4>The Woman With Twenty Returns</h4>
+            <p class="kr-date">October 6, 2026</p>
+          </a>
+          <a class="kr-card" href="/every-drop-off-needs-a-pickup-time/">
+            <div class="kr-thumb"><img src="/every-drop-off-needs-a-pickup-time.jpg" alt="A black Labrador puppy sitting on a wood floor, looking up at the camera" loading="lazy" decoding="async" style="object-position:center 38%;"></div>
+            <h4>Every Drop-Off Needs a Pickup Time</h4>
+            <p class="kr-date">August 10, 2026</p>
+          </a>
+          <a class="kr-card" href="/doctor-first-room-flow-veterinary-sick-appointments/">
+            <div class="kr-thumb"><img src="/doctor-first-room-flow.jpg" alt="Golden retriever wearing a patriotic bandana lying calmly on a wooden dock" loading="lazy" decoding="async" style="object-position:center 35%;"></div>
+            <h4>Doctor-First Room Flow: A Faster Way to Run Veterinary Sick Appointments</h4>
+            <p class="kr-date">June 15, 2026</p>
+          </a>
+        </div>
+      </div>
 
       <p style="margin-top:2.5rem; font-size:0.85rem; font-style:italic; font-weight:300; color:var(--ink2); line-height:1.7; border-top:1px solid rgba(26,23,20,0.12); padding-top:1.5rem;">Dr. V is a veterinarian with over twenty years of clinical and operational leadership experience. She has owned and operated several veterinary hospitals, weathered many shifts in the industry, and served on advisory councils. She writes The Gray Oak Journal at grayoakjournal.com.</p>
 

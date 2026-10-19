@@ -385,6 +385,36 @@
       from { opacity: 0; transform: translateY(14px); }
       to   { opacity: 1; transform: translateY(0); }
     }
+    .keep-reading {
+      margin-top: 3rem;
+      padding-top: 1.75rem;
+      border-top: 1px solid rgba(26,23,20,0.12);
+    }
+    .keep-reading-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .kr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    @media (max-width: 700px) { .kr-grid { grid-template-columns: 1fr; gap: 1.75rem; } }
+    .kr-card { text-decoration: none; display: block; }
+    .kr-thumb { aspect-ratio: 16/9; background: var(--warm); border-radius: 3px; overflow: hidden; }
+    .kr-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .kr-card h4 {
+      font-family: var(--serif);
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      margin-top: 0.6rem;
+      transition: color 0.15s;
+    }
+    .kr-card:hover h4 { color: var(--accent); }
+    .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
   </style>
 </head>
 <body>
@@ -462,6 +492,27 @@
       <p style="margin-top:2.5rem; padding-top:1.5rem; border-top:1px solid rgba(26,23,20,0.12); font-size:0.9rem; font-style:italic; color:var(--ink2);">A companion to <a href="/veterinary-hospital-hierarchy/">Skill Is Not a Rank</a>, which is about the riders. This one is about the guide.</p>
 
       <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+      <div class="keep-reading">
+        <p class="keep-reading-label">Keep reading</p>
+        <div class="kr-grid">
+          <a class="kr-card" href="/veterinary-hospital-hierarchy/">
+            <div class="kr-thumb"><img src="/veterinary-hospital-hierarchy.jpg" alt="A line of riders on Icelandic horses crossing a shallow river under a wide cloudy sky" loading="lazy" decoding="async" style="object-position:center 55%;"></div>
+            <h4>Skill Is Not a Rank</h4>
+            <p class="kr-date">September 29, 2026</p>
+          </a>
+          <a class="kr-card" href="/culture-of-no/">
+            <div class="kr-thumb"><img src="/culture-of-no.jpg" alt="Veterinary receptionist speaking with a client and dog at the front desk" loading="lazy" decoding="async"></div>
+            <h4>How a Culture of No Takes Over a Veterinary Hospital</h4>
+            <p class="kr-date">July 1, 2026</p>
+          </a>
+          <a class="kr-card" href="/accountability-in-veterinary-leadership/">
+            <div class="kr-thumb"><img src="/accountability-clock.jpg" alt="Wall clock with dappled tree shadow" loading="lazy" decoding="async"></div>
+            <h4>Accountability in Veterinary Leadership: Why It Is Not Optional</h4>
+            <p class="kr-date">June 1, 2026</p>
+          </a>
+        </div>
+      </div>
 
       <p style="margin-top:2.5rem; font-size:0.85rem; font-style:italic; font-weight:300; color:var(--ink2); line-height:1.7; border-top:1px solid rgba(26,23,20,0.12); padding-top:1.5rem;">Dr. V is a veterinarian with over twenty years of clinical and operational leadership experience. She has owned and operated several veterinary hospitals, weathered many shifts in the industry, and served on advisory councils. She writes The Gray Oak Journal at grayoakjournal.com.</p>
 

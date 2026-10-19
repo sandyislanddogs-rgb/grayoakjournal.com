@@ -356,6 +356,36 @@
       from { opacity: 0; transform: translateY(14px); }
       to   { opacity: 1; transform: translateY(0); }
     }
+    .keep-reading {
+      margin-top: 3rem;
+      padding-top: 1.75rem;
+      border-top: 1px solid rgba(26,23,20,0.12);
+    }
+    .keep-reading-label {
+      font-family: var(--sans);
+      font-size: 0.7rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+    .kr-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+    @media (max-width: 700px) { .kr-grid { grid-template-columns: 1fr; gap: 1.75rem; } }
+    .kr-card { text-decoration: none; display: block; }
+    .kr-thumb { aspect-ratio: 16/9; background: var(--warm); border-radius: 3px; overflow: hidden; }
+    .kr-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .kr-card h4 {
+      font-family: var(--serif);
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      margin-top: 0.6rem;
+      transition: color 0.15s;
+    }
+    .kr-card:hover h4 { color: var(--accent); }
+    .kr-date { font-size: 0.72rem; color: var(--ink2); opacity: 0.55; margin-top: 0.3rem; }
   </style>
 </head>
 <body>
@@ -511,6 +541,27 @@
       <p>You led well.</p>
 
       <p style="margin-top:2rem; font-family:var(--serif); font-style:italic; color:var(--ink);">&mdash; Dr. V<br>The Gray Oak Journal</p>
+
+      <div class="keep-reading">
+        <p class="keep-reading-label">Keep reading</p>
+        <div class="kr-grid">
+          <a class="kr-card" href="/when-your-favorite-client-stops-asking/">
+            <div class="kr-thumb"><img src="/when-your-favorite-client-stops-asking.jpg" alt="A young Rottweiler sitting in a sunlit backyard, looking upward" loading="lazy" decoding="async" style="object-position:center 22%;"></div>
+            <h4>When Your Favorite Client Stops Asking for You</h4>
+            <p class="kr-date">August 3, 2026</p>
+          </a>
+          <a class="kr-card" href="/fobo-trap-veterinary-hiring/">
+            <div class="kr-thumb"><img src="/fobo-trap-veterinary-hiring.jpg" alt="Standard poodle lying on a blue and cream patterned area rug, the one rug kept after returning fifteen others" loading="lazy" decoding="async"></div>
+            <h4>The FOBO Trap: Why Good Veterinarians Struggle to Hire</h4>
+            <p class="kr-date">July 27, 2026</p>
+          </a>
+          <a class="kr-card" href="/some-people-would-rather-quit-than-say-sorry/">
+            <div class="kr-thumb"><img src="/golden-hour-pawprints.jpg" alt="Dog silhouetted against golden hour sunset" loading="lazy" decoding="async"></div>
+            <h4>Some People Would Rather Quit Than Say Sorry</h4>
+            <p class="kr-date">March 30, 2026</p>
+          </a>
+        </div>
+      </div>
 
       <p style="margin-top:2.5rem; font-size:0.85rem; font-style:italic; font-weight:300; color:var(--ink2); line-height:1.7; border-top:1px solid rgba(26,23,20,0.12); padding-top:1.5rem;">Dr. V is a veterinarian with over twenty years of clinical and operational leadership experience. She has owned and operated several veterinary hospitals, has weathered many shifts in the industry, and served on advisory councils. She writes The Gray Oak Journal at grayoakjournal.com.</p>
 
