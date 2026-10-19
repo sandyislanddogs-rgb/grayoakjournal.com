@@ -409,6 +409,20 @@
       line-height: 1.7;
     }
     .short-version p + p { margin-top: 0; }
+    .hub-link {
+      font-family: var(--sans);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--ink2);
+      opacity: 0.75;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(26,23,20,0.25);
+      transition: color 0.15s, opacity 0.15s;
+    }
+    .hub-link:hover { color: var(--accent); opacity: 1; border-bottom-color: var(--accent); }
+    .hub-sep { color: var(--ink2); opacity: 0.4; margin: 0 0.45rem; font-size: 0.65rem; }
   </style>
 </head>
 <body>
@@ -440,7 +454,7 @@
       <img src="../tired-healthcare.jpg" alt="Tired healthcare worker leaning against hospital wall" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
     </div>
     <div class="article-header" style="padding-top:2rem;">
-      <span class="post-tag">Leadership</span>
+      <span class="post-tag">Leadership</span><span class="hub-sep">&middot;</span><a class="hub-link" href="/leadership-and-culture/">More in Leadership and Culture</a>
       <h1>"Try Again Tomorrow": Because Today Was a Disaster</h1>
       <p class="article-meta"><time datetime="2026-03-23">March 23, 2026</time> &nbsp;·&nbsp; 5 min read</p>
     </div>
@@ -572,7 +586,12 @@
     <div style="display:flex; gap:1.1rem; flex-wrap:wrap;">
       <a href="/">Home</a>
       <a href="/about/">About</a>
-      <a href="/blog/">Blog</a>
+      <a href="/blog/">Blog</a><!--hub-footer-links-->
+      <a href="/hiring-and-firing/">Hiring and Firing</a>
+      <a href="/client-communication/">Client Communication</a>
+      <a href="/practice-operations/">Practice Operations</a>
+      <a href="/leadership-and-culture/">Leadership and Culture</a>
+      <a href="/mentoring-and-wellbeing/">Mentoring and Wellbeing</a>
       <a href="/ask/">Ask</a>
       <a href="/work-with-us/">Work With Us</a>
       <a href="/contact/">Contact</a>

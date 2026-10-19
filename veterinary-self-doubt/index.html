@@ -448,6 +448,20 @@
       line-height: 1.7;
     }
     .short-version p + p { margin-top: 0; }
+    .hub-link {
+      font-family: var(--sans);
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--ink2);
+      opacity: 0.75;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(26,23,20,0.25);
+      transition: color 0.15s, opacity 0.15s;
+    }
+    .hub-link:hover { color: var(--accent); opacity: 1; border-bottom-color: var(--accent); }
+    .hub-sep { color: var(--ink2); opacity: 0.4; margin: 0 0.45rem; font-size: 0.65rem; }
   </style>
 </head>
 <body>
@@ -479,7 +493,7 @@
       <img src="../vet-self-doubt.jpg" alt="A veterinarian awake in bed at 3am, the gremlin of self-doubt keeping her up" style="width:100%;border-radius:4px;aspect-ratio:16/9;object-fit:cover;">
     </div>
     <div class="article-header" style="padding-top:2rem;">
-      <span class="post-tag">Culture</span>
+      <span class="post-tag">Culture</span><span class="hub-sep">&middot;</span><a class="hub-link" href="/mentoring-and-wellbeing/">More in Mentoring and Wellbeing</a>
       <h1>Could've, Should've, Would've</h1>
       <p class="article-subtitle">On veterinary self-doubt, the fear of having harmed a patient, and the question that finally let me sleep.</p>
       <p class="article-meta">May 18, 2026 &nbsp;&middot;&nbsp; 8 min read</p>
@@ -625,7 +639,12 @@
     <div style="display:flex; gap:1.1rem; flex-wrap:wrap;">
       <a href="/">Home</a>
       <a href="/about/">About</a>
-      <a href="/blog/">Blog</a>
+      <a href="/blog/">Blog</a><!--hub-footer-links-->
+      <a href="/hiring-and-firing/">Hiring and Firing</a>
+      <a href="/client-communication/">Client Communication</a>
+      <a href="/practice-operations/">Practice Operations</a>
+      <a href="/leadership-and-culture/">Leadership and Culture</a>
+      <a href="/mentoring-and-wellbeing/">Mentoring and Wellbeing</a>
       <a href="/ask/">Ask</a>
       <a href="/work-with-us/">Work With Us</a>
       <a href="/contact/">Contact</a>
