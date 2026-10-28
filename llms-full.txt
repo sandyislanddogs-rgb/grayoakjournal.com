@@ -4,6 +4,988 @@
 
 ---
 
+# How to Hire the Right Person for Your Veterinary Practice
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-10-28
+**Section:** Hiring
+**URL:** https://grayoakjournal.com/veterinary-hiring-process/
+
+I have hired for every role in the hospital, and I have hired badly enough times to know exactly how it happens. I saw the stress on my overworked, fatigued team, decided the candidate in front of me was “good enough,” and rushed the process. That rushed step is almost always where the trouble was hiding, and the discipline is in refusing to shortcut it in the exact moment you are tired and short-staffed and most tempted to.
+
+These are my steps. They don’t have to be your steps, but you need a system you adhere to every time. Consider this the overview, the first piece in a series, and over the coming weeks I will give each step its own article that digs into the details. One thing before we start: whoever is responsible for hiring has to block real time for it on their own calendar and be fully present at every step, not just physically present while their mind is on the floor.
+
+## Step 1: Screen the resume
+
+**Goal:** Shrink the pool so you spend your interview time only on genuine contenders.
+
+The resume is your cheapest filter, which is why it comes first. Read it for history and trajectory, whether the moves between jobs make sense and whether the experience maps to the role, and treat a tailored cover note as a sign this person is applying to you rather than blasting the same file at every clinic in the county. One rule I hold to, for support and client-facing roles rather than credentialed positions like LVT or DVM: I don’t automatically discard candidates from adjacent industries. A strong client service background from another field can be worth more than years in vet med, so I screen those resumes in rather than out and let the interview tell me about the person.
+
+→ Resume review: what to actually look for (future article to follow)
+
+## Step 2: The phone or video interview
+
+**Goal:** Verify baseline qualifications, communication skills, schedule availability, and salary expectations before anyone drives anywhere.
+
+Make no mistake, this is an interview, so treat it like one, with a set list of questions and a clear sense of what each is screening for. Walk their employment history, ask why they left prior positions since that is rarely on a resume, address any gaps, and confirm the schedule and pay range line up before going further, all while reading whether they are friendly, engaged, and actually listening. Video beats phone whenever you can get it, because you learn whether they make eye contact, whether they are distracted, and whether they prepared and presented themselves like the interview mattered.
+
+→ The screening interviews: phone, video, and in person (future article to follow)
+
+## Step 3: The in-person interview
+
+**Goal:** Assess personality, core competencies, and overall fit.
+
+This is where you read what a resume cannot show, how they carry themselves, how they handle a harder question in real time, and how they treat the people they don’t think they need to impress. It is also where disposition finally comes into view, and disposition is why I keep an open mind about support and client-facing candidates from other industries: a warm person with great instincts can outperform someone with a vet med history and a sour attitude, because teaching vaccine protocols is far easier than fixing a personality. Hire the disposition and train the medicine.
+
+→ The screening interviews: phone, video, and in person (future article to follow)
+
+## Step 4: The working interview
+
+**Goal:** See how someone actually works, not just how they interview.
+
+If you take one step from this list, take this one. A working interview is where you see a candidate’s real level of interest and engagement and how they interact with the team, the things an interview across a desk simply cannot show you. There is enough to say about running one well that it gets its own piece.
+
+→ How to run a veterinary working interview (flagship, future article to follow)
+
+## Step 5: Reference and prior employment checks
+
+**Goal:** Confirm the story holds up, and hear what a resume and an interview will never tell you.
+
+These are the calls that take the longest to get returned, and they are worth the wait. Call the listed references, but remember they were hand-picked to say nice things, so the higher-value move is calling prior workplaces beyond just the last one. The candidate who is outgoing and gregarious and has all the lingo down pat is exactly the one you want to check, because a prior employer may be the one to tell you about the chronic call-outs or the pot-stirring. Vet med is a small world, so lean on your own network too: a trusted contact with overlap is a better read than any reference the candidate chose for you.
+
+→ Due diligence: references, prior employment, and screening (future article to follow)
+
+## Step 6: The optional background check and drug screen
+
+**Goal:** Apply role-appropriate due diligence, evenly and deliberately.
+
+Set your policy by position before a candidate is in front of you and apply it evenly to everyone in that role, since consistency is what keeps it fair and, in some cases, legal. The laws vary by state, so know yours.
+
+→ Due diligence: references, prior employment, and screening (future article to follow)
+
+## Why you front-load all of this
+
+Every hour you put in up front is paid back by the right hire, and settling because someone was “good enough” rarely works out. The hard part is that you are usually hiring when your team is tired and short-handed, which is exactly when “good enough” looks most tempting, so the real work is figuring out how to carry that team through the stretch, covering the gap and lightening the load however you can, so you can hold out for the right person instead of rushing the wrong one. Every team I have ever led agreed on this when I asked: they would far rather wait for the right teammate than take on the burden of the wrong one, and holding out has never once let me down.
+---
+
+# When the Euthanasia Appointment Has No Notes
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-10-12
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/euthanasia-appointment-no-notes/
+
+Ask anyone who has spent time working in a veterinary hospital and they will tell you which appointment changes the air in the building. It is the three o’clock euthanasia. The team sees it on the schedule and something shifts, the vibe changes, the jokes and the usual banter in the treatment area stop. The technicians start setting up the comfort room, someone pulls the paw-print kit, and the front desk gets quiet because they know a family is about to walk in on one of the worst days they will have all year.
+
+That stillness is the team doing its job well, and it is also the team not knowing exactly how this one will go. These appointments are all unique and somewhat unpredictable, even though as professionals we try to manage them as best we can. What I want to talk about is the version that should never happen, the one that puts everyone on edge for the wrong reason. It is the euthanasia that shows up on the schedule with no prior conversation behind it, no chart notes, no record that the veterinarian and the family ever talked through what was happening and why today was the day. Just a name, a time, and a whole team bracing for something nobody has confirmed is the right call.
+
+I wish I could tell you this is rare, a strange one-off, but anyone in veterinary medicine knows it is not. These appointments find their way onto the schedule more often than we would like, and when one lands with nothing behind it, we have set everyone up to fail. The fix is not complicated, and I will get to it, but let me first show you what it looks like when the conversation never happens.
+
+I was covering as a relief veterinarian at a hospital that was not my own. A Weimaraner came in for euthanasia. He was eight years old, and on the schedule it said euthanasia with nothing in the record telling me why. His history was thin in the best way, once-a-year visits for his vaccines and no major health problems ever noted, the chart of a dog who had been well. Then I walked into the exam room, and he greeted me with a goofy pant. He was a fairly healthy dog with decent muscle tone, a little cloudiness in the eyes and nothing that explained why he was there that afternoon. The story was that he had slowed down on the stairs and did not want to jump into the car anymore, which sounded like possible routine arthritis in a middle-aged dog. I raised it with the owner and discussed options such as a workup or a simple trial of anti-inflammatories before we ever got to the thing we cannot undo.
+
+Here is the part that matters, because it is the part a phone call would have changed. This owner had not weighed the medications and rejected them. He simply had not known there were any. What he knew was that he did not want to watch the family dog decline, and he did not want to put him through heroics at the end. So he had made a hard decision and arrived fully committed to it, mentally and emotionally set on losing the dog today, the kids’ goodbyes already spent that morning and the dog already loaded into the car and driven in. When I offered him another path, he had no interest in reconsidering. He had decided and was not going to change his mind.
+
+So we reached a standoff, in a room, with a fairly healthy dog panting between us, and I could not in good conscience euthanize that animal. But it was not my hospital and it was not my final say. The chief of staff on duty came in, and because the owner was adamant and the goodbyes were already said, she euthanized the dog.
+
+I have carried that one for a long time, because we did not set the patient, the client, the team, or me up for success. I felt bad that the chief of staff was put in that position, essentially cleaning up a situation I had created by holding onto my morals and declining to carry out the client’s decision. And I was annoyed, in equal measure, that she had never put a better system in place, one that would have kept either of us from standing in that room at all.
+
+## What one phone call would have changed
+
+Picture the same case with a few minutes of a veterinarian’s time spent before the appointment ever arrived. The doctor sees the euthanasia on the books, sees a chart with nothing on it but annual vaccines, and picks up the phone. The owner explains what he is seeing at home and that he does not want his dog to suffer. The veterinarian listens, then says the thing that reframes the whole day. This sounds like it could be early arthritis, there are options worth trying first, and nothing has to be decided this afternoon. It may still come to euthanasia, and if it does the doctor will be right there for it, but it is not a certainty, and it is a decision the doctor has to be part of, made together with the family.
+
+Now the owner arrives holding a different thought. He came in believing one thing was going to happen for certain, and he leaves the call understanding it might not. That is the entire argument for pre-screening euthanasia appointments. When one shows up on the schedule with no notes showing the veterinarian has already had this conversation, somebody calls beforehand. A couple of minutes about what is happening at home, what the family is seeing, and why they believe it is time, and the disaster never unfolds.
+
+One thing on this, and it is not optional. These calls need to be handled by a veterinarian, or at an absolute minimum an experienced technician with the expertise to ask the right questions. Do not pawn this off on a client service rep or a vet assistant, and do not let the call become a throwaway “the doctor will decide when you bring him in.” This is an emotional roller coaster for people. A couple of real minutes from someone qualified, setting the scenarios up honestly, is the whole point.
+
+Let me be clear about what this is not, because it is easy to misread. It is not about keeping pets alive to suffer. When it is time, it is time, and part of our job is giving a family permission to let go and a pet a peaceful, dignified death. I will defend that work to anyone. It is also not an excuse to Band-Aid a dying animal with drugs we throw at a situation we cannot fix, or to run another round of tests just to run them, because both of those are their own kind of failure. The call is not about delaying anything. It is about making sure the decision was actually a shared one, reached together with the doctor, and not a default nobody examined. In plenty of these calls the answer is yes, it is time, and the conversation simply confirms it. The family arrives already supported, the chart reflects the discussion, and the team can give them the send-off they deserve.
+
+## Who the phone call protects
+
+It protects the patient first, which is the whole reason any of us are here. A fairly healthy animal should never end up on the schedule for euthanasia without a veterinarian first confirming that is genuinely where things stand. The call is the last reliable checkpoint before an irreversible decision, and sometimes it is the only one. It protects the family too, sparing them the scene where some relatives stay home to grieve and others drive the pet in, everyone already past the point of no return, only for the veterinarian in the room to disagree that it is time. And it spares the team, who set up that comfort room and carry the appointment home with them, from bracing for something nobody confirmed was right.
+
+It also protects the veterinarian, who is the one ultimately making this call and ought to be involved long before the family is standing in the room. I learned that the hard way, in a hospital where I did not have the authority to stop what I believed was wrong and no system to keep me out of that spot. A conversation on the front end means no doctor gets handed a decision that was already made for them.
+
+So if you run a hospital, or you are the doctor seeing that three o’clock slot, look at the chart before the time arrives, and if the conversation is not there, have it. Pick up the phone. It costs a couple of minutes and it spares a patient, a family, a team, and a doctor from a standoff that never needed to happen. We owe each other that much, and we owe these families and their animals a great deal more.
+---
+
+# The Woman With Twenty Returns
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-10-06
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/veterinary-practice-policies-protect-team/
+
+I love the convenience of Amazon. Household stuff, consumables, clothing, decor, you name it. A few clicks and it lands on my porch, delivered by what I can only assume are magical elves. The catch is that all that convenience comes with a fair number of returns, for one reason or another.
+
+My system is simple. I take them to the local Staples and wait in line with my packages, which on any given day runs anywhere from two people deep to fifteen. Usually it moves at a nice steady clip.
+
+Not this day.
+
+## The Line That Stopped Moving
+
+I’d clocked the problem before I even reached the counter. The woman ahead of me had a shopping cart, and I was doing that discreet lean, trying to figure out whether it was full of purchases or returns. It was returns. Package after package after package. I counted to twenty before I lost track. Behind me, I could hear the shuffle of people realizing the same thing I had, which was that the line had stopped moving and nobody knew for how long.
+
+My first instinct was to get annoyed. But I’ve been practicing something lately, and that something is patience. It does not come naturally to me, so I take my opportunities where I find them. I reminded myself I had nowhere to be, and I let it go.
+
+What I couldn’t let go of was the thought it kicked loose.
+
+Without a policy limiting how many returns one person can process at a time, everyone behind that cart was quietly absorbing the cost, whether they’d volunteered to or not. Their time, their afternoon, their patience. And the person taking the real heat wasn’t the woman with the cart. It was the Staples employee at the counter, facing a growing sea of sighs, tapping feet, and pointed looks, with absolutely no power to fix the situation, because no one had given him a policy to stand on.
+
+## A Policy Is Solid Ground, Not a Wall
+
+That is what a missing policy does. It transfers the burden onto whoever is closest and least able to refuse it.
+
+If you’ve ever hesitated to put a policy in place at your hospital because it felt too strict, I’d ask you to turn it around. A good policy isn’t a wall you build to keep people out. It’s solid ground for your team to stand on. It protects the staff member at the front desk who otherwise has to absorb a client’s frustration with no tools and no backup. It protects the clients who do everything right from carrying the weight of the ones who don’t. And it protects your relationship with everyone, because clear expectations run in both directions. When clients know what you expect of them, they know what they can expect from you.
+
+The key word is clear. A policy that lives in someone’s head, or shows up as a surprise at checkout, isn’t really a policy at all. Everyone involved has to know the rule before the moment it matters.
+
+## What a No-Show Policy Taught Me
+
+Let me give you the example that made me a believer. At one of my hospitals, surgery was in high demand and our slots were genuinely coveted. We also had a no-show problem, and when a client didn’t show for a surgical appointment, it wasn’t a small thing. It robbed another pet of a slot they would have gladly taken, and it cost the hospital missed revenue for a day we had set aside and couldn’t fill on short notice. On top of that, our drop-off instructions were vague. Clients were simply told to bring their pet in before 9 a.m., which in practice meant the team spent the early morning on standby, never quite able to start their day because a pet might come through the door, or might not.
+
+So we put a policy in place with two parts to it. The first was a no-show fee if the appointment wasn’t cancelled within 48 hours. The second was an assigned drop-off time for every client rather than that open-ended window before 9. Clients were told about the policy when they booked and reminded again at both reminder calls, so nothing about it ever came as a surprise. It worked, and the surgical no-shows essentially disappeared.
+
+The part I didn’t fully appreciate until afterward was that the policy didn’t just protect the schedule, it protected the team. They stopped spending their mornings in limbo, wondering whether a given client would materialize and dreading the disruption of stopping mid-task to check in a pet who arrived whenever it suited them. Assigned times meant the day finally had a shape they could count on.
+
+And the team understood the stakes better than anyone, because a no-show cost the hospital money and it could cost them hours when the surgery board ran thin. For the newer team members, a cancelled procedure could mean a lost chance to learn, especially when it was an unusual case they might not see again for months. The policy wasn’t us versus the clients. It was us protecting something everyone had a stake in.
+
+So here’s my ask. Look at where the friction lives in your practice. What’s frustrating you, your team, or your clients right now? Sit with it for a minute, then ask whether the problem is really the people, or the absence of a rule that would have protected all of them from the situation in the first place.
+
+More often than you’d think, the kindest thing you can do is write the policy.
+---
+
+# Skill Is Not a Rank: What Experienced Riders Taught Me About Hospital Hierarchy
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-09-29
+**Section:** Team Culture
+**URL:** https://grayoakjournal.com/veterinary-hospital-hierarchy/
+
+If you have spent any time around competitive riding, you know its reputation. It draws people who are very good, and who know it. So when I signed up for a four-day riding trip in Iceland with thirteen strangers, part of me braced for it. There were competitive show jumpers in the group, and endurance riders who had been at this seriously for decades. And then there was me, somewhere in the middle, someone who used to ride regularly, stopped for years, and was climbing back on with older achy joints and rusty hands.
+
+## A Group That Refused to Show Their Resume
+
+There were probably greener riders than me in the group, though I doubt anyone would have volunteered that out loud. In riding circles, admitting you are the least experienced person present is its own small act of courage, and it usually goes unspoken. I kept waiting for someone to pull rank, to drop their riding credentials as a claim to superiority. But it never came.
+
+We started working from the moment we arrived, tacking up horses, leading them, and sorting out riding assignments and logistics. Nobody was given time to feel incompetent or intimidated. The work itself demanded that you show up, and our guide was there to help you get it right. I wrote about her leadership in a separate piece, The Saddle, Not the Rider. This one is about the rest of us, the riders, and what we did with the environment she created.
+
+On the first day, our guide explained the system, and from then on it was ours to run. We groomed each other’s horses, helped each other saddle up and grab equipment, and took turns holding several horses at once so someone could walk free to the corral or gather the herd at the end of the day. There was always someone willing to help another rider get up into the saddle. It sounds minor, but it set the tone for everything that followed.
+
+The moment that stuck was on the last morning. Four days of riding when you are not a regular rider takes a toll, and my shoulder was reminding me of its age and of the thirty-plus years it had rested from these movements. I squealed, out loud, hauling myself up into the saddle. One of the show jumpers saw it, and instead of the look I was braced for, she offered a tip on positioning my hands differently. She was right, it helped, and she said it the way you tell someone the time, matter of fact and not the least bit condescending, just genuinely useful. Earlier in the trip, another rider had noticed my girth working loose and offered to fix it before I had to ask. The skill in that group was obvious, and it never once got converted into rank.
+
+What stays with me is that these were people who had earned the right to look down, by any conventional scoring, and they chose not to. It was a choice, made over and over in small moments across four days. Nobody made their resume the point. Nobody treated helping a rusty rider as beneath them.
+
+## The Same Hierarchy Can Show Up in Our Hospitals
+
+Then I came home to veterinary medicine. We have the exact same spread. Surgeons and new graduates, techs with twenty years of experience and techs in their first month, kennel staff and front desk staff carrying real weight in patient care. We share the same patients and the same stakes. And I have watched the hierarchy show up anyway, in hospital after hospital, including ones I ran.
+
+I have seen it in the surgeon whose time gets treated as scarcer and therefore more important, in the seasoned tech who sighs at the new person until she stops asking questions and starts guessing, which is exactly how mistakes happen, in the front desk staff treated as though they are not doing real veterinary medicine, and in the kennel staff talked about as helpers rather than teammates. We convert competence into status the way those riders refused to. I want to be honest that I have done it myself, and that I have let it happen on my watch when I was tired and it was easier to let rank sort the room than to lead.
+
+We tell ourselves the hierarchy is inevitable. The stakes are high, the skill gap is real, and someone has to be in charge. All of that is true, and none of it requires the sighing, or the ranking, or the message that some roles are real medicine and the rest are just support. A group of strangers on borrowed horses showed me that skill and humility are not a trade-off. You can be the best in the room and still fix a stranger’s girth, and in my experience the best in the room usually do.
+
+## Hierarchy Is a Choice, Not a Given
+
+Your hospital has a hierarchy, and it always will. The question is not whether rank exists. It is whether your team feels it every time they walk in, or only when it actually matters for the patient. That gap is not set by your org chart. It is set by the people with the most skill, and by what they choose to do with it, hour after hour.
+
+A companion to The Saddle, Not the Rider, which is about the guide. This one is about the riders.
+---
+
+# The Saddle, Not the Rider
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-09-23
+**Section:** Leadership
+**URL:** https://grayoakjournal.com/veterinary-leadership-standards-kindness/
+
+I went to Iceland to learn something about myself through my first solo international trip. What I signed up for was a four-day horseback riding tour with people I had never met, riding for the first time after thirty years of dust settling on my gear. Not just riding, but riding for four days straight with a loose herd of horses running alongside us. What I did not expect was to come home having learned about leadership instead.
+
+Our guide was a woman who was efficient, patient, and kind, though those words only describe the surface of what she did. What actually mattered was her uncanny ability to see the smallest mistake. A saddle placed slightly wrong, an errant strap, a rider settling their weight incorrectly in a stirrup. She caught all of it, and then she would reposition it, explain it, and move on, without ever making the rider feel bad.
+
+That skill mattered because of who she was working with. We were a full spectrum of experience: competitive show jumpers, endurance riders who had been in the saddle for decades, and people like me who used to ride regularly, stopped for years, and were just now getting back into it. Different skill levels, different confidence levels, and every one of us still needed her input at some point over those four days. Even the most accomplished riders needed her input now and then, and she delivered it the same way to everyone.
+
+## Two Precedents
+
+What she set were two precedents. The first was that attention to detail never gets loose. Even on the last day, even after years of doing this, she never slacked. Small things like saddle placement and strap positioning matter, not because of perfectionism, but because they matter for safety and for the horse.
+
+The second was that a correction can carry a standard without carrying a sting. She corrected constantly, but the correction was about the saddle, not about you. You were not made to feel foolish. You were made to feel like someone who could get better, because someone cared enough to show you how.
+
+Holding a high standard and staying kind at the same time is a harder balance than it looks. Push too hard and people get afraid to make mistakes, ease off too much and no one is held accountable. She fell into neither.
+
+## Correcting Versus Developing
+
+And this was not just how she treated us, the guests she was being paid to guide. She had two younger guides working under her, and I watched how she led them too. She would offer a small suggestion or a correction, and then she would follow it with the why. Not just “do it this way,” but “do it this way because.” She was teaching them so the lesson would make sense long-term, so they would carry it forward when she was not standing next to them. That is the difference between correcting someone and developing them.
+
+## Everything She Was Holding at Once
+
+What made all of this remarkable was everything she was holding at once while she did it. She kept us on a tight schedule of where we had to be and when, managed how the horses were handled, and never let safety slip. She had to corral the herd and keep eyes on our mounts constantly, because we were given fresh horses along the way, which meant she was learning our habits on the fly and matching each of us to the horse that would suit us best. And she was doing all of that with not only humans, who can be quirky, but a field full of horses, and anyone who has spent time around them knows a horse can wake up having a day where it wants to remind you it is a great deal bigger than you, or a day where it wants to be the biggest cuddle puppy you have ever met. She managed the people and the animals and the clock, and she still led through example and made the whole thing fun.
+
+She was not there to prove her worth or her experience. She never took the credit either. When a day went well, she talked about the team and the effort everyone had put in, not about herself. That was the part that stayed with me. I have seen this kind of leadership inside veterinary hospitals, and every time it stands out for the same reason: it works, and it is a reminder of how good this profession can feel when someone leads this way instead of pulling rank.
+
+## The Hard Part Is Knowing Your Team
+
+Here is what is difficult about leading this way. It requires you to know your team well enough to do it. You cannot correct someone’s work kindly if you see them as a role or a problem to be solved. You have to see them as a person who is learning. And you have to be willing to correct them anyway, which is the part we tend to skip when we are trying to be nice.
+
+She never announced herself as the leader or laid out how things were going to be. She simply made herself available, stayed patient, kept the work moving, and made it clear that competence at different levels was fine as long as you kept showing up and paying attention. Everyone belonged, and everyone had to meet the standard.
+
+I spent years in veterinary operations. I have made hiring decisions, managed teams, run hospital budgets, and dealt with staff turnover. I never once had someone follow me around for four days and teach me this. But a woman I had never met did it in a week, just by showing up the way she did.
+
+Your team is full of competent people who want to do good work. The question is whether you are leading like someone who knows that, or managing like someone who is waiting to find out, and whether you can hold a standard without making people feel small for not meeting it yet.
+
+A companion to Skill Is Not a Rank, which is about the riders. This one is about the guide.
+---
+
+# The Greatest Gift We Can Give Is Permission
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-09-14
+**Section:** Client Care
+**URL:** https://grayoakjournal.com/the-greatest-gift-we-can-give-is-permission/
+
+I learned this one the hard way, and not in an exam room.
+
+A few years ago I was caring for a family member through a serious illness. I want to tell you I did it with grace. What actually happened is that I got very good at the logistics and very bad at noticing myself. You get so focused on the person you are caring for that you forget there is another person in the equation who also needs tending. I did not see it until the morning I felt a flash of resentment toward someone I love more than almost anyone. That was the moment it landed. I was running on empty and calling it devotion.
+
+Taking time for myself felt selfish. Complaining about anything felt worse, because how do you complain about being tired when the person beside you is fighting for their health. So I did not give myself permission to be human, and it cost me more than it needed to.
+
+I think about that season often now. Caregiver fatigue does not stay in human medicine. I see it most when I am sitting across from a client who is doing exactly what I did.
+
+Her name is not important, but her cat’s was Millie. We had been managing Millie for years through the usual stack of feline geriatric problems: arthritis, hyperthyroidism, chronic kidney disease, and inflammatory bowel disease. By that last stretch, the weight loss had become profound, and Millie was lethargic, weak, and dehydrated. Her owner was, without exaggeration, one of the most capable caretakers I have ever worked with. She kept flowcharts, graphs, and a medication schedule that would have humbled most of us, and she executed it with a consistency and accuracy I could not have improved on. Every time the specialist or I reached deeper into the bag of tricks, she said yes, and then she went home and did the work.
+
+She was nailing the care of Millie, but in return she was disappearing.
+
+I could see it before she said a word. The tightness in her shoulders, the dark circles, and a weight loss of her own told the story of sleepless nights, worry for Millie, and putting the cat’s needs ahead of her own. She had rebuilt her entire life around Millie’s care and had done it willingly. She had also stopped going to the gym, stopped tending her garden, and had missed many family events. The things that gave her joy and comfort had fallen off the calendar, one at a time, until they were simply gone.
+
+At that last appointment, Millie was done. I knew it, and I think her owner knew it too. But there was a part of her that would not allow her to accept it. She had bought into doing everything possible, and giving up did not feel right.
+
+I sat there running through options I could offer, and then I understood that options were not what she needed from me. What she needed was for someone with a white coat and twenty years of watching this exact moment to look at her and say: you have done everything, and you are allowed to stop. It is time, and choosing peace for Millie is not giving up on her.
+
+So I told her. I gave her permission to let go.
+
+Here is what I have come to believe. As veterinarians, we are trained to identify pathology, and we are pretty good at it. We come up with plans to extend lives, and when we are tapped out, we call in the specialist. We are far less trained to identify the human slowly killing themselves under the weight of caregiving in front of us, and we are in a better position to see it than almost anyone. We are, whether we asked for the job or not, one of the few people in a caregiver’s life who is qualified to say the thing they cannot say to themselves.
+
+Clients need to hear that if they cannot commit to a treatment, for any reason at all, it does not make them a bad person and it does not make them a failure. They came to us because they care. That is not in question. Whether the barrier is money, time, physical capacity, or the simple fact that a person has run out of themselves to give, “the best plan we can actually sustain” is a legitimate plan and not a consolation prize. Giving someone room to choose the version of care they can live with is not lowering the bar, it is meeting them where they stand.
+
+This is where we can do more than name the problem. A caregiver who is running on empty rarely has the bandwidth to go find help, so the most useful thing we can do is put it directly in their hands. Build a single page or a link, keep it ready, and give it to clients the moment you see the strain. Here is what belongs on it:
+
+- **Respite and shared-care options.** Trusted pet sitting, boarding, or daycare so a caregiver can attend the wedding, take the trip, or simply sleep. Framing a break as part of good care, not a lapse in it, gives people permission to actually take one.
+- **A quality-of-life framework.** A structured scale gives owners something concrete to hold instead of a gut feeling they keep second-guessing, and it externalizes the decision, so the answer comes from the data you built together rather than a moment of doubt at three in the morning. Three I trust and point people to: Ohio State’s “How Will I Know?” guide (vmc.vet.osu.edu), which walks through the decision and anticipatory grief with real compassion. The HHHHHMM Quality of Life Scale (caringpathways.com), Dr. Alice Villalobos’s scored tool that most of us learned on. The IAAHPC’s helpful-links page (iaahpc.org), where the International Association for Animal Hospice and Palliative Care keeps quality-of-life scales, pain scales, and grief support gathered in one place.
+- **Anticipatory grief support.** Pet-loss support lines and counseling resources exist for the period before the loss, not only after. Naming them early tells a client that what they are feeling is normal and that grieving ahead of time is not disloyalty.
+- **In-home hospice and palliative referrals.** For the families who want the end to happen at home, on the couch, in the sun. Knowing this option exists changes how the whole final chapter feels.
+
+None of that replaces the sentence itself. The resources make the permission real, but the permission is the gift.
+
+I got mine too late that season with my family member. I eventually learned that caring for someone else does not require erasing yourself, and that the version of me who took an hour back was a better caregiver, not a worse one. Most of our clients have not learned that yet. Some of them will only hear it if we are the ones who say it out loud.
+
+We spend our careers reaching for the next thing to try. Every so often, the most healing thing we can offer is not another option at all. It is permission.
+
+Free download
+
+## When Caring for Your Pet Feels Like Too Much
+
+The one-page version of the list above, written for the client rather than the clinician. There is room at the top for your clinic name and phone number, and a blank line under each section for the sitters, support lines, and in-home providers you actually recommend. Print it, keep it at the front desk, and hand it over the moment you see the strain.
+
+Both are one page. Use the Word file to add your clinic details and local referrals before you print; the PDF is ready to print and fill in by hand.
+
+A companion to What Are Your Goals Today for Duke? and What We Owe Clients Before We Run the Test. Each turns on the same instinct: the client in front of you knows something you need to ask about before you reach for the plan.
+---
+
+# What Are Your Goals Today for Duke?
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-08-31
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/what-are-your-goals-today-for-duke/
+
+There is a fifteen-year-old German shepherd named Duke who has spent most of the last few years on chronic NSAIDs. His owners know exactly what that means. We talked about it more than once, and it is written all over his file: the drug carries risk over time, and they accepted that risk with clear eyes. Over the years we tried other NSAIDs, tried adjuncts, tried the things you try. This was the one that kept him comfortable and kept him himself. They were not interested in heroics at this point in his life. They wanted their beloved family member to be comfortable, and that is in the file too.
+
+At fifteen, Duke is winning the age game by a wide margin. And then one day I learned the owners were unhappy, because our new graduate associate had declined to refill the NSAID.
+
+## The Question She Never Asked
+
+At his most recent appointment, she had requested bloodwork, as most chronic medication protocols call for. The owners declined, for two reasons. Cost was one. The second mattered more: even if the results showed the drug was affecting his organs, they would still give him the medication, because it was keeping him comfortable, so a test that would not change the plan was not one they needed to pay for. Her reasoning for refusing the refill was not malicious, and it was not inept. It was the opposite.
+
+My new associate struggled with that, and I understood why, because the same thing was drilled into me. Dogs on chronic NSAIDs get routine bloodwork. Full stop. You do not refill without it. But there was a question she never asked, at any point in that appointment: what did the owners actually want for Duke that day? They had answered it without being asked, when they said they just wanted him comfortable. She heard a client declining a test. She did not hear a family telling her their goal.
+
+Here is what twenty years has taught me. That rule about bloodwork is real, and it is also not the whole of medicine.
+
+## The Spectrum Between Gold Standard and Standard of Care
+
+There is a difference between the gold standard and the standard of care, and the confusion between the two is what put my new associate in a corner. Standard of care is a legal term. It means the care practiced by the average reasonably prudent, competent veterinarian in the community. Notice what it does not say. It does not require the most expensive, most invasive option on the shelf, and it does not ask a general practitioner to practice like a specialist. The gold standard is one point on a much longer line, and everything else along that line is spectrum of care.
+
+And here is the part that should settle the anxiety for good. In late 2025, authors from the American Association of Veterinary State Boards, the people who actually discipline licenses, published guidance on exactly this. Practicing along a spectrum of care does not endanger your license. What the boards ask is simpler than the fear suggests: give the client the real range of medically sound choices, then record that they understood and agreed. The refill was not a deviation from the standard of care. Declining it, when the owners had made an informed choice we had documented for years, was arguably the deviation. We had the conversation. We had the consent in writing. That is not a shortcut around good medicine. That is good medicine, done correctly.
+
+## What Fear Does to a Treatment Plan
+
+So why did she balk? Because fear is the real engine here, and it does not go away, it just wears a different face on each of us. When I ask new graduates what they are afraid of, I hear a familiar list: hurting an animal, getting sued, a board complaint, the private fear of not doing the right thing. When I first graduated, mine was plain: I worked for a corporate group whose founder held a firm rule that you never took anything off a treatment plan, and I was afraid of being disciplined or fired for doing it. I had clients in front of me who could not afford what was on the page, and the message was that I was not supposed to work within their means. The particulars shift from person to person. The engine is the same, and it steers us toward the plan instead of toward the patient.
+
+## Ask the Goal First
+
+Here is the fix, and it is almost embarrassingly simple. Before you write a single line of a treatment plan, ask the client what their goal is today. What are your goals today for Duke? If the answer is I don’t want heroics, I just don’t want him to hurt, then you already know what kind of plan will actually get followed. Everything after that question is in service of the answer. Everything before it is guesswork.
+
+We tend to do it backward. We build the plan first and ask about the client’s life second, if we ask at all. And then we hand it over like a four-course prix fixe with the wine pairings already chosen, so when the client cannot take the whole thing, the answer is no, instead of a conversation about which courses matter most. Medicine like this should be more à la carte. That is not lowering the taste of the meal. It is an honest reckoning of what this table wants and can manage tonight.
+
+## It Is Not Always About Money
+
+Start with the goal and the barriers show themselves, and they are not always about money. Ask a family with six kids and two jobs to give four medications on three dosing schedules, and you have built a plan that fails by Thursday. Ask a client with a bad tremor to draw up insulin twice a day, and you may be setting both of them up to lose. Sometimes the barrier is the wallet. Sometimes it is a full week and too many people to keep alive. Sometimes it is a pair of hands that shake. You do not know until you ask. I wrote a while back about what we owe clients before we run the test. This is the other half of it. Meeting a client where they are is not a consolation prize for the ones who cannot afford the ideal. It is the actual job.
+
+## Back to Duke
+
+So why would we not refill Duke’s medication? The conversation had happened. The owners understood how this drug is metabolized and what that means at fifteen. Their goal was comfort, not another decade. The medication was doing exactly the job they asked it to do. I see too much of our medicine ruled by defaults that are right for a three-year-old dog and nearly meaningless for this one. The honest question is never did we follow the protocol. It is are we practicing the best medicine for the patient in front of us.
+
+The refill was the right call, and I would have signed it. But this was never really about a refill. It was about the question that comes before all of it, the one my new associate walked past twice, first by not asking and then by not hearing the answer when the owners offered it anyway. What are your goals today for Duke? Everything we owe this family, and this dog, starts there.
+
+A companion to What We Owe Clients Before We Run the Test and The Greatest Gift We Can Give Is Permission. Each turns on the same instinct: the client in front of you knows something you need to ask about before you reach for the plan.
+---
+
+# What We Owe Clients Before We Run the Test
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-08-24
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/what-we-owe-clients-before-we-run-the-test/
+
+Homer is the Lab we all love. Clownish, full of energy, deeply committed to tennis balls. A typical visit with him involves his dad distracting him with one while I try not to get beaten by an aggressively wagging tail.
+
+That morning was different. He was lying on the tile floor of the exam room. He lifted his eyes to me and gave the floor one small thump with his tail, and that was all he had.
+
+Mr. Miller walked me through it. A little diarrhea Friday. Over the weekend it progressed to no appetite in a dog who eats everything that is not nailed down, and then to passing straight blood and extreme lethargy. I suspected hemorrhagic gastroenteritis.
+
+I did a lot right that morning. I told him what I was thinking on workup, therapy, and my suspicion. I explained the process and told him Homer would be with us all day, with or without dad. He chose without, joking that he had to go to work to pay for this unplanned expense, which was a joke and also not one. He knew that number because I had given it to him. I told him when to expect my calls and when to pick Homer up that evening. I even warned him that Homer might need to go to an overnight facility or come back at eight the next morning for more fluids.
+
+I did all of that right and patted myself on the back.
+
+Homer stayed on fluids and medication and improved throughout the day, though not enough to stop treatment.
+
+Here is what I left out. I never told Mr. Miller that the overnight facility and the second day came with additional cost. I had set expectations on duration, on the plan, and on today’s number, and I let him walk out of that morning appointment believing today’s number was the number.
+
+He was upset. He felt duped. He was right.
+
+Nothing about the medicine was wrong. The communication had a hole in it exactly one sentence wide, and that sentence was the one about money.
+
+Here is what my years in the hospital taught me, and Homer’s dad taught me again. Proactive, preemptive communication is the thing the client actually judges you on. You can bring your best medicine and your best effort to a case, and if you have not set expectations first, you have already set yourself up to fail. The client is not grading the workup. They are grading whether the day matched what you told them it would be.
+
+## What the test can and cannot do
+
+Before anything gets run, the client should hear three things: what we are looking for, what we will do with the answer, and what happens when there is no answer.
+
+Vomiting is nonspecific. So is lethargy, inappetence, weight loss, and the ever popular ADR, “ain’t doing right.” The point of a workup is to find out whether there is a cause we can name, whether that cause has a specific treatment, and whether it carries a prognosis worth planning around. Sometimes we get all three. Sometimes we run everything we have access to and the useful finding is that we ruled out the things that would have killed this dog by Thursday.
+
+That is a real result. It changes how aggressively I treat and how soon I need to see the patient again. But it only lands as a result if the client heard, in advance, that it was on the menu.
+
+It sounds like this: “These tests may tell us exactly what is going on. They may instead tell us what we are not dealing with, which still changes how I treat her and how fast I need her back. Both are useful to me. Neither one is guaranteed. We may run all of these and still not have a definitive answer, but we will have ruled some things out, and that matters.”
+
+Thirty seconds. Before the estimate, not after the invoice. Otherwise the client spends eleven hundred dollars expecting a definitive answer, does not get one, and the frustration that follows is ours to own.
+
+## Nobody thinks this takes all day
+
+A client hears “let’s get some bloodwork and radiographs” and pictures forty-five minutes. Depending on staffing, your in-house analyzer, your radiology workflow, and whatever walks through the door at 10:15 hit by a car, the honest number might be three hours. It might be the whole day.
+
+I have said “give me about two hours” out loud to a client and then watched that promise die by eleven. She waited five. She was polite about it, which somehow made it worse.
+
+So give the honest number. “Realistically this is a five hour day for her, and that is if things go smoothly.”
+
+Then give the options that come with it. They can drop off, go to work, run their errands, and get a call as results come in. Or, if your hospital is built for it, they can stay with their pet in triage or treatment rather than being separated for hours, which is the same argument I have already made about taking pets to the back. Either way, nobody leaves without a real pickup time.
+
+The worst version of this is the client who reschedules her whole day around a wait that was never forty-five minutes. She cancels the meetings she does not think she can make. Then her meeting time comes and goes, and she realizes she could have made every one of them, because her pet was going to be here all day and nobody told her. Nothing clinical went wrong. The visit still ended badly.
+
+## Today is not the whole case
+
+The mental model people bring in is simple. Drop the sick pet off, the vet patches him up, he is home by dinner sleeping it off.
+
+So when a DKA cat, a parvo puppy, or a dog with a suspected foreign body arrives at nine in the morning and we already know where this is heading, it has to be said in the first conversation. Not at four o’clock when we are calling to arrange transfer. When we already know a pet needs more than one day with us, the client should hear that on day one, along with what those extra days are likely to look like.
+
+I once inherited a foreign body case mid-shift. As I took it over, I asked the outgoing doctor: does the owner know her post-op dog is transferring to the ER tonight for monitoring, pain management, and assessment? Does she know to be back at five, where we are sending her, and that the transfer cost is not in our estimate? He spent a good while staring at the floor. I had just dropped a bomb. A well-intentioned one, aimed at making sure all three of us were looking at the same day.
+
+The estimate for today is not the estimate for the case. Hand someone a fourteen hundred dollar estimate for day one when you already know there is a day two, a day three, and a transport to the emergency hospital at close, and you have not given them an estimate. You have given them a down payment and let them think it was the whole number. Ask me how I know.
+
+And it is not only money. It is the drive to the overnight facility at eight o’clock, the pickup at seven the next morning, the drive back to you, the missed work, the childcare, the second and third round of the same conversation with a different doctor. People can absorb a hard plan. What they cannot absorb is a plan that gets bigger every time the phone rings.
+
+## The budget question
+
+The uncomfortable question we should ask anyway: what is your budget for this?
+
+It feels rude the first hundred times. It is not. It is the single most useful thing you can know before you build a plan, because a plan the client cannot pay for is not a plan. It is a conversation you are going to have again in an hour, except now the clock is running and the patient is mid-workup.
+
+And when the number is more than they can do today, say so plainly and then keep going. Ask whether they would like to hear about financing before they decide, not after. CareCredit, Scratchpay, VetBilling, whatever your hospital offers. The client who cannot write the check today is not always the client who cannot afford the care. Sometimes they just needed to be asked one more question before they gave up.
+
+The way in is not complicated: “Here is what today looks like, and here is what the next step could cost if we get there. Tell me what works for your family, and if the number is tight, let’s talk about options before we start.”
+
+## Money is not the only thing they have to spend
+
+There is a second question hiding behind the estimate, and it has nothing to do with what the family can pay. It is whether they can do the care.
+
+We diagnose the diabetic cat and hand over insulin, syringes, and a twice-a-day schedule, to a client whose hands shake or who cannot see the syringe well enough to draw up a dose. We send home the dog on four medications at three different intervals with a family already underwater on two jobs and three kids. The medicine is correct. The plan is real. And it is not going to happen, because we prescribed a life the household cannot actually live.
+
+That is not a reason to write the family off. It is a reason to ask before we build the plan, not after it fails at the recheck. Can you give an injection? Is there someone at home who can? What does a normal day look like for you, and where would three doses fit into it? Sometimes the answer reshapes the plan toward something they can sustain. Long-acting instead of twice daily, a medication we can give in-clinic, a simpler protocol that is eighty percent as good and far more likely to actually get done.
+
+A perfect plan nobody can execute is a slower road to the same bad outcome, with the client blaming themselves the whole way.
+
+## Before the workup starts, say all of it out loud
+
+**The test may not give us an answer.** Name that possibility before the estimate, not after the invoice. Ruling things out is a result, but only if the client was told it was a possible ending.
+
+**This takes longer than they think.** Give a realistic number of hours, then offer the choice: drop off, or stay with the pet if your building allows it.
+
+**Today’s estimate is not the case estimate.** If you already anticipate transfer, referral, or multiple days, that belongs in the first conversation, including what those days cost.
+
+**Ask what they can spend, in money and in effort.** Cost is one wall. A plan the household cannot physically carry out is another. Ask both before you build the plan, not at the recheck when it has already failed.
+
+**A tight budget is not a no.** Raise financing options before the client decides, not after.
+
+## What Homer taught me
+
+I think about Mr. Miller more than I think about cases where the medicine was harder.
+
+The medicine went fine. Homer got better. What his dad remembered was that he asked what this would cost, got an answer, and then found out the answer had an asterisk on it that nobody mentioned. He did not lose faith in me because his dog was sick. He lost it because the number moved.
+
+A client who was told the workup might not produce an answer, and then sat through a workup that did not produce an answer, walks out trusting you. A client who finds that out at checkout tells six people at the dog park.
+
+Same medicine, same bill, a very different practice.
+
+A companion to What Are Your Goals Today for Duke? and The Greatest Gift We Can Give Is Permission. Each turns on the same instinct: the client in front of you knows something you need to ask about before you reach for the plan.
+---
+
+# The Serial Retiree: Why Retirement Didn’t Stick for Me
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-08-17
+**Section:** Leadership
+**URL:** https://grayoakjournal.com/the-serial-retiree/
+
+I have retired twice, and I did not do it well either time. I am currently unsure whether I am retired now, which tells you something about how the first two went. This makes me, by my own joking classification, a serial retiree, a funny thing to call yourself right up until you realize you cannot actually answer the question of whether you are working.
+
+I should be honest about that last part up front. My business partner and I are in the early days of launching a veterinary consulting practice, and I write this journal every week, so I am clearly working in some sense. Just not in the have-to-be-somewhere, someone-is-expecting-me sense that organized the first twenty-plus years. Whether that counts as retirement is a question I will leave open, mostly because I cannot answer it.
+
+Here is the harder part to admit. My identity was tied to my title, my role, and the authority that came with both. I did not set myself up for the absence of those things.
+
+And here is the part that should have been obvious to me sooner. I spent years coaching and mentoring people on exactly this. Do not bottleneck your hospital. Do not make yourself the single point of failure. Build systems, train your team on them, and make sure the place runs when you are not standing in it. I believed that and I taught it. I even took pride in what I thought was my own version of it, giving people the chance to learn, handing off skills, empowering the team around me.
+
+What I could not see, as the owner, was that I was still needed. Not in the daily-task way I had trained out of the building, but in some deeper structural way I had never examined. And I must have thrived on it. I built a hospital that did not depend on any one person for the work, and I never noticed that I still depended on the hospital to be the person who was needed.
+
+I want to talk about why retirement did not stick, because I suspect I am not the only one who built an entire self out of being needed.
+
+## Where the bar got set
+
+I always admired my father. He was a college professor, and he was one of the fortunate ones. He enjoyed his career. I would argue he never dreaded work a day in his life. Whatever the professional bar is for loving what you do, he set it high, and he set it early, and I watched. He loved the lively back-and-forth with his students, the exchange of ideas, the room getting loud with discussion.
+
+My own path took a detour before it got there. I earned a business undergraduate degree, which has genuinely served me well, and I spent a couple of years in the accounting departments of computer and healthcare companies. Nine to five. Cubicle. Fluorescent lights. Stale, recycled air. It did not take long to know I could not do that for the length of a career. So I reevaluated, landed on the thing that had always been true, that my passion was animals, went back for the science prerequisites, and then went to veterinary school. I loved being a veterinarian. I loved it for a long time.
+
+My father taught me to love the work. It took a neighbor, years later, to show me the other half of the equation, the half I had skipped. He is good at retirement in a way I am not. He putters in his garden. He stays up too late tracking his stocks, which he does for the sport of it as much as the money. He sleeps in without apology. Lately he has been reading his way into Buddhism. My father loved his work. My neighbor loves his time. Those are not the same skill, and I had only ever practiced the first one.
+
+Which is why leaving the work left a hole I had not measured in advance.
+
+## Lesson one: the network is built before you need it
+
+You cannot retire and expect everyone to show up for you.
+
+Family and friendships are groundwork, and groundwork is laid early and maintained constantly, not summoned on demand the day your calendar clears. Even when work is consuming you, and it will, you have to show up. Be a real person to the people you care about. Value the time before you have a surplus of it, because the surplus is worthless if there is no one waiting on the other side of it.
+
+The good news is that it is never too late to start.
+
+## Lesson two: hobbies are not optional
+
+If you already have hobbies, protect them. Water them. Do not let your career eat them.
+
+If you do not have any, and I did not, you will need to find some, and I mean actually find them, not intend to. I have been running my own experiments, with results I would call mixed. Boating: not good at it, because boats do not have brakes. Painting: genuinely enjoyable, and those canvases will be staying hidden, because enjoying a thing and being any good at it turn out to be unrelated, which is its own kind of lesson. Gardening: wonderful, right up until you spend $160 and four hours planting deer-resistant everything and then watch a beautiful doe work through it like a salad bar. Handywoman work: I have repainted the same room four times, so let us call that a growth area. Walking the dog: I genuinely excel at this, but there are only so many miles in a day, and the dog has opinions about the limit.
+
+Here is the framing that finally worked for me. Think back to early in your career. The first time you attempted a new surgery. The anticipation, the specific flavor of fear, the click of learning a skill your hands did not have last month. That feeling is not a career feeling. It is a being-alive feeling, and you built a whole profession around getting to have it regularly.
+
+Retirement does not hand that to you. You have to go find something that checks those same boxes, some new skill with enough real stakes that your hands shake a little. Otherwise the days go flat.
+
+## Lesson three: purpose and presence
+
+This is the one I have not solved.
+
+In practice, my purpose was obvious and constant. Help the pet. Help the client through a hard day. Support the team. Mentor the newer doctor who reminded me of me. It was handed to me every morning, and it never ran dry. I did not have to go looking for meaning because meaning was scheduled in fifteen-minute increments and it walked in the door on a leash.
+
+Strip that away and the question gets loud. What is my purpose now. What do I want it to look like. I do not have a clean answer, and I am not going to invent one here to make this piece feel finished.
+
+What I can tell you is that I am still looking, and that looking is not the same as being lost. I know the shape of what I am after now, which is more than I could say at the start of either retirement attempt. Purpose, it turns out, was something I received for twenty-plus years and never had to source myself. The consulting work, the writing, this journal you are reading, I suspect those are early attempts at sourcing it on my own. Learning to do that is the actual work of this chapter, and I am in the middle of it.
+
+## If you are anywhere near this
+
+None of this is easy. I struggle with it. I am still deciding whether the word retired even applies to me, and I have made my peace with not knowing this week.
+
+But if you are a few years out from stepping back, or you just did, take the parts of this you can use. Tend the friendships now. Find the thing that makes your hands shake. And start asking the purpose question early, while you still have the old purpose to lean on, instead of the morning you wake up and realize no one is expecting you anywhere.
+
+I will let you know how it goes. Assuming I figure out whether I am working.
+---
+
+# Every Drop-Off Needs a Pickup Time
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-08-10
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/every-drop-off-needs-a-pickup-time/
+
+At 5:45, with the doors closing at six, I looked at the treatment board and understood exactly why this team never got to go home. Every drop-off patient on it was missing the same thing: a pickup time. Nobody had told a single owner when to come back, which meant nobody was coming back, which meant the whole staff was about to stand around at closing waiting on clients who had no idea they were even wanted.
+
+I was there on a relief shift, one day inside a two-doctor practice that ran on adrenaline and very little else. The medicine was genuinely good. What the building lacked was any system that lived outside of one person’s head. It was not that she did not care about those calls. She fully intended to make them. She just never got to them, because the day got away from her the way it gets away from all of us, one walk-in and one bleeding toenail and one long phone call at a time, until it was suddenly 5:45 and the calls she had meant to make since morning were still sitting there. That is the whole case for setting the time up front. A pickup time promised at the door survives a day that falls apart.
+
+When there is no plan for when patients go home, the team is the group that pays. They are the ones who stay late, who field the calls, who cannot make their own evening plans because the day has no shape and no end they can count on. It reads to them, fairly or not, as their time mattering less than everyone else’s. Nobody sets out to be the doctor who keeps the team late. It just happens, one delayed call at a time, to anyone without a system that catches the calls before the day does.
+
+A pickup time looks like an administrative nicety, the sort of thing the front desk sorts out on its own. It is actually one of the most revealing systems in the building, because it is really a measure of respect for other people’s time. When a drop-off has a real pickup time attached to it, you can be nearly certain someone had an actual conversation with that owner. When it does not, you can be nearly certain nobody did. That empty slot on the board at closing is rarely a scheduling oversight. It is the visible evidence that the conversation never happened, and that somebody’s whole day is about to bend around the gap.
+
+Here is what that gap costs, and it is worth watching it happen in real time. Mrs. Smith drops off Wilbur, her lab puppy, at 9:00, sick and up all night vomiting. What he got into is anyone’s guess, because a lab puppy is less a dog than a Hoover with paws, and the list of things they will eat is bounded only by what they can physically fit in their mouths. That part is routine. The part that goes wrong is what happens next: nobody tells Mrs. Smith when she will get an update or who will make the call. She phones at 9:15 to make sure someone has seen him. The CSR takes a message. She calls at 10:00 because no one has called back. The CSR takes a message. She calls again at 10:30, at 11:00, at 11:30, at noon. Wilbur, for the record, is getting excellent care the entire time. That was never the problem. The problem is that one skipped sentence at the front door turned a frightened owner into six phone calls, and turned the CSR into a person who now tenses up when Mrs. Smith’s number lights up the caller ID. By early afternoon she is routing that number straight to the back, not out of spite, but because nobody handed her an expectation she could give the client, so dodging is the only tool she has left.
+
+And notice what it did to Mrs. Smith’s day. With a pickup time set at drop-off, she would have known Wilbur was coming home at three and could have planned everything else around it, the errands, the meeting, the ordinary shape of a Tuesday. She would still be waiting to hear how he was doing, because that call comes when the bloodwork is back and not a minute sooner. The difference is she would have known it was coming, and from whom, so she could stop dialing the front desk every half hour to confirm he had not been forgotten. The pickup time hands back her day. The promised call hands back her peace of mind.
+
+None of that morning was a medical failure. It was a communication one, and it was preventable with a single habit set at intake: no client leaves the building without knowing when they are wanted back and who will be in touch before then.
+
+The fix is the same no matter why the pet is there. Every drop-off gets a realistic pickup time set at intake and written on the chart, and every owner leaves knowing who will call them and what will trigger that call. “Dr. Green will call after the exam, and your pet will be ready around three.” “Dr. Johnson will call once the test results are back to confirm the plan for Wilbur.” For a surgery, someone calls once the patient is out of anesthesia and recovering, to say how it went, and those in-between hours are the longest of anyone’s week, so that call buys more goodwill than any discount could.
+
+And that name does not have to be a doctor. It has to be whoever the hospital designates, and everyone has to know who that is. Technician, CSR, or doctor, any of them works. What does not work is a vague promise attached to no one, because a callback that belongs to everyone belongs to no one, and that is how it ends up orphaned at 5:45.
+
+None of this needs new software or a longer day. It needs one person, at the door, refusing to let a client leave without a pickup time and a plan for contact. That small refusal is what keeps the treatment board from filling with silent patients whose owners are white-knuckling their afternoons while the team drifts toward another late night.
+
+A pickup time is a small thing to write on a chart. It is also an act of respect pointed in three directions at once. It respects the client, who can leave and get on with the day, knowing exactly when and where to be instead of surrendering the whole afternoon to a phone that may or may not ring. It respects the team, who get to close on time because the board is not full of patients whose owners have no idea they are wanted. And it respects the person at the front desk, who should never have to absorb a morning of calls she was never given the information to answer. Thirty seconds at the door buys all three.
+
+This piece is part of The Gray Oak Journal’s Workflow Efficiency series. Companion piece: Scheduling in the Vet Hospital So Everyone Leaves on Time.
+---
+
+# When Your Favorite Client Stops Asking for You
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-08-03
+**Section:** Leadership
+**URL:** https://grayoakjournal.com/when-your-favorite-client-stops-asking/
+
+The current party line is that there’s a shortage of veterinarians. That’s why some solo practitioners remain solo, because they can’t find the help.
+
+But I’ve been having a different conversation with solo practitioners for five, ten, fifteen years. Long before this shortage.
+
+When I push a little deeper, they admit it. They don’t want to give up control. They don’t want to share the clients, the revenue, or decisions. And underneath all of it is something simpler: they want to be the one. The one who knows everything, decides everything, is everything to the practice.
+
+Most vets won’t name it until you ask directly. Then they do.
+
+## The Cost of Staying Solo
+
+You know what a solo-vet practice looks like from the outside, ten years in. The owner is burned out, hasn’t taken a real vacation in years. They add longer hours and turn to workarounds: more support staff, LVT appointments, adjusted schedules, longer work hours. All of it is great and valid. None of it is a long-term solution to scaling the business. Those are Band-Aids. And Band-Aids work for a little while. Then you’re right back where you started, burned out and booked solid, with a more complicated staffing model and the same fundamental problem: you. When they finally decide to sell, their practice isn’t worth what they thought. A practice that depends entirely on one vet isn’t a business. It’s a job nobody buys.
+
+But the immediate pain isn’t the five-year horizon. It’s right now. The client waiting three weeks for an appointment. The surgery schedule booked six weeks out. The owner who no longer has hobbies and misses out on family and friends events because work is all there is.
+
+That’s what staying solo costs. And most solo vets know it. They just decide it’s worth paying to keep control.
+
+## The Push
+
+At one time, I was that solo practitioner who didn’t want to hire an associate. The reasons aren’t complicated. I didn’t want to give up control. I was used to my current system and didn’t want to deal with change. It felt like one more thing to figure out. I didn’t want to share my staff. I didn’t want to share my clients. I could go on and on.
+
+But my business partner saw it differently. We had the revenue to support a new associate. We had the staff in place. We had clients and patients who needed timely appointments. And I owed it to the team to not keep squeezing in one extra appointment every day to accommodate our clients—which had quickly become five extra appointments, with everyone staying late and exhausted conversations happening in the parking lot.
+
+He pushed.
+
+Not asked. Pushed.
+
+That’s the thing about a good business partner. They see what you’re protecting before you understand you’re protecting it. They see that you’re choosing control over scale. And they won’t let you.
+
+So we hired. But let me tell you about Mrs. Johnson and when I realized what adding a new associate really cost me. My ego.
+
+## The Rottweilers
+
+Mrs. Johnson had three Rottweilers and two cats. She was one of the practice’s first clients. Easy pets. Wonderful owner. I’d seen her for years.
+
+I was overbooked one day, and Mrs. Johnson came in with her new puppy Rottweiler. It was a straightforward appointment, the kind of case that was perfect for my new associate to get her started. So I asked her to see them.
+
+The new vet connected with Mrs. Johnson. Not marginally. Genuinely connected.
+
+One day Mrs. Johnson’s name popped up on the schedule. I assumed it was for me. I didn’t pay attention. I went to find the vet assistant.
+
+The look on her face.
+
+She had to tell me, in a soft hesitant voice, that Mrs. Johnson had requested Dr. X. Not me. And I just stared at her like she’d told me the building was on fire.
+
+The treatment room went quiet. Dead quiet. Everyone suddenly had somewhere else to be. Towels got refolded. Counters got rewiped. People found exits. No one looked at me. Because they’d all already realized it. The clients had started asking for the new associate. And they were uncomfortable watching me find out.
+
+I told myself it was great that the new associate was liked and respected.
+
+What I actually felt was crushed. My ego crumbled and I had to admit the little green envy monster resided in me.
+
+It happened again, and again. Clients I’d cared for for years started requesting her instead, which stung more each time.
+
+## The Shift
+
+I can’t tell you exactly when it shifted, because it wasn’t one moment. My business partner was relentless, pointing out the facts: the practice was better. Clients were getting in when they needed to be seen. Surgeries were scheduled when clients needed them, not booked out six weeks. My team had breathing room and were leaving on time at night. I was happier because I could think about something other than how to squeeze in yet another client into an already overbooked day. And the added revenue was allowing us breathing room to buy that coveted piece of equipment we’d held off on.
+
+And slowly, I stopped feeling crushed when a client chose her. I realized something had to give and chose the hospital over myself.
+
+## The Numbers
+
+If you’re still not convinced about adding a colleague, look at your production revenue over the last several years. Is it stable? Fluctuating?
+
+If your revenue is stagnated—if you’ve been flat for years and your clients are booking weeks out for a routine appointment, even further for routine surgery—then you’ve maxed your threshold of production. You’re at capacity. It’s time to bring on that new associate.
+
+Here’s the math that matters: take the salary you’ll pay a new DVM and add the benefits and taxes. That’s usually 20 to 30 percent of their base salary and any other associated costs. That’s your true total cost. Model it. Live with it on a spreadsheet for a month. See what it looks like when it’s real.
+
+## The Work: What It Actually Takes
+
+**You have to want the practice to be bigger than you.** Not say you want it, but really want it. And accept all that comes with it, green envious monster and all.
+
+**You won’t always be the best clinician on staff.** Maybe you are. Maybe you’re not. Either way, you have to let someone else be good at something you care about.
+
+**You have to accept that your way isn’t the only right way, and that means decision-making can’t go one way anymore.** Your associate won’t do everything the same way. Maybe she handles a case differently. Maybe her clinical approach differs from yours. You have to decide: are you going to let her practice her medicine, or are you going to second-guess every choice?
+
+For more on this, read She Did Not Need to Be Managed More. She Needed to Be Trusted More. It’s the flip side of this story.
+
+**You have to let your staff work for someone else.** You have to stop being the only person they report to. You have to watch them build real relationships with another vet and not interpret it as disloyalty.
+
+**Finally, you have to let go of clients.** Your Mrs. Johnson isn’t coming back to you first anymore. That stings, and a lot of solo vets won’t tolerate it, so they protect the clients they have left.
+
+My colleague couldn’t do this. She hired a new associate but refused to let her see her clients. Even when she was overbooked, she’d squeeze in her existing clients or book them further out.
+
+Here’s what she didn’t understand: a new associate won’t be kept busy from day one with just clients new to the practice. That’s not how it works. A new vet is there to help with the ceiling the clinic has hit. Yes, she’ll gain new clients as her schedule opens up. But to help the practice with the overbooking crisis, she needs some of the established clients. The ones already coming in, already trusting the practice.
+
+My colleague couldn’t see that. She protected her clients so fiercely that she became the practice’s worst enemy. She sabotaged the one person who could have helped her. The new associate eventually left. And my colleague is still working solo, still overbooked, still alone.
+
+She chose to be the favorite, and being the favorite cost her everything she said she wanted.
+
+That’s not losing control. That’s growing up as a leader.
+
+The shortage is real. But for a lot of solo vets, staying solo isn’t always because they can’t find an associate.
+
+It’s because they’re not ready to stop being the one.
+---
+
+# The FOBO Trap: Why Good Veterinarians Struggle to Hire
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-07-27
+**Section:** Hiring
+**URL:** https://grayoakjournal.com/fobo-trap-veterinary-hiring/
+
+I diagnosed myself last month, not with anything a lab would confirm, but with FOBO, the Fear of Better Options.
+
+If you haven’t met the term, it’s the greedier cousin of FOMO. The venture capitalist Patrick McGinnis, who coined FOMO back in 2004, coined this one too. Where FOMO worries you’re missing the party, FOBO worries the party three blocks over might be a little better, so you stand on the sidewalk and commit to neither. The writer Francesca Capozzi has a good piece on where it comes from, and her take stuck with me. FOBO isn’t really about having too many choices, it’s about perfectionism. It’s the belief that a flawless option is out there, that settling for anything less is a failure, and that if you just keep looking, you’ll turn it up eventually.
+
+Which brings me to my rugs.
+
+I needed one, eight by ten, for a room that had gone bare. It was not a mortgage or a hire or a decision anyone would ever remember, and that should have made it easy. Instead I brought sixteen rugs home and returned fifteen of them.
+
+I lived with each one for a few days, decided the next might be better, and started over, sixteen times over. They came from enough different stores and vendors that I probably dodged a BOLO flyer in a break room somewhere, my face captioned “returns everything.” One rug survived, the other fifteen went back, and all I earned for the effort was the sneaking suspicion that the problem wasn’t the rugs.
+
+The problem was never a shortage of options.
+
+I’ve never thought of myself as a perfectionist, which is what made this so strange. I’ll blame perimenopause for the timing, since it seems to be renegotiating a few things I’d assumed were settled, and leave it at that. The part that matters is that I’d already watched this exact pattern at work, long before it followed me home.
+
+## The three-year associate search
+
+I have a colleague, another hospital owner, who spent three years looking for an associate DVM, and every time I saw them the search was still open.
+
+It wasn’t for lack of options, because plenty of good people applied. My colleague would interview someone, get genuinely excited, and then find the one thing. The candidate’s handshake was a little limp, or they asked about lunch breaks too early, or they pronounced “cephalexin” in a way my colleague found grating, or they liked a sports team that was, and I am quoting here, “a red flag.” Never the same thing twice, and never anything you could say out loud without hearing how thin it sounded.
+
+So the search stayed open, and my colleague kept covering the gap alone. They took almost no time off for three years, because there was no one to hand the keys to, and they ran themselves ragged waiting for a perfect associate while a good one, or four, walked right past.
+
+That’s the FOBO trap. Not laziness, not bad luck. Just a conviction that the flawless hire exists, and that saying yes to a genuinely good one would somehow mean giving up.
+
+## Why hiring is where it bites hardest
+
+I don’t think my colleague is unusual. Veterinarians are unusually set up to fall into this, and hiring is where it shows up worst.
+
+Start with the math. There are more open positions than there are doctors to fill them, so a good candidate really is hard to come by, and you would think that scarcity would make owners hire faster. It often does the opposite. When you believe the next good applicant might be months away, every flaw in the one sitting across from you starts to look like a reason to keep searching, just in case, and the rare good candidate becomes the person you overthink instead of the person you hire.
+
+Then there’s the training. We are taught to be perfectionists and rewarded for it, because the whole education points us toward the one detail on the slide that everyone else skated past. That instinct saves patients, but it also turns a job interview into a differential you can’t stop working, where every candidate is just a set of findings you keep poking at until something looks abnormal.
+
+Add the stakes. A bad hire in a five-person practice is not an abstraction, since you feel it at the treatment table every day, in the schedule, in the culture, in the clients who notice. So the fear of getting it wrong runs hot, and a hot fear makes every small flaw look disqualifying.
+
+And finish with the fatigue. Most owners don’t have the time to run a real hiring process, so they fall back on “I’ll know the right one when I see them,” which sounds like wisdom but is actually an open door for FOBO, because a bar you never wrote down is a bar that can rise every time someone gets close to clearing it.
+
+## Where else it hides
+
+Once you know the shape of it, you see it beyond hiring too. It shows up in vendors, where the practice limps along on software everyone hates or an anesthesia monitor that’s been threatening to quit for a year, because someone is still comparing options in a spreadsheet. It shows up in your own career, where you stay in a role that doesn’t fit because the next one might not fit either, so why move.
+
+And it shows up in the exam room, which is where it stops being an annoyance and starts costing patients. It looks respectable there, which is the danger, because it wears the white coat of thoroughness. The workup keeps growing because you can’t commit to a plan, so you add one more test to be sure. The recheck in two weeks isn’t really a recheck, it’s a way to avoid deciding today. The referral you float moves the decision to someone else’s desk. Sometimes that caution is exactly right, but often it’s FOBO in a lab coat, and the patient waits while you go looking for a certainty the case was never going to give you.
+
+## Fatigue is not the same as indecision
+
+It helps to separate two things that feel identical at six o’clock on a Tuesday.
+
+Decision fatigue is temporary. You’ve made two hundred calls since morning and your brain is out of gas, so the fix is rest, or moving the hard choice to a fresh morning, or not deciding what’s for dinner right after you decided how to handle a septic abdomen. I’ve written about that particular kind of tired before, and it has a different cure than the thing we’re talking about here.
+
+FOBO isn’t fatigue. It’s a low hum of worry that whatever you choose will foreclose something better you haven’t found yet, and rest doesn’t touch it, because it isn’t tired, it’s afraid. Afraid that good enough is the same as failure.
+
+The two need different medicine. Fatigue needs a break. FOBO needs a decision.
+
+## What I’ve watched work
+
+I have not fully solved this, since I did just buy sixteen rugs, but I’ve watched enough of it in myself and in other practices to know a few things help.
+
+**Name the real stakes.** Some choices are reversible and cheap to get slightly wrong, and those are the ones we agonize over most. When the downside is small, the cost of not deciding is almost always bigger than the cost of deciding imperfectly. My colleague’s open position cost them three years of weekends, while any of those good candidates would have cost only a few months of onboarding.
+
+**Set the bar before you look, not while you’re looking.** Decide what “good enough to hire” actually means, in writing, and then honor it when someone clears it. FOBO thrives when the bar drifts upward every time a real option shows up to meet it.
+
+**Give the decision a deadline.** A real one, a date after which you choose from what’s in front of you. Options expand to fill whatever time you hand them.
+
+**Make peace with good enough.** This is the one Capozzi’s piece pushed me on, and it borrows from an old idea in psychology about the good enough parent, the one who meets the need without chasing perfection, and whose kids turn out better for it. A good enough hire, a good enough vendor, or a good enough plan, chosen and committed to, will nearly always beat the perfect one you are still waiting on. Perfect is not a higher standard. It is usually just a nicer word for stuck.
+
+My colleague finally hired someone, not a unicorn, just a good, solid, human associate. Last I heard, they’d taken an actual vacation, the first in three years.
+
+The rug, for the record, is fine, better than fine. I stopped looking, which turned out to be the whole trick.
+---
+
+# How to Be a Good Mentee: The Other Half of the Handshake
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-07-20
+**Section:** Mentoring
+**URL:** https://grayoakjournal.com/how-to-be-a-good-mentee/
+
+There is no shortage of advice on how to be a good mentor. Whole conferences are built around it, every leadership track has a session on it, countless books have been written about it, and do not get me started on how many mentoring posts show up in my LinkedIn feed.
+
+But mentoring is a handshake, and a handshake takes two hands.
+
+We talk far less about the other side of it. What makes a good mentee. And I think that is a mistake, because the mentee is the one who walks away with the skills. The mentor is investing time. The mentee is investing in the rest of their career. If only one hand is doing the gripping, it is not a handshake. It is you holding onto someone.
+
+I have mentored a fair number of people over the years, and when I think about the ones who got the most out of it, three things separated them. Curiosity. Humility. Honesty. It was never talent or class rank or how much they already knew when they walked in the door.
+
+## Curiosity
+
+Curiosity is what gets you into the room.
+
+Back in my day, when I wanted to learn a new skill, sometimes the only way to get it was to come in on my day off. That was when a particular surgery happened, or when a particular person with a particular skill was in the building. So I came in, and I never experienced that as an imposition. I wanted the skill, and I understood that acquiring it was me investing in my own career. I will also admit that it never occurred to me I was allowed to ask for anything different. I was not being noble. I was being twenty-six.
+
+Somewhere along the way, that mindset shifted. There is a real and legitimate expectation now that the employer invests in the people it hires, and I agree with it. Practices owe their doctors training, time, and coverage. But there is a version of that expectation that goes a step further and assumes the practice will also deliver every opportunity inside a schedule that never asks the learner to bend. That part does not hold up. You have to meet in the middle, because at the end of the day you are the one walking away with the skill in your hands.
+
+I once had a newer graduate tell me she wanted to learn a certain surgery. The problem was that it was always scheduled on her day off. Not because we were plotting against her. The surgeon with that skill worked on her day off, so that was when those surgeries landed on the board. I offered to switch her day off for that week so she could be there. She did not want that. She wanted the surgery to happen on a day she was already scheduled to work.
+
+I have thought about that a lot. She wanted the skill, but she wanted it delivered on her existing terms. That is where a lot of good learning dies, and not from any lack of talent, but from an unwillingness to compromise.
+
+Curiosity also means being interested in the whole job, not the highlight reel. Most days are not made of the exciting cases. Most days are the emergency Bordetella booster and the ear recheck and the anal glands, and you do those the same as everyone else who came before you. Nobody put anal gland expression on their vet school vision board. And yet. The mentee I want to teach is the one who is just as engaged for the routine booster as for the cystotomy, because the routine visit is where most of the medicine actually lives.
+
+And curiosity means doing your own homework before you bring something to your mentor, so the conversation starts somewhere past square one. It also means embracing the idea that medicine has more than one right answer. There is rarely a single correct path to solving a case. It is not black and white. It is shades of gray, and the sooner you make peace with that, the better a clinician you become.
+
+I once had a mentee who wanted every answer spoon-fed. A drug dose here, a differential list there, then again, then again. After one too many, I started asking her to look the doses and differentials up herself before coming to me. She looked at me, genuinely confused, and asked where. In my day the answer would have been a shelf of very heavy books in the back, which tells you something about how long I have been doing this.
+
+I still do not know what I was looking at. Whether she truly did not know how to research, or whether asking me was simply faster than finding out. Either way the curiosity was missing, because a curious person who does not know where to look figures out where to look. She had a mentor standing right in front of her, and the question she never asked was the useful one. Not “what is the dose,” but “where would you have gone to find it.”
+
+## Humility
+
+Curiosity gets you in the room. Humility keeps you teachable once you are there.
+
+You are going to make mistakes. Good. This is the time for it. This is the entire point of having someone standing next to you while you learn. When you make one, it is not the end of the world. Your mentor is not sitting there in silent judgment. They want you to learn so you can improve and become better than you were. That is the whole reason they signed up. A mistake in front of your mentor is not a failure. It is the system working exactly as designed.
+
+I know the pull in the other direction. After being in school for that long, you are desperate to get out and show everyone what you can do. But you are not quite there yet. You still need the practical setting, the real patient, the real room, the real decision. That is precisely what a good mentor helps you build. You do not need to have all the answers, and you do not need to be right all the time.
+
+Humility also determines how you treat the people who are not doctors. Respect your non-DVM team members. The technicians, the assistants, the front desk. They have saved my butt more times than I can count, and they will save yours too if you let them, and if you treat them like the professionals they are. A new doctor who talks down to the team is not demonstrating authority. They are demonstrating that they have missed the single most important relationship in the building. The team knows things you do not. Learn from them.
+
+## Honesty
+
+Honesty is what makes your mentor trust you enough to keep pouring in.
+
+If you do not know something, say so, and then follow it with “I will go look it up.” That sentence has carried more careers than any amount of bluffing ever has. Nobody expects you to know. Everyone notices when you pretend.
+
+Honesty also means being present, not just physically. You can stand in a room all day and absorb nothing, and your mentor will figure that out around the third time you ask the same question in a row. Take the note the first time and write it down if you have to. If you genuinely did not retain it, say that out loud rather than asking again as though it is new. There is a real difference between “I need to hear that again” and hoping nobody is keeping count.
+
+And be honest about how you learn. If you need to see one before you do one before you teach one, say so. If your brain works differently, say that. Your mentor cannot teach to a learning style you have kept a secret. The same goes for how the two of you stay in touch. Daily check-in, email, text, a quick phone call. Find the channel that works and then actually use it. Most mentorships that fall apart do not fall apart over skill. They fall apart over silence.
+
+Be honest about what you actually need from a given conversation, too. Sometimes you want to be taught and sometimes you just want to vent, and your mentor cannot tell the difference unless you say so. Tell them which one it is and you will both save an hour.
+
+One more piece of honesty, and this one is a favor to your mentor. If you are bringing a problem, bring a solution with it. Come with at least a first attempt. “Here is what is wrong” is a complaint. “Here is what is wrong and here is what I think we might do” is a mentee.
+
+## The Short Version
+
+- Stay curious. Ask why, not just how.
+- Understand this is an investment in your career, not a service being rendered to you.
+- Stay open to new ideas. Medicine is shades of gray, not black and white.
+- Do your own homework first. Start the conversation past square one.
+- Bring a solution, not just a problem. A first attempt beats a complaint.
+- Be present, not just physically. If you are asking the same question a third time, you were somewhere else the first two.
+- Know how you learn, and tell your mentor. They cannot teach to a secret.
+- Learn how your mentor communicates, then actually use that channel.
+- Put your time in. The Bordetella booster counts as much as the cystotomy.
+- Respect the team. They will save you more times than you can count.
+
+## And a Word for the Mentors
+
+Because this cuts both ways.
+
+I loved my new graduates, and not only for the reasons you would assume. I loved them because I could quiz them on what they were teaching in school now, since I have been a few years removed from that. A few. Wink, wink.
+
+The good mentee is open to learning. So is the good mentor. Some of the best updates to my own knowledge came from a brand new doctor who had just sat through the current version of a class I took a lifetime ago. Stay open to what the new kids know. They are carrying things you have not seen yet, and if you are not asking, you are wasting half the relationship.
+
+The mentor holds out a hand. The whole thing only works if you actually take it.
+---
+
+# Sometimes They Just Want to Vent
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-07-13
+**Section:** Culture
+**URL:** https://grayoakjournal.com/sometimes-they-just-want-to-vent/
+
+I have a friend who is one of the most loyal, have-your-back people I know. If I called her at 2 a.m. from the side of a road, she would be in the car before I finished the sentence. Most mornings you can find the two of us out walking our dogs together, which is really just proof that our dogs run our lives. Their social needs trump our sleeping in, every single time. And yet, for years, the two of us would butt heads over things I could never quite name. I would leave a conversation feeling prickly as a cactus, and I suspect she did too.
+
+The strange part was that the feeling was familiar.
+
+My husband used to do this to me sometimes. I love the man, and this is not a complaint about his character. But every so often I would tell him about my day and he would meet it with a better way I could have handled it. I would walk away feeling like I had failed some test I did not know I was taking. It was not malicious. He was in problem-solving mode, sure he was helping. I did not have the words for why it wore on me until we sat down and someone handed them to us.
+
+The two of us had attended a lecture by a well-known mental health professional who specializes in parent-child relationships. When a child comes to you and tells you about something that happened, she said, and your response is to explain how you would have handled it differently, the child does not hear help. The child hears a verdict. You are solving a problem that does not exist, and in the process you are telling them one does. Do this often enough and the message underneath becomes clear: I do not think you are capable of handling your own life. She said it erodes self-esteem one well-meaning correction at a time.
+
+Then she said the part that stuck. Often people are not asking you to fix anything. They just want to tell you what happened. They want a witness, not a consultant.
+
+That lecture named the thing my husband and I had been circling for years, and we went to work on it. Bad habits die hard. But we both got better at telling the difference between a problem to solve and a day to simply hear.
+
+So by the time I sat with the friction between me and my friend, I finally had a name for it. Every story I brought her came back to me sanded down into a lesson, a better route, a thing I might try next time. She was not being unkind. She loved me and she wanted to help. Once I understood it, she and I talked. These days I sometimes set the terms before I start. I am only telling you this, I am not looking for a solution.
+
+There is a version of this that belongs to our work. In veterinary medicine there are so many ways to work up and treat a case, and a good number of them are entirely appropriate. When you are forever telling a colleague how you would have done it differently, you are not just bruising their confidence. You are squashing their creativity, teaching them there is one right way through a case, yours, when medicine almost never has one right answer.
+
+And here is where I have to be honest about myself. I hated being fixed, but I still spent years being the fixer at work. It turns out the habit you resent in other people is the easiest one to miss in yourself.
+
+A colleague came to me about a case that was eating at her. A young family had come in with their two-year-old Labrador, an open fracture of a hind leg after being hit by a car. They wanted the best care possible for their dog. Money is no object, they told her. So she did what any of us would do with a young patient and a family who said that out loud. She referred them to the emergency hospital for an orthopedic consult. She mentioned amputation as an option before they left, but she did not press it.
+
+Later that day she heard back from the owners. The ortho salvage was out of their budget. They had said money was no object without any real sense of what orthopedic surgery costs in veterinary medicine, and by the time they learned, they were sitting in a specialty hospital with a number in front of them they could not make work.
+
+She came back to me still turning it over, asking herself the only question that mattered to her: should I have pushed harder. She was already deep in could’ve, should’ve, would’ve, already replaying the exam room.
+
+And I did what I used to do. I did not let her finish. Somewhere around the words open fracture and cannot afford the specialist, I had already done the math, and I could not get the answer out fast enough. Call the owners right now, I told her. Tell them we can do the amputation here. Your fee will come in well under an ortho salvage. It is the obvious answer.
+
+I was patting myself on the back when I noticed her face.
+
+The owners had opted for euthanasia at the specialty hospital. That was the part she had been getting to when I ran her over with my brilliant idea.
+
+I had not given her one piece of information she did not already have. She knew she could have done that surgery. She had been chewing on exactly that for days. What I gave her was a verdict. A colleague she respected, confirming the worst thing she had been whispering to herself, and doing it cheerfully, like it was a fun little puzzle I had solved in eight seconds. She had done the right thing with the information she had, and what she needed from me was someone to say that out loud. Instead I stomped on the self-doubt she was already carrying.
+
+> You are solving a problem that does not exist.
+
+I was solving a problem that did not exist, and in doing it I told her one did.
+
+My idea was clinically sound. I was still no help to her at all.
+
+So here is what I try to do now, and I offer it as someone who still fails at it regularly, not someone who has it solved.
+
+Any time I catch myself about to open with I would have, you should have, or we could have, I stop and ask what this conversation is actually for. Is this person venting? Then my job is to be the person they can vent to, full stop. That job is the easier of the two and we are terrible at it. That was awful. I am sorry. Tell me the rest. The urge to add value will scream at you. Ignore it. Nobody asked for value.
+
+Did they genuinely miss something clinical, something that changes the care of the next patient? Then it is a mentoring moment, and real mentoring almost never starts with the answer. It starts with a question, and not a leading one where you already know where you are steering. A real question, asked because you were not in that room and you do not actually know what she was weighing.
+
+What did the family tell you they could manage. What were you afraid of when you decided not to push it.
+
+I never asked her either of those things.
+
+That is the part that stays with me. I do not know what she was carrying that day. I have my guesses, and any vet reading this probably has the same ones. That she could not stomach taking a leg off a two-year-old Labrador who had most of his life ahead of him, not when a specialist might have saved it. That the family had told her money was no object and she took them at their word, because taking people at their word is how you build trust.
+
+And that phrase, money is no object, is one of the more dangerous sentences a client can say to us. Sometimes they mean it. Sometimes it is what people say when they have not yet seen the estimate, and money turns out to be very much the object once the number is on the table. We are not mind readers. We believe them, and then we get burned by it, and then we lie awake wondering what we should have done differently.
+
+Any of us could guess all of that. But I never asked, so I do not know, and I never will.
+
+What I do know is that she came to me carrying something heavy and left carrying more of it. That was not a knowledge gap I could have closed with a better idea. It was a moment I could only have met by shutting up.
+
+> The hardest part is trusting that listening counts as doing something. For those of us wired to fix, sitting still feels like failure. It is not. Some weeks the most useful thing you will do for a colleague is close your mouth, stay in the chair, and let them know you heard them.
+
+My friend and I still take those morning walks, dogs pulling us down the same wooded trails they always have. The difference is that we have both learned to just walk. To let a hard week be spoken out loud without turning it into a lesson. Funny thing. Now that neither of us is trying to fix everything between the trailhead and the turnaround, the walks are the most peaceful part of my day.
+---
+
+# Why Do Vets Still Take Pets to the Back?
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-07-03
+**Section:** Practice Management
+**URL:** https://grayoakjournal.com/taking-pets-to-the-back/
+
+When I was a kid, I tagged along whenever my mother took the family dog to the vet. At some point in every visit, someone in scrubs would appear, take the leash, and disappear through the door at the back of the exam room. Nobody explained where they were going. Nobody asked. The dog went to the back because the dog always went to the back. Shaking on her scrawny legs, trying to get purchase, scrabbling across the slick linoleum floor.
+
+I carried that assumption straight through vet school, where it got upgraded to policy. It was drilled into my head that owners should never be involved in restraint. Someone could get bitten, and then someone could get sued. Taking the pet to the treatment area was faster for the team and kinder to the client, who was spared the sight of a needle. I accepted every word of it, and for years I practiced exactly that way.
+
+I would love to tell you I changed because of a welfare epiphany. I did not. I changed because of square footage.
+
+I was running a four exam room hospital with a treatment area roughly the size of a hall closet. And we were busy. Two large dogs could not safely be back there at the same time. That was the entire constraint. Necessity signed us up for in-room care long before philosophy did.
+
+And once I was paying attention, I noticed what “efficient” actually looked like. You know this dog. The one rooting under mom’s arm searching for the invisibility cloak. The one wedged under the bench at the farthest reach of the leash. You extract him, drag him through the scary door, and then your assistant stands in treatment holding him, waiting for a second pair of hands to free up, because everyone back there is mid-task. Now she is playing peekaboo, hiding the anxious German shepherd from the cat on the treatment table who is out of kitty minutes. The blood draw takes ninety seconds. The waiting takes ten minutes. Then the dog returns to the exam room and spends the rest of the visit trying to become part of the floor.
+
+Now run the same visit without the field trip. The pet stays put. The owner does the one job she is better at than anyone on my payroll, which is being her dog’s person. She feeds treats and narrates the whole thing in a voice she would deny using in public. One trained team member holds. Another draws the sample. I am down the hall doing something that actually requires my license. Nobody waited on anybody, and the dog’s heart rate never hit the ceiling.
+
+I know the objection, because I used to make it myself. Efficiency. Running the pet to the back is supposed to be the fast option. It is not, and you do not have to take my word for it. Put a stopwatch on it. Time a friendly patient’s blood draw done in the room, then time the same draw the old way, door to door, including the stretch where your assistant stands in treatment waiting for a free set of hands. One of those numbers is going to embarrass the other. That is the whole argument. You do not lecture a practice out of a habit this old. You time it. It runs on the same logic as letting the doctor set the pace of the clinical day, the efficiency this series keeps circling back to.
+
+So we started doing everything we could in the room, client willing, and three things happened. Visits got faster. The pets were calmer. And clients started trusting us in a way I could feel.
+
+Because here is the sentence I have heard from new clients for twenty years: “The last vet took my dog to the back, and I have no idea what they did back there.” I am sure the last vet did nothing wrong. It does not matter. The door does the damage.
+
+Are there exceptions? Of course. The dog who genuinely guards his person. The client who goes gray at the sight of a needle. For them, the back exists, and I use it. Every pet gets a judgment call and every client gets asked.
+
+Nothing about this is fringe anymore. Fear Free built an entire certification around lowering fear, anxiety, and stress during visits. PetVet365 built a whole practice group committed to fear free care. VEG built its emergency model on clients staying with their pets, in an ER of all places, where the excuses for separation would be easiest to reach for. If an emergency room can keep families together during a crisis, I can manage it for a nail trim.
+
+So why is the habit still standing?
+
+I got a client’s-eye view recently. I took my own dog to a vet. They knew I was a veterinarian. They took him to the back anyway. I trusted that team completely, and that is exactly what made it instructive. Even with a DVM after my name and full confidence in the people behind the door, sitting there staring at it felt lousy. Now hand that feeling to a client with neither.
+
+The easy answer is that this is how we have always done it. But that was never a reason. It is a description of a reason we have forgotten. Habits this old survive because the original justifications still feel true, long after the facts underneath them have moved. So let’s be honest about what is actually left.
+
+There is logistics. The treatment area has the table, the good light, the supplies within reach. But most exam rooms are trivially easy to stock with what a routine visit actually needs. A towel, a syringe, a handful of tubes, nail clippers, styptic powder. Put a stocked drawer in every room and the room becomes the workshop for everything short of the hard cases.
+
+There is the fear of what the client might see. A quicked nail bleeds with a drama all out of proportion to the harm. An expressed gland is, let’s be honest, upsetting to witness if you did not come prepared for it. Both are routine, both look alarming to someone who has never seen them, and both can generate a complaint even when the medicine was perfect. So we take the pet to the back and spare everyone the sight. But the client still saw something. She saw the door close. And the closed door is the part she remembers, and repeats. We hid the small alarming thing and built a bigger one in its place. The door does the damage.
+
+Which leaves the reason nobody says out loud. We get nervous working in front of an audience.
+
+Working on a patient while someone watches is a skill, and nobody teaches it. My first associate job was in a practice with surgery windows facing the retail floor of a very, very large pet store. Shoppers with carts full of squeaky toys watched me operate. Nothing cures stage fright faster than a Saturday crowd watching you close. It was awful, and then it wasn’t, and I have been comfortable working in front of clients ever since.
+
+This is a mentoring problem, and mentoring problems are solvable. Start the new grads and young techs on the easy patients. Stand in the room with them until the shake leaves their hands. The skill comes. Mine came in front of a pet store.
+
+Try it for a week. Pick your friendliest patients, keep them in the room, and watch the clock. Then watch the dog leave with his tail up, and the client watch you do your work instead of wondering about it.
+
+The back can keep the dentals.
+---
+
+# How a Culture of No Takes Over a Veterinary Hospital
+
+**Author:** Dr. Susan Ries Valashinas
+**Published:** 2026-07-01
+**Section:** Leadership
+**URL:** https://grayoakjournal.com/culture-of-no/
+
+I was parked near the reception desk one morning, doing the thing you do when a new CSR is still finding her feet, half-watching, half-listening, ready to step in if a call went sideways. She was good, sharp and warm and eager to get it right. But somewhere around the third or fourth interaction, I started hearing a word on repeat.
+
+No.
+
+Could we get in today? No. Can the doctor refill that a few days early? No. Can I talk to the doctor the minute she is free? No.
+
+Nothing she said was wrong, exactly, and every no had a reason behind it if you went looking. What bothered me was the speed. There was no pause, no “let me check,” no flicker of maybe. The answer arrived before the question fully landed, and I stood there long enough to get curious about where she had learned to do that, because nobody trains a new hire to say no on instinct.
+
+So I thought back, and it did not take long to find the source.
+
+It was me.
+
+The thing about a reflex no is that it does not wait for the whole sentence. Think about your kid asking if he can ride his bike after dark. You hear “bike” and “after dark” and you are already shaking your head before he gets to the part where he is riding with his two best friends, and their parents are coming, and they are putting lights on the bikes and wearing the reflective vests from the garage. That is a different question, and it might even be a yes, but you never heard it, because the no fired before he got there.
+
+I had become that parent at work, except it was not my kid, it was my whole team. Somewhere along the way I had built a hospital where no was the house default, and I had done it one refusal at a time without ever deciding to.
+
+So I started wondering whether this was just me, or whether I was working against something older than my own bad habits.
+
+We like to tell ourselves that people are built to please, and socially, we are. We want to be liked and we want to be helpful, and most of us will sit through a meeting we never wanted to attend rather than face the small discomfort of declining. Yes is the polite instinct, the one that keeps the peace, and sometimes no is genuinely the right call, because a boundary held on purpose is one of the most useful words a leader owns. But underneath the polite instinct sits an older one, and it is not nearly as agreeable.
+
+The brain is wired with what researchers call a negativity bias, where bad news, threats, and risks get processed faster and weighted more heavily than good news of equal size. It shows up in infants by about six months old, which is why scientists call it hardwired rather than taught. No is the safe answer, because no protects, no commits you to nothing, and no cannot blow up in your face the way an unearned yes can. Every time I defaulted to no, some ancient part of my brain was congratulating me for dodging a threat that, in reality, was a client asking for a Saturday slot.
+
+The polite instinct says yes and the protective instinct says no, and in a busy hospital on a busy day, the protective one wins almost every time. It is faster, it feels responsible, and it had become the personality of my practice.
+
+To be fair to the no, the business case for it is real. A team that says yes to everything drowns, so no saves time. No saves the research a busy person does not have the hours to commit to. It keeps you from making promises you cannot keep, and a broken promise costs more trust than a clean refusal ever does. It guards against burnout, because every yes is a withdrawal from someone’s energy and the accounts are not bottomless. Business writers will tell you the ability to say no is a discipline, a sign of a leader who knows what the practice stands for, and they are not wrong.
+
+I believe in boundaries. I believe there are protocols you do not bend, medications you do not dispense early no matter how nicely you are asked, and clients whose “just this once” is neither just nor once. Some hills are worth dying on, and the standard of care is one of them. But a boundary is a system you build on purpose, not a reflex you fire on instinct, and the two are easy to confuse.
+
+So I am not here to tell you to turn your hospital into a place where the answer is always yes, because that is its own kind of mess. But here is the part the business case leaves out.
+
+When no is the house default, your team stops bringing you things. I do not mean they get lazy, I mean you have handed them an out, and it is a generous one. Why check the schedule for a Saturday opening if the answer is already no? Why ask the doctor about an early refill if you know what she will say? Why sit on the phone and problem-solve a worried owner when “no, sorry” closes the call in four seconds and nobody can fault you for following the rule?
+
+I had taught my staff that the safe answer was the right answer, and they learned it well. The trouble is that every reflex no is a conversation that ends before it starts. The client who might have been saved by a creative appointment never gets the chance, the new protocol nobody bothers to look into never gets tried, and the judgment that a “let me find out” would have built, one small problem at a time, never gets the reps. But the real cost is quieter than any of that. It is the employee who had a better way and learned to keep it to themselves. That is the one the efficiency argument never logs, because no is cheap today and expensive later. You save four seconds on the phone and lose the muscle that makes a team good.
+
+Nobody walks into work deciding to build a culture of no. You just say it a few hundred times, and one day you look up and it is who you are.
+
+There is a difference between a boundary and a trench, and I had stopped telling them apart. A boundary is a decision you defend because crossing it would hurt someone, the patient, the business, the morale of a team that is watching you hold it. A blanket no is different. It is just a reflex wearing a boundary’s clothes, and it usually announces itself with five words: that is how we do it here.
+
+I heard those words constantly during my relief years. One hospital gave an antibiotic injection before every single surgery, and when I asked about the reasoning, I did not get reasoning, I got “that is how we do it here.” I had questions about the medicine behind it, and I had more questions watching a fully awake dog take that injection, because that shot stings, and more than once I saw a tech jump back from a snap. The dog was not being bad. The dog was being honest. Once I was the one in charge, I still gave the injection, but I waited until the pet was groggy from a premed with pain control on board. Same protocol, same drug, far less pain for the patient and far less risk to the person holding it. It had simply always been done the other way, and “always” is not a clinical rationale.
+
+That is the thing about our field, where there are so many roads to the same right answer, so many drugs and sequences and workflows that all land the patient in the same healthy place. When “that is how we do it here” becomes the answer to every why, you are not protecting the standard, you are protecting the habit, and you are teaching everyone within earshot that curiosity is a waste of breath.
+
+Realizing I was the source was the easy part, and fixing it was not, because I had not just picked up a bad habit, I had taught one. Every reflexive no I had ever handed down, my team had absorbed and handed forward, all the way to a new CSR who had never once been told to say no and said it anyway. If I wanted a different answer coming out of my hospital, I had to go put a different one in. So I started saying yes on purpose, out loud, over and over, until it stuck, retraining a whole team one interaction at a time. We teach our teams how to answer, the same way we teach our clients how to treat us, and I had taught mine to refuse. Now I had to teach them to ask first.
+
+In practice it was small. When a manager or a new doctor wanted to try something a different way, “that is not how we do it” became “sure, show me what that looks like.” When a client asked about a protocol they had read about somewhere, “no” became “send me the research and I will read it too.” Half the time the idea did not pan out, and that was fine, because the point was never that every yes is right. The point was that the question got heard before the answer got given.
+
+Here is what that looks like when it works, even when it does not work. A new-graduate associate came to me wanting to try a method she had learned in school. I looked into it myself first. There was not much out there, but it seemed possible, so I let her run with it. It did not pan out. The plan had a gap she had not caught, and we sorted it out before it ever reached the patient.
+
+And it was still one of the best yeses I ever gave.
+
+She learned she needed to research more carefully before she committed, and I learned she trusted me enough to bring me an idea in the first place. She walked away feeling heard instead of shut down. A no would have cost me all of that, and I would never have known what I was missing, because the thing you lose to a reflex no is the thing that never happens.
+
+That is where empowerment actually starts, with a yes to the question. I wrote more about what it costs you when good people stop offering, and how to build a team that keeps bringing you the better way.
+
+So the next time the no rises up fast and easy, stop and price it out. What does yes actually cost here, and what does no cost, in trust, in momentum, in the small daily proof that someone heard you? If the no has a real reason behind it, hold the line. But if the only thing behind it is that no is easier, that is not a reason. That is just the old wiring, doing what it has always done.
+---
+
 # Empathy vs. Sympathy: The Most Misused Word in Veterinary Medicine
 
 **Author:** Dr. Susan Ries Valashinas
